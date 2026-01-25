@@ -1,7 +1,7 @@
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
-      .register("/sw.js", { scope: "/" })
+      .register("sw.js", { scope: "/" })
       .then((reg) => console.log("Service worker registered!", reg))
       .catch((err) => console.log("Service worker registration failed:", err));
   });
@@ -94,7 +94,7 @@ function render() {
   const currentWords = getWordsForPage(currentPage);
   const isRecap = currentPage % 6 === 0;
 
-  const pagination = document.querySelector('.pagination');
+  const pagination = document.querySelector(".pagination");
   if (isRecap) {
     pagination.style.marginBottom = "0px";
   } else {
@@ -157,7 +157,7 @@ async function syncAudioCache() {
     // Pre-download today's 5 words
     const start = (currentPage - 1) * 5;
     const todaysWords = words.slice(start, start + 5);
-    todaysWords.forEach((word) => downloadToCache(`/audio/${word.thai}.mp3`));
+    todaysWords.forEach((word) => downloadToCache(`audio/${word.thai}.mp3`));
   }
 }
 
@@ -172,7 +172,7 @@ async function downloadToCache(url) {
 async function playAudio(thaiText) {
   if (navigator.vibrate) navigator.vibrate(10);
 
-  const url = `/audio/${thaiText}.mp3`;
+  const url = `audio/${thaiText}.mp3`;
 
   // iPhone/Safari friendly approach:
   // We check the cache, but we play from the URL.
