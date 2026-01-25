@@ -34,7 +34,7 @@ Cache Storage API: Manages a self-cleaning audio cache for offline playback.
 * **Toggle English:** Hide translations to test your memory.
 
 ## 🚀 Installation & Setup
-1.  **Clone the Repo:** git clone https://github.com/yourusername/ha-daily.git
+1.  **Clone the Repo:** git clone https://github.com/carefulCamel61097/ha-daily.git
 2.  **Install Dependencies:** npm install
 3.  **Run Development Server:** npm run dev
 4.  **Build for Production (GitHub Pages / Pi):** npm run build
