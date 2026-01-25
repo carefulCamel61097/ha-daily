@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ha-Daily</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#0B1221" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+    <link rel="apple-touch-icon" href="icon.svg" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta name="mobile-web-app-capable" content="yes" />
+  </head>
+  <body>
+    <div id="app">
+      <div class="controls">
+        <button id="toggleThai">Hide Thai</button>
+        <button id="toggleEn">Hide English</button>
+        <button id="toggleScript">Use Romanized</button>
+      </div>
+
+      <div class="pagination">
+        <button class="nav-btn" id="prevBtn">‹</button>
+        <div class="page-indicator">
+          <input type="number" id="pageInput" min="1" value="1" />
+          <span id="totalPages">/ 200</span>
+        </div>
+        <button class="nav-btn" id="nextBtn">›</button>
+      </div>
+
+      <div id="wordList" class="word-list"></div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
