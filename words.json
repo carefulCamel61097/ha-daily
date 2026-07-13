@@ -1,6002 +1,6002 @@
 [
-  {
-    "nr": 1,
-    "thai": "ฉัน",
-    "romanization": "chan",
-    "english": "I"
-  },
-  {
-    "nr": 2,
-    "thai": "ไม่",
-    "romanization": "mai",
-    "english": "no"
-  },
-  {
-    "nr": 3,
-    "thai": "จะ",
-    "romanization": "cha",
-    "english": "will"
-  },
-  {
-    "nr": 4,
-    "thai": "คุณ",
-    "romanization": "khun",
-    "english": "you"
-  },
-  {
-    "nr": 5,
-    "thai": "ที่",
-    "romanization": "thi",
-    "english": "at"
-  },
-  {
-    "nr": 6,
-    "thai": "ได้",
-    "romanization": "dai",
-    "english": "can"
-  },
-  {
-    "nr": 7,
-    "thai": "ไป",
-    "romanization": "pai",
-    "english": "go"
-  },
-  {
-    "nr": 8,
-    "thai": "เธอ",
-    "romanization": "thoe",
-    "english": "you"
-  },
-  {
-    "nr": 9,
-    "thai": "มัน",
-    "romanization": "man",
-    "english": "it"
-  },
-  {
-    "nr": 10,
-    "thai": "ผม",
-    "romanization": "phom",
-    "english": "hair"
-  },
-  {
-    "nr": 11,
-    "thai": "ของ",
-    "romanization": "khong",
-    "english": "of"
-  },
-  {
-    "nr": 12,
-    "thai": "ว่า",
-    "romanization": "wa",
-    "english": "that"
-  },
-  {
-    "nr": 13,
-    "thai": "แล้ว",
-    "romanization": "laeo",
-    "english": "already"
-  },
-  {
-    "nr": 14,
-    "thai": "เป็น",
-    "romanization": "pen",
-    "english": "is"
-  },
-  {
-    "nr": 15,
-    "thai": "นะ",
-    "romanization": "na",
-    "english": "Na"
-  },
-  {
-    "nr": 16,
-    "thai": "อะไร",
-    "romanization": "arai",
-    "english": "what"
-  },
-  {
-    "nr": 17,
-    "thai": "ก็",
-    "romanization": "ko",
-    "english": "also"
-  },
-  {
-    "nr": 18,
-    "thai": "เรา",
-    "romanization": "rao",
-    "english": "we"
-  },
-  {
-    "nr": 19,
-    "thai": "มี",
-    "romanization": "mi",
-    "english": "have"
-  },
-  {
-    "nr": 20,
-    "thai": "เขา",
-    "romanization": "khao",
-    "english": "he"
-  },
-  {
-    "nr": 21,
-    "thai": "มา",
-    "romanization": "ma",
-    "english": "come"
-  },
-  {
-    "nr": 22,
-    "thai": "ให้",
-    "romanization": "hai",
-    "english": "give"
-  },
-  {
-    "nr": 23,
-    "thai": "อยู่",
-    "romanization": "yu",
-    "english": "live"
-  },
-  {
-    "nr": 24,
-    "thai": "กับ",
-    "romanization": "kap",
-    "english": "with"
-  },
-  {
-    "nr": 25,
-    "thai": "นี่",
-    "romanization": "ni",
-    "english": "this"
-  },
-  {
-    "nr": 26,
-    "thai": "เลย",
-    "romanization": "loei",
-    "english": "at all"
-  },
-  {
-    "nr": 27,
-    "thai": "ใน",
-    "romanization": "nai",
-    "english": "in"
-  },
-  {
-    "nr": 28,
-    "thai": "ทำ",
-    "romanization": "tham",
-    "english": "do"
-  },
-  {
-    "nr": 29,
-    "thai": "ใช่",
-    "romanization": "chai",
-    "english": "yes"
-  },
-  {
-    "nr": 30,
-    "thai": "และ",
-    "romanization": "lae",
-    "english": "and"
-  },
-  {
-    "nr": 31,
-    "thai": "ต้อง",
-    "romanization": "tong",
-    "english": "must"
-  },
-  {
-    "nr": 32,
-    "thai": "คน",
-    "romanization": "khon",
-    "english": "person"
-  },
-  {
-    "nr": 33,
-    "thai": "นาย",
-    "romanization": "nai",
-    "english": "Mr."
-  },
-  {
-    "nr": 34,
-    "thai": "แต่",
-    "romanization": "tae",
-    "english": "but"
-  },
-  {
-    "nr": 35,
-    "thai": "นี้",
-    "romanization": "ni",
-    "english": "this"
-  },
-  {
-    "nr": 36,
-    "thai": "รู้",
-    "romanization": "ru",
-    "english": "know"
-  },
-  {
-    "nr": 37,
-    "thai": "ครับ",
-    "romanization": "khrap",
-    "english": "yes"
-  },
-  {
-    "nr": 38,
-    "thai": "เหรอ",
-    "romanization": "roe",
-    "english": "really?"
-  },
-  {
-    "nr": 39,
-    "thai": "ถ้า",
-    "romanization": "tha",
-    "english": "if"
-  },
-  {
-    "nr": 40,
-    "thai": "กัน",
-    "romanization": "kan",
-    "english": "together"
-  },
-  {
-    "nr": 41,
-    "thai": "ด้วย",
-    "romanization": "duai",
-    "english": "too"
-  },
-  {
-    "nr": 42,
-    "thai": "ๆ",
-    "romanization": "",
-    "english": "etc."
-  },
-  {
-    "nr": 43,
-    "thai": "พวก",
-    "romanization": "phuak",
-    "english": "They"
-  },
-  {
-    "nr": 44,
-    "thai": "คิด",
-    "romanization": "khit",
-    "english": "think"
-  },
-  {
-    "nr": 45,
-    "thai": "นั้น",
-    "romanization": "nan",
-    "english": "that"
-  },
-  {
-    "nr": 46,
-    "thai": "ข้า",
-    "romanization": "kha",
-    "english": "I"
-  },
-  {
-    "nr": 47,
-    "thai": "คือ",
-    "romanization": "khue",
-    "english": "is"
-  },
-  {
-    "nr": 48,
-    "thai": "ดี",
-    "romanization": "di",
-    "english": "good"
-  },
-  {
-    "nr": 49,
-    "thai": "เรื่อง",
-    "romanization": "rueang",
-    "english": "subject"
-  },
-  {
-    "nr": 50,
-    "thai": "ล่ะ",
-    "romanization": "la",
-    "english": "Well?"
-  },
-  {
-    "nr": 51,
-    "thai": "ทำไม",
-    "romanization": "thammai",
-    "english": "Why"
-  },
-  {
-    "nr": 52,
-    "thai": "ค่ะ",
-    "romanization": "kha",
-    "english": "yes"
-  },
-  {
-    "nr": 53,
-    "thai": "อยาก",
-    "romanization": "yak",
-    "english": "want"
-  },
-  {
-    "nr": 54,
-    "thai": "บอก",
-    "romanization": "bok",
-    "english": "tell"
-  },
-  {
-    "nr": 55,
-    "thai": "นั่น",
-    "romanization": "nan",
-    "english": "that"
-  },
-  {
-    "nr": 56,
-    "thai": "การ",
-    "romanization": "kan",
-    "english": "action"
-  },
-  {
-    "nr": 57,
-    "thai": "มาก",
-    "romanization": "mak",
-    "english": "a lot"
-  },
-  {
-    "nr": 58,
-    "thai": "สิ",
-    "romanization": "si",
-    "english": "Si"
-  },
-  {
-    "nr": 59,
-    "thai": "ยัง",
-    "romanization": "yang",
-    "english": "not yet"
-  },
-  {
-    "nr": 60,
-    "thai": "มั้ย",
-    "romanization": "mai",
-    "english": "Right?"
-  },
-  {
-    "nr": 61,
-    "thai": "แค่",
-    "romanization": "khae",
-    "english": "just"
-  },
-  {
-    "nr": 62,
-    "thai": "ใคร",
-    "romanization": "khrai",
-    "english": "who"
-  },
-  {
-    "nr": 63,
-    "thai": "น่ะ",
-    "romanization": "na",
-    "english": "Okay."
-  },
-  {
-    "nr": 64,
-    "thai": "พูด",
-    "romanization": "phut",
-    "english": "speak"
-  },
-  {
-    "nr": 65,
-    "thai": "เจ้า",
-    "romanization": "chao",
-    "english": "owner"
-  },
-  {
-    "nr": 66,
-    "thai": "อีก",
-    "romanization": "ik",
-    "english": "more"
-  },
-  {
-    "nr": 67,
-    "thai": "อย่าง",
-    "romanization": "yang",
-    "english": "at"
-  },
-  {
-    "nr": 68,
-    "thai": "แม่",
-    "romanization": "mae",
-    "english": "mother"
-  },
-  {
-    "nr": 69,
-    "thai": "จาก",
-    "romanization": "chak",
-    "english": "from"
-  },
-  {
-    "nr": 70,
-    "thai": "ดู",
-    "romanization": "du",
-    "english": "watch"
-  },
-  {
-    "nr": 71,
-    "thai": "พ่อ",
-    "romanization": "pho",
-    "english": "father"
-  },
-  {
-    "nr": 72,
-    "thai": "ท่าน",
-    "romanization": "than",
-    "english": "Sir"
-  },
-  {
-    "nr": 73,
-    "thai": "ถึง",
-    "romanization": "thueng",
-    "english": "to"
-  },
-  {
-    "nr": 74,
-    "thai": "หรือ",
-    "romanization": "rue",
-    "english": "or"
-  },
-  {
-    "nr": 75,
-    "thai": "เอา",
-    "romanization": "ao",
-    "english": "take"
-  },
-  {
-    "nr": 76,
-    "thai": "งั้น",
-    "romanization": "ngan",
-    "english": "otherwise"
-  },
-  {
-    "nr": 77,
-    "thai": "กำลัง",
-    "romanization": "kamlang",
-    "english": "energy"
-  },
-  {
-    "nr": 78,
-    "thai": "พวกเขา",
-    "romanization": "phuak khao",
-    "english": "they"
-  },
-  {
-    "nr": 79,
-    "thai": "ที่นี่",
-    "romanization": "thi ni",
-    "english": "here"
-  },
-  {
-    "nr": 80,
-    "thai": "ยังไง",
-    "romanization": "yang ngai",
-    "english": "how"
-  },
-  {
-    "nr": 81,
-    "thai": "ไหม",
-    "romanization": "mai",
-    "english": "silk"
-  },
-  {
-    "nr": 82,
-    "thai": "ถูก",
-    "romanization": "thuk",
-    "english": "cheap"
-  },
-  {
-    "nr": 83,
-    "thai": "เห็น",
-    "romanization": "hen",
-    "english": "see"
-  },
-  {
-    "nr": 84,
-    "thai": "กว่า",
-    "romanization": "kwa",
-    "english": "than"
-  },
-  {
-    "nr": 85,
-    "thai": "เคย",
-    "romanization": "khoei",
-    "english": "ever"
-  },
-  {
-    "nr": 86,
-    "thai": "ทำให้",
-    "romanization": "tham hai",
-    "english": "make"
-  },
-  {
-    "nr": 87,
-    "thai": "อย่า",
-    "romanization": "ya",
-    "english": "do not"
-  },
-  {
-    "nr": 88,
-    "thai": "ที่จะ",
-    "romanization": "thi cha",
-    "english": "to"
-  },
-  {
-    "nr": 89,
-    "thai": "ไว้",
-    "romanization": "wai",
-    "english": "hold"
-  },
-  {
-    "nr": 90,
-    "thai": "ตอนนี้",
-    "romanization": "ton ni",
-    "english": "now"
-  },
-  {
-    "nr": 91,
-    "thai": "เพราะ",
-    "romanization": "phro",
-    "english": "because"
-  },
-  {
-    "nr": 92,
-    "thai": "หรอก",
-    "romanization": "rok",
-    "english": "Really?"
-  },
-  {
-    "nr": 93,
-    "thai": "สิ่ง",
-    "romanization": "sing",
-    "english": "thing"
-  },
-  {
-    "nr": 94,
-    "thai": "ไง",
-    "romanization": "ngai",
-    "english": "how"
-  },
-  {
-    "nr": 95,
-    "thai": "ช่วย",
-    "romanization": "chuai",
-    "english": "help"
-  },
-  {
-    "nr": 96,
-    "thai": "จริงๆ",
-    "romanization": "ching ching",
-    "english": "really"
-  },
-  {
-    "nr": 97,
-    "thai": "ต้องการ",
-    "romanization": "tong kan",
-    "english": "need"
-  },
-  {
-    "nr": 98,
-    "thai": "เค้า",
-    "romanization": "khao",
-    "english": "He"
-  },
-  {
-    "nr": 99,
-    "thai": "ออก",
-    "romanization": "ok",
-    "english": "leave"
-  },
-  {
-    "nr": 100,
-    "thai": "ไหน",
-    "romanization": "nai",
-    "english": "which"
-  },
-  {
-    "nr": 101,
-    "thai": "แก",
-    "romanization": "kae",
-    "english": "for"
-  },
-  {
-    "nr": 102,
-    "thai": "ก่อน",
-    "romanization": "kon",
-    "english": "before"
-  },
-  {
-    "nr": 103,
-    "thai": "ชั้น",
-    "romanization": "chan",
-    "english": "floor"
-  },
-  {
-    "nr": 104,
-    "thai": "คะ",
-    "romanization": "kha",
-    "english": "yes"
-  },
-  {
-    "nr": 105,
-    "thai": "เพื่อ",
-    "romanization": "phuea",
-    "english": "to"
-  },
-  {
-    "nr": 106,
-    "thai": "ขึ้น",
-    "romanization": "khuen",
-    "english": "climb"
-  },
-  {
-    "nr": 107,
-    "thai": "พวกเรา",
-    "romanization": "phuak rao",
-    "english": "we"
-  },
-  {
-    "nr": 108,
-    "thai": "เอง",
-    "romanization": "eng",
-    "english": "myself"
-  },
-  {
-    "nr": 109,
-    "thai": "ลูก",
-    "romanization": "luk",
-    "english": "child"
-  },
-  {
-    "nr": 110,
-    "thai": "พี่",
-    "romanization": "phi",
-    "english": "elder sibling"
-  },
-  {
-    "nr": 111,
-    "thai": "เถอะ",
-    "romanization": "thoe",
-    "english": "Let's go"
-  },
-  {
-    "nr": 112,
-    "thai": "ตาย",
-    "romanization": "tai",
-    "english": "dead"
-  },
-  {
-    "nr": 113,
-    "thai": "แบบ",
-    "romanization": "baep",
-    "english": "type"
-  },
-  {
-    "nr": 114,
-    "thai": "คง",
-    "romanization": "khong",
-    "english": "probably"
-  },
-  {
-    "nr": 115,
-    "thai": "หน่อย",
-    "romanization": "noi",
-    "english": "bit"
-  },
-  {
-    "nr": 116,
-    "thai": "ขอโทษ",
-    "romanization": "kho thot",
-    "english": "excuse me"
-  },
-  {
-    "nr": 117,
-    "thai": "สามารถ",
-    "romanization": "samat",
-    "english": "can"
-  },
-  {
-    "nr": 118,
-    "thai": "ขอบคุณ",
-    "romanization": "khop khun",
-    "english": "thank you"
-  },
-  {
-    "nr": 119,
-    "thai": "หนู",
-    "romanization": "nu",
-    "english": "mouse"
-  },
-  {
-    "nr": 120,
-    "thai": "โอเค",
-    "romanization": "okhe",
-    "english": "okay"
-  },
-  {
-    "nr": 121,
-    "thai": "ชอบ",
-    "romanization": "chop",
-    "english": "like"
-  },
-  {
-    "nr": 122,
-    "thai": "เหมือน",
-    "romanization": "muean",
-    "english": "like"
-  },
-  {
-    "nr": 123,
-    "thai": "หรอ",
-    "romanization": "ro",
-    "english": "Really?"
-  },
-  {
-    "nr": 124,
-    "thai": "หา",
-    "romanization": "ha",
-    "english": "look for"
-  },
-  {
-    "nr": 125,
-    "thai": "บอ",
-    "romanization": "bo",
-    "english": "Bo"
-  },
-  {
-    "nr": 126,
-    "thai": "สำหรับ",
-    "romanization": "samrap",
-    "english": "for"
-  },
-  {
-    "nr": 127,
-    "thai": "ซะ",
-    "romanization": "sa",
-    "english": "Sa"
-  },
-  {
-    "nr": 128,
-    "thai": "แบบนี้",
-    "romanization": "baep ni",
-    "english": "like this"
-  },
-  {
-    "nr": 129,
-    "thai": "น",
-    "romanization": "?",
-    "english": "N"
-  },
-  {
-    "nr": 130,
-    "thai": "ใช้",
-    "romanization": "chai",
-    "english": "use"
-  },
-  {
-    "nr": 131,
-    "thai": "เกิด",
-    "romanization": "koet",
-    "english": "happen"
-  },
-  {
-    "nr": 132,
-    "thai": "เจอ",
-    "romanization": "choe",
-    "english": "meet"
-  },
-  {
-    "nr": 133,
-    "thai": "รู้สึก",
-    "romanization": "ru suek",
-    "english": "feel"
-  },
-  {
-    "nr": 134,
-    "thai": "ตัว",
-    "romanization": "tua",
-    "english": "one"
-  },
-  {
-    "nr": 135,
-    "thai": "เข้าใจ",
-    "romanization": "khao chai",
-    "english": "understand"
-  },
-  {
-    "nr": 136,
-    "thai": "โอ้",
-    "romanization": "o",
-    "english": "oh"
-  },
-  {
-    "nr": 137,
-    "thai": "เมื่อ",
-    "romanization": "muea",
-    "english": "when"
-  },
-  {
-    "nr": 138,
-    "thai": "กลับ",
-    "romanization": "klap",
-    "english": "go back"
-  },
-  {
-    "nr": 139,
-    "thai": "เด็ก",
-    "romanization": "dek",
-    "english": "child"
-  },
-  {
-    "nr": 140,
-    "thai": "ขอ",
-    "romanization": "kho",
-    "english": "please"
-  },
-  {
-    "nr": 141,
-    "thai": "จริง",
-    "romanization": "ching",
-    "english": "TRUE"
-  },
-  {
-    "nr": 142,
-    "thai": "บ้าง",
-    "romanization": "bang",
-    "english": "some"
-  },
-  {
-    "nr": 143,
-    "thai": "เร็ว",
-    "romanization": "reo",
-    "english": "fast"
-  },
-  {
-    "nr": 144,
-    "thai": "เวลา",
-    "romanization": "wela",
-    "english": "time"
-  },
-  {
-    "nr": 145,
-    "thai": "บ้าน",
-    "romanization": "ban",
-    "english": "house"
-  },
-  {
-    "nr": 146,
-    "thai": "ฟัง",
-    "romanization": "fang",
-    "english": "listen"
-  },
-  {
-    "nr": 147,
-    "thai": "น่า",
-    "romanization": "na",
-    "english": "probably"
-  },
-  {
-    "nr": 148,
-    "thai": "ฆ่า",
-    "romanization": "kha",
-    "english": "kill"
-  },
-  {
-    "nr": 149,
-    "thai": "ใช่ไหม",
-    "romanization": "chai mai",
-    "english": "Right?"
-  },
-  {
-    "nr": 150,
-    "thai": "หยุด",
-    "romanization": "yut",
-    "english": "stop"
-  },
-  {
-    "nr": 151,
-    "thai": "มิ",
-    "romanization": "mi",
-    "english": "Mi"
-  },
-  {
-    "nr": 152,
-    "thai": "พบ",
-    "romanization": "phop",
-    "english": "meet"
-  },
-  {
-    "nr": 153,
-    "thai": "เข้า",
-    "romanization": "khao",
-    "english": "enter"
-  },
-  {
-    "nr": 154,
-    "thai": "กลับมา",
-    "romanization": "klap ma",
-    "english": "return"
-  },
-  {
-    "nr": 155,
-    "thai": "ลง",
-    "romanization": "long",
-    "english": "go down"
-  },
-  {
-    "nr": 156,
-    "thai": "อาจจะ",
-    "romanization": "at cha",
-    "english": "may"
-  },
-  {
-    "nr": 157,
-    "thai": "ส",
-    "romanization": "?",
-    "english": "S"
-  },
-  {
-    "nr": 158,
-    "thai": "ปี",
-    "romanization": "pi",
-    "english": "year"
-  },
-  {
-    "nr": 159,
-    "thai": "ทั้งหมด",
-    "romanization": "thang mot",
-    "english": "all"
-  },
-  {
-    "nr": 160,
-    "thai": "รอ",
-    "romanization": "ro",
-    "english": "wait"
-  },
-  {
-    "nr": 161,
-    "thai": "กิน",
-    "romanization": "kin",
-    "english": "eat"
-  },
-  {
-    "nr": 162,
-    "thai": "ริ",
-    "romanization": "ri",
-    "english": "Ri"
-  },
-  {
-    "nr": 163,
-    "thai": "ที่สุด",
-    "romanization": "thi sut",
-    "english": "the most"
-  },
-  {
-    "nr": 164,
-    "thai": "วัน",
-    "romanization": "wan",
-    "english": "day"
-  },
-  {
-    "nr": 165,
-    "thai": "อย่างนั้น",
-    "romanization": "yang nan",
-    "english": "Like that."
-  },
-  {
-    "nr": 166,
-    "thai": "ทุกคน",
-    "romanization": "thuk khon",
-    "english": "everyone"
-  },
-  {
-    "nr": 167,
-    "thai": "ไม่ต้อง",
-    "romanization": "mai tong",
-    "english": "do not need"
-  },
-  {
-    "nr": 168,
-    "thai": "ทำงาน",
-    "romanization": "tham ngan",
-    "english": "work"
-  },
-  {
-    "nr": 169,
-    "thai": "อร",
-    "romanization": "on",
-    "english": "Or"
-  },
-  {
-    "nr": 170,
-    "thai": "ได้ยิน",
-    "romanization": "dai yin",
-    "english": "heard"
-  },
-  {
-    "nr": 171,
-    "thai": "เกี่ยวกับ",
-    "romanization": "kiao kap",
-    "english": "about"
-  },
-  {
-    "nr": 172,
-    "thai": "ล",
-    "romanization": "la",
-    "english": "L"
-  },
-  {
-    "nr": 173,
-    "thai": "รัก",
-    "romanization": "rak",
-    "english": "love"
-  },
-  {
-    "nr": 174,
-    "thai": "เนี่ย",
-    "romanization": "nia",
-    "english": "This one"
-  },
-  {
-    "nr": 175,
-    "thai": "สอง",
-    "romanization": "song",
-    "english": "two"
-  },
-  {
-    "nr": 176,
-    "thai": "จัง",
-    "romanization": "chang",
-    "english": "Jang"
-  },
-  {
-    "nr": 177,
-    "thai": "ก็ได้",
-    "romanization": "ko dai",
-    "english": "okay"
-  },
-  {
-    "nr": 178,
-    "thai": "โอ",
-    "romanization": "o",
-    "english": "oh"
-  },
-  {
-    "nr": 179,
-    "thai": "ส่ง",
-    "romanization": "song",
-    "english": "send"
-  },
-  {
-    "nr": 180,
-    "thai": "โดย",
-    "romanization": "doi",
-    "english": "by"
-  },
-  {
-    "nr": 181,
-    "thai": "ผู้หญิง",
-    "romanization": "phu ying",
-    "english": "woman"
-  },
-  {
-    "nr": 182,
-    "thai": "วันนี้",
-    "romanization": "wan ni",
-    "english": "today"
-  },
-  {
-    "nr": 183,
-    "thai": "ละ",
-    "romanization": "la",
-    "english": "per"
-  },
-  {
-    "nr": 184,
-    "thai": "แน่",
-    "romanization": "nae",
-    "english": "Definitely"
-  },
-  {
-    "nr": 185,
-    "thai": "พยายาม",
-    "romanization": "phayayam",
-    "english": "try"
-  },
-  {
-    "nr": 186,
-    "thai": "เริ่ม",
-    "romanization": "roem",
-    "english": "start"
-  },
-  {
-    "nr": 187,
-    "thai": "ควร",
-    "romanization": "khuan",
-    "english": "should"
-  },
-  {
-    "nr": 188,
-    "thai": "หนึ่ง",
-    "romanization": "nueng",
-    "english": "one"
-  },
-  {
-    "nr": 189,
-    "thai": "งาน",
-    "romanization": "ngan",
-    "english": "work"
-  },
-  {
-    "nr": 190,
-    "thai": "เหมือนกัน",
-    "romanization": "muean kan",
-    "english": "the same"
-  },
-  {
-    "nr": 191,
-    "thai": "ทาง",
-    "romanization": "thang",
-    "english": "way"
-  },
-  {
-    "nr": 192,
-    "thai": "ตัวเอง",
-    "romanization": "tua eng",
-    "english": "myself"
-  },
-  {
-    "nr": 193,
-    "thai": "ทุกอย่าง",
-    "romanization": "thuk yang",
-    "english": "everything"
-  },
-  {
-    "nr": 194,
-    "thai": "เชื่อ",
-    "romanization": "chuea",
-    "english": "believe"
-  },
-  {
-    "nr": 195,
-    "thai": "ไม่เป็นไร",
-    "romanization": "mai pen rai",
-    "english": "nevermind"
-  },
-  {
-    "nr": 196,
-    "thai": "คุย",
-    "romanization": "khui",
-    "english": "talk"
-  },
-  {
-    "nr": 197,
-    "thai": "รึ",
-    "romanization": "rue",
-    "english": "Really?"
-  },
-  {
-    "nr": 198,
-    "thai": "เดี๋ยว",
-    "romanization": "diao",
-    "english": "wait a minute"
-  },
-  {
-    "nr": 199,
-    "thai": "ตอน",
-    "romanization": "ton",
-    "english": "section"
-  },
-  {
-    "nr": 200,
-    "thai": "ใหม่",
-    "romanization": "mai",
-    "english": "new"
-  },
-  {
-    "nr": 201,
-    "thai": "นา",
-    "romanization": "na",
-    "english": "rice paddy"
-  },
-  {
-    "nr": 202,
-    "thai": "เพื่อน",
-    "romanization": "phuean",
-    "english": "friend"
-  },
-  {
-    "nr": 203,
-    "thai": "อา",
-    "romanization": "a",
-    "english": "uncle"
-  },
-  {
-    "nr": 204,
-    "thai": "ไอ้",
-    "romanization": "ai",
-    "english": "Hey"
-  },
-  {
-    "nr": 205,
-    "thai": "ซิ",
-    "romanization": "si",
-    "english": "Si"
-  },
-  {
-    "nr": 206,
-    "thai": "ปล่อย",
-    "romanization": "ploi",
-    "english": "release"
-  },
-  {
-    "nr": 207,
-    "thai": "บ้า",
-    "romanization": "ba",
-    "english": "crazy"
-  },
-  {
-    "nr": 208,
-    "thai": "ชื่อ",
-    "romanization": "chue",
-    "english": "name"
-  },
-  {
-    "nr": 209,
-    "thai": "บน",
-    "romanization": "bon",
-    "english": "on"
-  },
-  {
-    "nr": 210,
-    "thai": "ต่อ",
-    "romanization": "to",
-    "english": "continue"
-  },
-  {
-    "nr": 211,
-    "thai": "เฮ้",
-    "romanization": "he",
-    "english": "Hey!"
-  },
-  {
-    "nr": 212,
-    "thai": "เล่น",
-    "romanization": "len",
-    "english": "play"
-  },
-  {
-    "nr": 213,
-    "thai": "นะคะ",
-    "romanization": "nakha",
-    "english": "Okay?"
-  },
-  {
-    "nr": 214,
-    "thai": "พอ",
-    "romanization": "pho",
-    "english": "enough"
-  },
-  {
-    "nr": 215,
-    "thai": "ที่ไหน",
-    "romanization": "thi nai",
-    "english": "where"
-  },
-  {
-    "nr": 216,
-    "thai": "พา",
-    "romanization": "pha",
-    "english": "Take"
-  },
-  {
-    "nr": 217,
-    "thai": "โทร",
-    "romanization": "tho",
-    "english": "phone"
-  },
-  {
-    "nr": 218,
-    "thai": "เอ",
-    "romanization": "e",
-    "english": "A"
-  },
-  {
-    "nr": 219,
-    "thai": "ออกมา",
-    "romanization": "ok ma",
-    "english": "Come out"
-  },
-  {
-    "nr": 220,
-    "thai": "เรียก",
-    "romanization": "riak",
-    "english": "Call"
-  },
-  {
-    "nr": 221,
-    "thai": "โปรด",
-    "romanization": "prot",
-    "english": "please"
-  },
-  {
-    "nr": 222,
-    "thai": "ที",
-    "romanization": "thi",
-    "english": "time"
-  },
-  {
-    "nr": 223,
-    "thai": "น่าจะ",
-    "romanization": "na cha",
-    "english": "probably"
-  },
-  {
-    "nr": 224,
-    "thai": "หมด",
-    "romanization": "mot",
-    "english": "ant"
-  },
-  {
-    "nr": 225,
-    "thai": "ได้รับ",
-    "romanization": "dai rap",
-    "english": "receive"
-  },
-  {
-    "nr": 226,
-    "thai": "ค",
-    "romanization": "",
-    "english": "C"
-  },
-  {
-    "nr": 227,
-    "thai": "ชีวิต",
-    "romanization": "chiwit",
-    "english": "life"
-  },
-  {
-    "nr": 228,
-    "thai": "แล้วก็",
-    "romanization": "laeo ko",
-    "english": "And then..."
-  },
-  {
-    "nr": 229,
-    "thai": "อาจ",
-    "romanization": "at",
-    "english": "might"
-  },
-  {
-    "nr": 230,
-    "thai": "รู้จัก",
-    "romanization": "ru chak",
-    "english": "know"
-  },
-  {
-    "nr": 231,
-    "thai": "แน่นอน",
-    "romanization": "nae non",
-    "english": "certain"
-  },
-  {
-    "nr": 232,
-    "thai": "เข้าไป",
-    "romanization": "khao pai",
-    "english": "into"
-  },
-  {
-    "nr": 233,
-    "thai": "กำลังจะ",
-    "romanization": "kamlang cha",
-    "english": "About to"
-  },
-  {
-    "nr": 234,
-    "thai": "ใส่",
-    "romanization": "sai",
-    "english": "wear"
-  },
-  {
-    "nr": 235,
-    "thai": "เกิดขึ้น",
-    "romanization": "koet khuen",
-    "english": "occur"
-  },
-  {
-    "nr": 236,
-    "thai": "ซา",
-    "romanization": "sa",
-    "english": "Sa"
-  },
-  {
-    "nr": 237,
-    "thai": "ห้อง",
-    "romanization": "hong",
-    "english": "room"
-  },
-  {
-    "nr": 238,
-    "thai": "ตอนที่",
-    "romanization": "tonthi",
-    "english": "Episode"
-  },
-  {
-    "nr": 239,
-    "thai": "ซู",
-    "romanization": "su",
-    "english": "Su"
-  },
-  {
-    "nr": 240,
-    "thai": "เดียว",
-    "romanization": "diao",
-    "english": "single"
-  },
-  {
-    "nr": 241,
-    "thai": "ถาม",
-    "romanization": "tham",
-    "english": "ask"
-  },
-  {
-    "nr": 242,
-    "thai": "เงิน",
-    "romanization": "ngoen",
-    "english": "money"
-  },
-  {
-    "nr": 243,
-    "thai": "นาน",
-    "romanization": "nan",
-    "english": "long"
-  },
-  {
-    "nr": 244,
-    "thai": "เข้ามา",
-    "romanization": "khao ma",
-    "english": "Come in."
-  },
-  {
-    "nr": 245,
-    "thai": "พระเจ้า",
-    "romanization": "phra chao",
-    "english": "God"
-  },
-  {
-    "nr": 246,
-    "thai": "ฮา",
-    "romanization": "ha",
-    "english": "Haha"
-  },
-  {
-    "nr": 247,
-    "thai": "ควรจะ",
-    "romanization": "khuan cha",
-    "english": "Should"
-  },
-  {
-    "nr": 248,
-    "thai": "ผู้ชาย",
-    "romanization": "phu chai",
-    "english": "man"
-  },
-  {
-    "nr": 249,
-    "thai": "หรือเปล่า",
-    "romanization": "rue plao",
-    "english": "Or not?"
-  },
-  {
-    "nr": 250,
-    "thai": "มาจาก",
-    "romanization": "ma chak",
-    "english": "come from"
-  },
-  {
-    "nr": 251,
-    "thai": "ตาม",
-    "romanization": "tam",
-    "english": "follow"
-  },
-  {
-    "nr": 252,
-    "thai": "ดีกว่า",
-    "romanization": "di kwa",
-    "english": "better"
-  },
-  {
-    "nr": 253,
-    "thai": "ลิ",
-    "romanization": "li",
-    "english": "Li"
-  },
-  {
-    "nr": 254,
-    "thai": "นึง",
-    "romanization": "nueng",
-    "english": "One"
-  },
-  {
-    "nr": 255,
-    "thai": "ร์",
-    "romanization": "",
-    "english": "r"
-  },
-  {
-    "nr": 256,
-    "thai": "บางอย่าง",
-    "romanization": "bang yang",
-    "english": "Something"
-  },
-  {
-    "nr": 257,
-    "thai": "รถ",
-    "romanization": "rot",
-    "english": "car"
-  },
-  {
-    "nr": 258,
-    "thai": "ดังนั้น",
-    "romanization": "dang nan",
-    "english": "so"
-  },
-  {
-    "nr": 259,
-    "thai": "รึเปล่า",
-    "romanization": "rue plao",
-    "english": "Or not?"
-  },
-  {
-    "nr": 260,
-    "thai": "โลก",
-    "romanization": "lok",
-    "english": "word"
-  },
-  {
-    "nr": 261,
-    "thai": "ยู",
-    "romanization": "yu",
-    "english": "U"
-  },
-  {
-    "nr": 262,
-    "thai": "เจ",
-    "romanization": "che",
-    "english": "J"
-  },
-  {
-    "nr": 263,
-    "thai": "ทิ้ง",
-    "romanization": "thing",
-    "english": "throw away"
-  },
-  {
-    "nr": 264,
-    "thai": "เอ่อ",
-    "romanization": "oe",
-    "english": "Uh..."
-  },
-  {
-    "nr": 265,
-    "thai": "อย่างนี้",
-    "romanization": "yang ni",
-    "english": "Like this"
-  },
-  {
-    "nr": 266,
-    "thai": "นัก",
-    "romanization": "nak",
-    "english": "student"
-  },
-  {
-    "nr": 267,
-    "thai": "ยอง",
-    "romanization": "yong",
-    "english": "stag"
-  },
-  {
-    "nr": 268,
-    "thai": "มากกว่า",
-    "romanization": "mak kwa",
-    "english": "more than"
-  },
-  {
-    "nr": 269,
-    "thai": "อืม",
-    "romanization": "uem",
-    "english": "um"
-  },
-  {
-    "nr": 270,
-    "thai": "ทำได้",
-    "romanization": "tham dai",
-    "english": "can"
-  },
-  {
-    "nr": 271,
-    "thai": "ความ",
-    "romanization": "khwam",
-    "english": "sense"
-  },
-  {
-    "nr": 272,
-    "thai": "ต่อไป",
-    "romanization": "to pai",
-    "english": "next"
-  },
-  {
-    "nr": 273,
-    "thai": "ชิ",
-    "romanization": "chi",
-    "english": "Shi"
-  },
-  {
-    "nr": 274,
-    "thai": "คนเดียว",
-    "romanization": "khon diao",
-    "english": "alone"
-  },
-  {
-    "nr": 275,
-    "thai": "ลืม",
-    "romanization": "luem",
-    "english": "forget"
-  },
-  {
-    "nr": 276,
-    "thai": "รับ",
-    "romanization": "rap",
-    "english": "receive"
-  },
-  {
-    "nr": 277,
-    "thai": "ซัง",
-    "romanization": "sang",
-    "english": "cob"
-  },
-  {
-    "nr": 278,
-    "thai": "ครั้ง",
-    "romanization": "khrang",
-    "english": "time"
-  },
-  {
-    "nr": 279,
-    "thai": "จัดการ",
-    "romanization": "chat kan",
-    "english": "manage"
-  },
-  {
-    "nr": 280,
-    "thai": "สัก",
-    "romanization": "sak",
-    "english": "tattoo"
-  },
-  {
-    "nr": 281,
-    "thai": "คา",
-    "romanization": "kha",
-    "english": "Ka"
-  },
-  {
-    "nr": 282,
-    "thai": "คนอื่น",
-    "romanization": "khon uen",
-    "english": "other people"
-  },
-  {
-    "nr": 283,
-    "thai": "ครอบครัว",
-    "romanization": "khropkhrua",
-    "english": "family"
-  },
-  {
-    "nr": 284,
-    "thai": "หมายถึง",
-    "romanization": "mai thueng",
-    "english": "mean"
-  },
-  {
-    "nr": 285,
-    "thai": "ผู้",
-    "romanization": "phu",
-    "english": "person"
-  },
-  {
-    "nr": 286,
-    "thai": "หมายความว่า",
-    "romanization": "mai khwam wa",
-    "english": "means that"
-  },
-  {
-    "nr": 287,
-    "thai": "ฮ",
-    "romanization": "?",
-    "english": "H"
-  },
-  {
-    "nr": 288,
-    "thai": "ด้วยกัน",
-    "romanization": "duai kan",
-    "english": "together"
-  },
-  {
-    "nr": 289,
-    "thai": "กลัว",
-    "romanization": "klua",
-    "english": "afraid"
-  },
-  {
-    "nr": 290,
-    "thai": "สวัสดี",
-    "romanization": "sawat di",
-    "english": "hello"
-  },
-  {
-    "nr": 291,
-    "thai": "หน้า",
-    "romanization": "na",
-    "english": "page"
-  },
-  {
-    "nr": 292,
-    "thai": "แต่งงาน",
-    "romanization": "taeng ngan",
-    "english": "marry"
-  },
-  {
-    "nr": 293,
-    "thai": "หมอ",
-    "romanization": "mo",
-    "english": "doctor"
-  },
-  {
-    "nr": 294,
-    "thai": "บางที",
-    "romanization": "bang thi",
-    "english": "sometimes"
-  },
-  {
-    "nr": 295,
-    "thai": "ยา",
-    "romanization": "ya",
-    "english": "drug"
-  },
-  {
-    "nr": 296,
-    "thai": "อย่างไร",
-    "romanization": "yang rai",
-    "english": "how"
-  },
-  {
-    "nr": 297,
-    "thai": "แห่ง",
-    "romanization": "haeng",
-    "english": "of"
-  },
-  {
-    "nr": 298,
-    "thai": "ที่นั่น",
-    "romanization": "thi nan",
-    "english": "there"
-  },
-  {
-    "nr": 299,
-    "thai": "แน่ใจ",
-    "romanization": "nae chai",
-    "english": "sure"
-  },
-  {
-    "nr": 300,
-    "thai": "เก็บ",
-    "romanization": "kep",
-    "english": "collect"
-  },
-  {
-    "nr": 301,
-    "thai": "ลี",
-    "romanization": "li",
-    "english": "Lee"
-  },
-  {
-    "nr": 302,
-    "thai": "ซัก",
-    "romanization": "sak",
-    "english": "wash"
-  },
-  {
-    "nr": 303,
-    "thai": "จับ",
-    "romanization": "chap",
-    "english": "hold"
-  },
-  {
-    "nr": 304,
-    "thai": "ทั้ง",
-    "romanization": "thang",
-    "english": "All"
-  },
-  {
-    "nr": 305,
-    "thai": "ผ่าน",
-    "romanization": "phan",
-    "english": "pass"
-  },
-  {
-    "nr": 306,
-    "thai": "ซื้อ",
-    "romanization": "sue",
-    "english": "buy"
-  },
-  {
-    "nr": 307,
-    "thai": "ลอง",
-    "romanization": "long",
-    "english": "try"
-  },
-  {
-    "nr": 308,
-    "thai": "จบ",
-    "romanization": "chop",
-    "english": "finish"
-  },
-  {
-    "nr": 309,
-    "thai": "น้อย",
-    "romanization": "noi",
-    "english": "little"
-  },
-  {
-    "nr": 310,
-    "thai": "ดื่ม",
-    "romanization": "duem",
-    "english": "drink"
-  },
-  {
-    "nr": 311,
-    "thai": "เพราะว่า",
-    "romanization": "phro wa",
-    "english": "because"
-  },
-  {
-    "nr": 312,
-    "thai": "เปิด",
-    "romanization": "poet",
-    "english": "open"
-  },
-  {
-    "nr": 313,
-    "thai": "ตั้งแต่",
-    "romanization": "tang tae",
-    "english": "since"
-  },
-  {
-    "nr": 314,
-    "thai": "อ",
-    "romanization": "a",
-    "english": "A"
-  },
-  {
-    "nr": 315,
-    "thai": "มอง",
-    "romanization": "mong",
-    "english": "look"
-  },
-  {
-    "nr": 316,
-    "thai": "ตกลง",
-    "romanization": "tok long",
-    "english": "agree"
-  },
-  {
-    "nr": 317,
-    "thai": "ดูเหมือน",
-    "romanization": "du muean",
-    "english": "It seems"
-  },
-  {
-    "nr": 318,
-    "thai": "เลือก",
-    "romanization": "lueak",
-    "english": "choose"
-  },
-  {
-    "nr": 319,
-    "thai": "เยี่ยม",
-    "romanization": "yiam",
-    "english": "visit"
-  },
-  {
-    "nr": 320,
-    "thai": "ผิด",
-    "romanization": "phit",
-    "english": "wrong"
-  },
-  {
-    "nr": 321,
-    "thai": "เพิ่ง",
-    "romanization": "phoeng",
-    "english": "just"
-  },
-  {
-    "nr": 322,
-    "thai": "สำคัญ",
-    "romanization": "samkhan",
-    "english": "important"
-  },
-  {
-    "nr": 323,
-    "thai": "โดน",
-    "romanization": "don",
-    "english": "hit"
-  },
-  {
-    "nr": 324,
-    "thai": "รีบ",
-    "romanization": "rip",
-    "english": "Hurry up"
-  },
-  {
-    "nr": 325,
-    "thai": "นั่ง",
-    "romanization": "nang",
-    "english": "sit"
-  },
-  {
-    "nr": 326,
-    "thai": "พร้อม",
-    "romanization": "phrom",
-    "english": "ready"
-  },
-  {
-    "nr": 327,
-    "thai": "น.",
-    "romanization": "?",
-    "english": "Noon."
-  },
-  {
-    "nr": 328,
-    "thai": "เด",
-    "romanization": "de",
-    "english": "De"
-  },
-  {
-    "nr": 329,
-    "thai": "เร",
-    "romanization": "re",
-    "english": "Ray"
-  },
-  {
-    "nr": 330,
-    "thai": "อีกแล้ว",
-    "romanization": "ik laeo",
-    "english": "Again?"
-  },
-  {
-    "nr": 331,
-    "thai": "แย่",
-    "romanization": "yae",
-    "english": "badly"
-  },
-  {
-    "nr": 332,
-    "thai": "หวัง",
-    "romanization": "wang",
-    "english": "hope"
-  },
-  {
-    "nr": 333,
-    "thai": "หัวหน้า",
-    "romanization": "hua na",
-    "english": "head"
-  },
-  {
-    "nr": 334,
-    "thai": "ชาย",
-    "romanization": "chai",
-    "english": "man"
-  },
-  {
-    "nr": 335,
-    "thai": "เสียง",
-    "romanization": "siang",
-    "english": "sound"
-  },
-  {
-    "nr": 336,
-    "thai": "เสียใจ",
-    "romanization": "sia chai",
-    "english": "sad"
-  },
-  {
-    "nr": 337,
-    "thai": "ออกจาก",
-    "romanization": "ok chak",
-    "english": "leave"
-  },
-  {
-    "nr": 338,
-    "thai": "อีกครั้ง",
-    "romanization": "ik khrang",
-    "english": "Once again"
-  },
-  {
-    "nr": 339,
-    "thai": "หาย",
-    "romanization": "hai",
-    "english": "disappear"
-  },
-  {
-    "nr": 340,
-    "thai": "จู",
-    "romanization": "chu",
-    "english": "Ju"
-  },
-  {
-    "nr": 341,
-    "thai": "เดิน",
-    "romanization": "doen",
-    "english": "walk"
-  },
-  {
-    "nr": 342,
-    "thai": "ตา",
-    "romanization": "ta",
-    "english": "eye"
-  },
-  {
-    "nr": 343,
-    "thai": "อัน",
-    "romanization": "an",
-    "english": "An"
-  },
-  {
-    "nr": 344,
-    "thai": "ง",
-    "romanization": "?",
-    "english": "ng"
-  },
-  {
-    "nr": 345,
-    "thai": "คืน",
-    "romanization": "khuen",
-    "english": "night"
-  },
-  {
-    "nr": 346,
-    "thai": "สวย",
-    "romanization": "suai",
-    "english": "beautiful"
-  },
-  {
-    "nr": 347,
-    "thai": "ซึ่ง",
-    "romanization": "sueng",
-    "english": "which"
-  },
-  {
-    "nr": 348,
-    "thai": "ยิง",
-    "romanization": "ying",
-    "english": "shoot"
-  },
-  {
-    "nr": 349,
-    "thai": "นิ",
-    "romanization": "ni",
-    "english": "Ni"
-  },
-  {
-    "nr": 350,
-    "thai": "อื่น",
-    "romanization": "uen",
-    "english": "another"
-  },
-  {
-    "nr": 351,
-    "thai": "เต",
-    "romanization": "te",
-    "english": "Te"
-  },
-  {
-    "nr": 352,
-    "thai": "ขนาด",
-    "romanization": "khanat",
-    "english": "size"
-  },
-  {
-    "nr": 353,
-    "thai": "นาง",
-    "romanization": "nang",
-    "english": "Mrs."
-  },
-  {
-    "nr": 354,
-    "thai": "คงจะ",
-    "romanization": "khong cha",
-    "english": "would"
-  },
-  {
-    "nr": 355,
-    "thai": "ทุก",
-    "romanization": "thuk",
-    "english": "each"
-  },
-  {
-    "nr": 356,
-    "thai": "จำ",
-    "romanization": "cham",
-    "english": "remember"
-  },
-  {
-    "nr": 357,
-    "thai": "อี",
-    "romanization": "i",
-    "english": "E"
-  },
-  {
-    "nr": 358,
-    "thai": "สร้าง",
-    "romanization": "sang",
-    "english": "build"
-  },
-  {
-    "nr": 359,
-    "thai": "เปลี่ยน",
-    "romanization": "plian",
-    "english": "change"
-  },
-  {
-    "nr": 360,
-    "thai": "ใหญ่",
-    "romanization": "yai",
-    "english": "big"
-  },
-  {
-    "nr": 361,
-    "thai": "เอาล่ะ",
-    "romanization": "ao la",
-    "english": "Okay."
-  },
-  {
-    "nr": 362,
-    "thai": "ไปหา",
-    "romanization": "pai ha",
-    "english": "Go find"
-  },
-  {
-    "nr": 363,
-    "thai": "ความจริง",
-    "romanization": "khwam ching",
-    "english": "truth"
-  },
-  {
-    "nr": 364,
-    "thai": "หนี",
-    "romanization": "ni",
-    "english": "escape"
-  },
-  {
-    "nr": 365,
-    "thai": "เท",
-    "romanization": "the",
-    "english": "pour"
-  },
-  {
-    "nr": 366,
-    "thai": "เพียง",
-    "romanization": "phiang",
-    "english": "Just"
-  },
-  {
-    "nr": 367,
-    "thai": "เท่านั้น",
-    "romanization": "thao nan",
-    "english": "only"
-  },
-  {
-    "nr": 368,
-    "thai": "พวกคุณ",
-    "romanization": "phuak khun",
-    "english": "you"
-  },
-  {
-    "nr": 369,
-    "thai": "สาม",
-    "romanization": "sam",
-    "english": "three"
-  },
-  {
-    "nr": 370,
-    "thai": "จิ",
-    "romanization": "chi",
-    "english": "Ji"
-  },
-  {
-    "nr": 371,
-    "thai": "แรก",
-    "romanization": "raek",
-    "english": "first"
-  },
-  {
-    "nr": 372,
-    "thai": "เดี๋ยวนี้",
-    "romanization": "diao ni",
-    "english": "now"
-  },
-  {
-    "nr": 373,
-    "thai": "ตำรวจ",
-    "romanization": "tamruat",
-    "english": "policeman"
-  },
-  {
-    "nr": 374,
-    "thai": "นอน",
-    "romanization": "non",
-    "english": "sleep"
-  },
-  {
-    "nr": 375,
-    "thai": "พูดว่า",
-    "romanization": "phut wa",
-    "english": "Say that"
-  },
-  {
-    "nr": 376,
-    "thai": "เค",
-    "romanization": "khe",
-    "english": "K"
-  },
-  {
-    "nr": 377,
-    "thai": "ที่รัก",
-    "romanization": "thi rak",
-    "english": "darling"
-  },
-  {
-    "nr": 378,
-    "thai": "ยาก",
-    "romanization": "yak",
-    "english": "difficult"
-  },
-  {
-    "nr": 379,
-    "thai": "ดูแล",
-    "romanization": "dulae",
-    "english": "look after"
-  },
-  {
-    "nr": 380,
-    "thai": "กลับบ้าน",
-    "romanization": "klap ban",
-    "english": "go home"
-  },
-  {
-    "nr": 381,
-    "thai": "โซ",
-    "romanization": "so",
-    "english": "So"
-  },
-  {
-    "nr": 382,
-    "thai": "ยอม",
-    "romanization": "yom",
-    "english": "I agree."
-  },
-  {
-    "nr": 383,
-    "thai": "มีความสุข",
-    "romanization": "mi khwam suk",
-    "english": "be happy"
-  },
-  {
-    "nr": 384,
-    "thai": "แต่ว่า",
-    "romanization": "tae wa",
-    "english": "but"
-  },
-  {
-    "nr": 385,
-    "thai": "เซ",
-    "romanization": "se",
-    "english": "Say"
-  },
-  {
-    "nr": 386,
-    "thai": "ดีมาก",
-    "romanization": "di mak",
-    "english": "very good"
-  },
-  {
-    "nr": 387,
-    "thai": "เฮ",
-    "romanization": "he",
-    "english": "Hey"
-  },
-  {
-    "nr": 388,
-    "thai": "หลาย",
-    "romanization": "lai",
-    "english": "many"
-  },
-  {
-    "nr": 389,
-    "thai": "โกหก",
-    "romanization": "kohok",
-    "english": "lie"
-  },
-  {
-    "nr": 390,
-    "thai": "เปล่า",
-    "romanization": "plao",
-    "english": "nothing"
-  },
-  {
-    "nr": 391,
-    "thai": "ตรงนี้",
-    "romanization": "trong ni",
-    "english": "Here"
-  },
-  {
-    "nr": 392,
-    "thai": "เม",
-    "romanization": "me",
-    "english": "May"
-  },
-  {
-    "nr": 393,
-    "thai": "เหมือนกับ",
-    "romanization": "muean kap",
-    "english": "like"
-  },
-  {
-    "nr": 394,
-    "thai": "เสีย",
-    "romanization": "sia",
-    "english": "broken"
-  },
-  {
-    "nr": 395,
-    "thai": "ฝ่า",
-    "romanization": "fa",
-    "english": "Break"
-  },
-  {
-    "nr": 396,
-    "thai": "หรือไม่",
-    "romanization": "rue mai",
-    "english": "Or not?"
-  },
-  {
-    "nr": 397,
-    "thai": "ทีม",
-    "romanization": "thim",
-    "english": "team"
-  },
-  {
-    "nr": 398,
-    "thai": "สนใจ",
-    "romanization": "son chai",
-    "english": "interested"
-  },
-  {
-    "nr": 399,
-    "thai": "เก",
-    "romanization": "ke",
-    "english": "Ge"
-  },
-  {
-    "nr": 400,
-    "thai": "โร",
-    "romanization": "ro",
-    "english": "Ro"
-  },
-  {
-    "nr": 401,
-    "thai": "บาท",
-    "romanization": "bat",
-    "english": "baht"
-  },
-  {
-    "nr": 402,
-    "thai": "ทา",
-    "romanization": "tha",
-    "english": "Apply"
-  },
-  {
-    "nr": 403,
-    "thai": "วิธี",
-    "romanization": "withi",
-    "english": "way"
-  },
-  {
-    "nr": 404,
-    "thai": "โรงเรียน",
-    "romanization": "rong rian",
-    "english": "school"
-  },
-  {
-    "nr": 405,
-    "thai": "เรียน",
-    "romanization": "rian",
-    "english": "learn"
-  },
-  {
-    "nr": 406,
-    "thai": "อยู่แล้ว",
-    "romanization": "yu laeo",
-    "english": "Already there."
-  },
-  {
-    "nr": 407,
-    "thai": "ที่อยู่",
-    "romanization": "thi yu",
-    "english": "address"
-  },
-  {
-    "nr": 408,
-    "thai": "วิ",
-    "romanization": "wi",
-    "english": "Vi"
-  },
-  {
-    "nr": 409,
-    "thai": "สัญญา",
-    "romanization": "sanya",
-    "english": "contract"
-  },
-  {
-    "nr": 410,
-    "thai": "กิ",
-    "romanization": "ki",
-    "english": "Gi"
-  },
-  {
-    "nr": 411,
-    "thai": "คำ",
-    "romanization": "kham",
-    "english": "word"
-  },
-  {
-    "nr": 412,
-    "thai": "รา",
-    "romanization": "ra",
-    "english": "mold"
-  },
-  {
-    "nr": 413,
-    "thai": "ระหว่าง",
-    "romanization": "rawang",
-    "english": "between"
-  },
-  {
-    "nr": 414,
-    "thai": "จน",
-    "romanization": "chon",
-    "english": "until"
-  },
-  {
-    "nr": 415,
-    "thai": "กา",
-    "romanization": "ka",
-    "english": "kettle"
-  },
-  {
-    "nr": 416,
-    "thai": "หลัง",
-    "romanization": "lang",
-    "english": "behind"
-  },
-  {
-    "nr": 417,
-    "thai": "คิดถึง",
-    "romanization": "khit thueng",
-    "english": "miss"
-  },
-  {
-    "nr": 418,
-    "thai": "แฟน",
-    "romanization": "faen",
-    "english": "sweetheart"
-  },
-  {
-    "nr": 419,
-    "thai": "เสร็จ",
-    "romanization": "set",
-    "english": "finish"
-  },
-  {
-    "nr": 420,
-    "thai": "จอง",
-    "romanization": "chong",
-    "english": "reserve"
-  },
-  {
-    "nr": 421,
-    "thai": "ประตู",
-    "romanization": "pratu",
-    "english": "door"
-  },
-  {
-    "nr": 422,
-    "thai": "ตั้ง",
-    "romanization": "tang",
-    "english": "set"
-  },
-  {
-    "nr": 423,
-    "thai": "เมือง",
-    "romanization": "mueang",
-    "english": "city"
-  },
-  {
-    "nr": 424,
-    "thai": "มีทาง",
-    "romanization": "mi thang",
-    "english": "There is a way."
-  },
-  {
-    "nr": 425,
-    "thai": "รี",
-    "romanization": "ri",
-    "english": "oval"
-  },
-  {
-    "nr": 426,
-    "thai": "มือ",
-    "romanization": "mue",
-    "english": "hand"
-  },
-  {
-    "nr": 427,
-    "thai": "ประธาน",
-    "romanization": "prathan",
-    "english": "chairman"
-  },
-  {
-    "nr": 428,
-    "thai": "จิน",
-    "romanization": "chin",
-    "english": "Jin"
-  },
-  {
-    "nr": 429,
-    "thai": "คอย",
-    "romanization": "khoi",
-    "english": "wait"
-  },
-  {
-    "nr": 430,
-    "thai": "หล่อน",
-    "romanization": "lon",
-    "english": "her"
-  },
-  {
-    "nr": 431,
-    "thai": "เยอะ",
-    "romanization": "yoe",
-    "english": "a lot"
-  },
-  {
-    "nr": 432,
-    "thai": "ลี่",
-    "romanization": "li",
-    "english": "Li"
-  },
-  {
-    "nr": 433,
-    "thai": "อายุ",
-    "romanization": "ayu",
-    "english": "age"
-  },
-  {
-    "nr": 434,
-    "thai": "หลังจาก",
-    "romanization": "lang chak",
-    "english": "after"
-  },
-  {
-    "nr": 435,
-    "thai": "เป็นเรื่อง",
-    "romanization": "pen rueang",
-    "english": "It's a matter."
-  },
-  {
-    "nr": 436,
-    "thai": "ยุ่ง",
-    "romanization": "yung",
-    "english": "busy"
-  },
-  {
-    "nr": 437,
-    "thai": "พูดถึง",
-    "romanization": "phut thueng",
-    "english": "Speaking of"
-  },
-  {
-    "nr": 438,
-    "thai": "โง่",
-    "romanization": "ngo",
-    "english": "stupid"
-  },
-  {
-    "nr": 439,
-    "thai": "มั๊ย",
-    "romanization": "mai",
-    "english": "Right?"
-  },
-  {
-    "nr": 440,
-    "thai": "สุดท้าย",
-    "romanization": "sut thai",
-    "english": "last"
-  },
-  {
-    "nr": 441,
-    "thai": "เหตุผล",
-    "romanization": "het phon",
-    "english": "reason"
-  },
-  {
-    "nr": 442,
-    "thai": "ขอให้",
-    "romanization": "kho hai",
-    "english": "please"
-  },
-  {
-    "nr": 443,
-    "thai": "ชา",
-    "romanization": "cha",
-    "english": "tea"
-  },
-  {
-    "nr": 444,
-    "thai": "มีปัญหา",
-    "romanization": "mipanha",
-    "english": "have a problem"
-  },
-  {
-    "nr": 445,
-    "thai": "เจอกัน",
-    "romanization": "choekan",
-    "english": "meet"
-  },
-  {
-    "nr": 446,
-    "thai": "ตลอด",
-    "romanization": "talot",
-    "english": "always"
-  },
-  {
-    "nr": 447,
-    "thai": "เมื่อไหร่",
-    "romanization": "muea rai",
-    "english": "when"
-  },
-  {
-    "nr": 448,
-    "thai": "หัวใจ",
-    "romanization": "hua chai",
-    "english": "heart"
-  },
-  {
-    "nr": 449,
-    "thai": "บริษัท",
-    "romanization": "borisat",
-    "english": "company"
-  },
-  {
-    "nr": 450,
-    "thai": "เลิก",
-    "romanization": "loek",
-    "english": "finish"
-  },
-  {
-    "nr": 451,
-    "thai": "องค์",
-    "romanization": "ong",
-    "english": "Organization"
-  },
-  {
-    "nr": 452,
-    "thai": "โน",
-    "romanization": "no",
-    "english": "No"
-  },
-  {
-    "nr": 453,
-    "thai": "ถูกต้อง",
-    "romanization": "thuk tong",
-    "english": "correct"
-  },
-  {
-    "nr": 454,
-    "thai": "เกินไป",
-    "romanization": "koen pai",
-    "english": "too"
-  },
-  {
-    "nr": 455,
-    "thai": "ใกล้",
-    "romanization": "klai",
-    "english": "near"
-  },
-  {
-    "nr": 456,
-    "thai": "ลูกชาย",
-    "romanization": "luk chai",
-    "english": "son"
-  },
-  {
-    "nr": 457,
-    "thai": "มีชีวิต",
-    "romanization": "mi chiwit",
-    "english": "Alive"
-  },
-  {
-    "nr": 458,
-    "thai": "นำ",
-    "romanization": "nam",
-    "english": "lead"
-  },
-  {
-    "nr": 459,
-    "thai": "เหลือ",
-    "romanization": "luea",
-    "english": "left"
-  },
-  {
-    "nr": 460,
-    "thai": "เท่าไหร่",
-    "romanization": "thao rai",
-    "english": "how much"
-  },
-  {
-    "nr": 461,
-    "thai": "พรุ่งนี้",
-    "romanization": "phrungni",
-    "english": "tomorrow"
-  },
-  {
-    "nr": 462,
-    "thai": "นาที",
-    "romanization": "nathi",
-    "english": "minute"
-  },
-  {
-    "nr": 463,
-    "thai": "ท",
-    "romanization": "?",
-    "english": "T"
-  },
-  {
-    "nr": 464,
-    "thai": "ช่าง",
-    "romanization": "chang",
-    "english": "tradesman"
-  },
-  {
-    "nr": 465,
-    "thai": "เป็นไง",
-    "romanization": "pen ngai",
-    "english": "How was it?"
-  },
-  {
-    "nr": 466,
-    "thai": "หัว",
-    "romanization": "hua",
-    "english": "head"
-  },
-  {
-    "nr": 467,
-    "thai": "อาหาร",
-    "romanization": "ahan",
-    "english": "food"
-  },
-  {
-    "nr": 468,
-    "thai": "ขาย",
-    "romanization": "khai",
-    "english": "sell"
-  },
-  {
-    "nr": 469,
-    "thai": "สนุก",
-    "romanization": "sanuk",
-    "english": "fun"
-  },
-  {
-    "nr": 470,
-    "thai": "กู",
-    "romanization": "ku",
-    "english": "I"
-  },
-  {
-    "nr": 471,
-    "thai": "เล็ก",
-    "romanization": "lek",
-    "english": "small"
-  },
-  {
-    "nr": 472,
-    "thai": "คืนนี้",
-    "romanization": "khuen ni",
-    "english": "this evening"
-  },
-  {
-    "nr": 473,
-    "thai": "บางคน",
-    "romanization": "bang khon",
-    "english": "Some people"
-  },
-  {
-    "nr": 474,
-    "thai": "เลือด",
-    "romanization": "lueat",
-    "english": "blood"
-  },
-  {
-    "nr": 475,
-    "thai": "แปลก",
-    "romanization": "plaek",
-    "english": "strange"
-  },
-  {
-    "nr": 476,
-    "thai": "รู้เรื่อง",
-    "romanization": "ru rueang",
-    "english": "I know."
-  },
-  {
-    "nr": 477,
-    "thai": "ชุด",
-    "romanization": "chut",
-    "english": "set"
-  },
-  {
-    "nr": 478,
-    "thai": "สาย",
-    "romanization": "sai",
-    "english": "line"
-  },
-  {
-    "nr": 479,
-    "thai": "จ่าย",
-    "romanization": "chai",
-    "english": "pay"
-  },
-  {
-    "nr": 480,
-    "thai": "ก.",
-    "romanization": "",
-    "english": "g"
-  },
-  {
-    "nr": 481,
-    "thai": "อ่า",
-    "romanization": "a",
-    "english": "dress"
-  },
-  {
-    "nr": 482,
-    "thai": "ข้อมูล",
-    "romanization": "kho mun",
-    "english": "information"
-  },
-  {
-    "nr": 483,
-    "thai": "ลูกสาว",
-    "romanization": "luk sao",
-    "english": "daughter"
-  },
-  {
-    "nr": 484,
-    "thai": "โฮ",
-    "romanization": "ho",
-    "english": "Ho"
-  },
-  {
-    "nr": 485,
-    "thai": "ตรง",
-    "romanization": "trong",
-    "english": "straight"
-  },
-  {
-    "nr": 486,
-    "thai": "เขียน",
-    "romanization": "khian",
-    "english": "write"
-  },
-  {
-    "nr": 487,
-    "thai": "กลายเป็น",
-    "romanization": "klai pen",
-    "english": "It became"
-  },
-  {
-    "nr": 488,
-    "thai": "สัน",
-    "romanization": "san",
-    "english": "ridge"
-  },
-  {
-    "nr": 489,
-    "thai": "ทำลาย",
-    "romanization": "thamlai",
-    "english": "destroy"
-  },
-  {
-    "nr": 490,
-    "thai": "ห",
-    "romanization": "?",
-    "english": "H"
-  },
-  {
-    "nr": 491,
-    "thai": "กังวล",
-    "romanization": "kangwon",
-    "english": "worry"
-  },
-  {
-    "nr": 492,
-    "thai": "แน่ๆ",
-    "romanization": "naenae",
-    "english": "Definitely."
-  },
-  {
-    "nr": 493,
-    "thai": "ซี่",
-    "romanization": "si",
-    "english": "teeth"
-  },
-  {
-    "nr": 494,
-    "thai": "อาจารย์",
-    "romanization": "achan",
-    "english": "lecturer"
-  },
-  {
-    "nr": 495,
-    "thai": "ปัญหา",
-    "romanization": "panha",
-    "english": "problem"
-  },
-  {
-    "nr": 496,
-    "thai": "ลา",
-    "romanization": "la",
-    "english": "donkey"
-  },
-  {
-    "nr": 497,
-    "thai": "คัง",
-    "romanization": "khang",
-    "english": "Kang"
-  },
-  {
-    "nr": 498,
-    "thai": "เดือน",
-    "romanization": "duean",
-    "english": "month"
-  },
-  {
-    "nr": 499,
-    "thai": "รี่",
-    "romanization": "ri",
-    "english": "Rii"
-  },
-  {
-    "nr": 500,
-    "thai": "น่ารัก",
-    "romanization": "na rak",
-    "english": "cute"
-  },
-  {
-    "nr": 501,
-    "thai": "ไม่ค่อย",
-    "romanization": "mai khoi",
-    "english": "Not really"
-  },
-  {
-    "nr": 502,
-    "thai": "ปิด",
-    "romanization": "pit",
-    "english": "turn off"
-  },
-  {
-    "nr": 503,
-    "thai": "น้ำ",
-    "romanization": "nam",
-    "english": "water"
-  },
-  {
-    "nr": 504,
-    "thai": "โก",
-    "romanization": "ko",
-    "english": "Go"
-  },
-  {
-    "nr": 505,
-    "thai": "วาง",
-    "romanization": "wang",
-    "english": "place"
-  },
-  {
-    "nr": 506,
-    "thai": "ความรัก",
-    "romanization": "khwam rak",
-    "english": "love"
-  },
-  {
-    "nr": 507,
-    "thai": "ร้าน",
-    "romanization": "ran",
-    "english": "store"
-  },
-  {
-    "nr": 508,
-    "thai": "เสมอ",
-    "romanization": "samoe",
-    "english": "always"
-  },
-  {
-    "nr": 509,
-    "thai": "หล่ะ",
-    "romanization": "la",
-    "english": "Well?"
-  },
-  {
-    "nr": 510,
-    "thai": "ยินดี",
-    "romanization": "yin di",
-    "english": "pleased"
-  },
-  {
-    "nr": 511,
-    "thai": "ชิน",
-    "romanization": "chin",
-    "english": "accustomed"
-  },
-  {
-    "nr": 512,
-    "thai": "ว",
-    "romanization": "?",
-    "english": "W"
-  },
-  {
-    "nr": 513,
-    "thai": "ติด",
-    "romanization": "tit",
-    "english": "stuck"
-  },
-  {
-    "nr": 514,
-    "thai": "ขอบใจ",
-    "romanization": "khop chai",
-    "english": "thank"
-  },
-  {
-    "nr": 515,
-    "thai": "วา",
-    "romanization": "wa",
-    "english": "Wa"
-  },
-  {
-    "nr": 516,
-    "thai": "มีเรื่อง",
-    "romanization": "mi rueang",
-    "english": "There's a story."
-  },
-  {
-    "nr": 517,
-    "thai": "ชนะ",
-    "romanization": "chana",
-    "english": "win"
-  },
-  {
-    "nr": 518,
-    "thai": "ปลอดภัย",
-    "romanization": "plot phai",
-    "english": "safe"
-  },
-  {
-    "nr": 519,
-    "thai": "จึง",
-    "romanization": "chueng",
-    "english": "therefore"
-  },
-  {
-    "nr": 520,
-    "thai": "กะ",
-    "romanization": "ka",
-    "english": "Ka"
-  },
-  {
-    "nr": 521,
-    "thai": "ยอน",
-    "romanization": "yon",
-    "english": "Yeon"
-  },
-  {
-    "nr": 522,
-    "thai": "ล่า",
-    "romanization": "la",
-    "english": "hunt"
-  },
-  {
-    "nr": 523,
-    "thai": "แสดง",
-    "romanization": "sadaeng",
-    "english": "show"
-  },
-  {
-    "nr": 524,
-    "thai": "ง่าย",
-    "romanization": "ngai",
-    "english": "easy"
-  },
-  {
-    "nr": 525,
-    "thai": "ครู",
-    "romanization": "khru",
-    "english": "teacher"
-  },
-  {
-    "nr": 526,
-    "thai": "มาถึง",
-    "romanization": "ma thueng",
-    "english": "arrive"
-  },
-  {
-    "nr": 527,
-    "thai": "กี่",
-    "romanization": "ki",
-    "english": "how many"
-  },
-  {
-    "nr": 528,
-    "thai": "สู้",
-    "romanization": "su",
-    "english": "fight"
-  },
-  {
-    "nr": 529,
-    "thai": "สงสัย",
-    "romanization": "songsai",
-    "english": "wonder"
-  },
-  {
-    "nr": 530,
-    "thai": "โค",
-    "romanization": "kho",
-    "english": "cow"
-  },
-  {
-    "nr": 531,
-    "thai": "โม",
-    "romanization": "mo",
-    "english": "Mo"
-  },
-  {
-    "nr": 532,
-    "thai": "เชิญ",
-    "romanization": "choen",
-    "english": "invite"
-  },
-  {
-    "nr": 533,
-    "thai": "โกะ",
-    "romanization": "ko",
-    "english": "Go"
-  },
-  {
-    "nr": 534,
-    "thai": "วิ่ง",
-    "romanization": "wing",
-    "english": "run"
-  },
-  {
-    "nr": 535,
-    "thai": "ก่อนที่",
-    "romanization": "kon thi",
-    "english": "Before"
-  },
-  {
-    "nr": 536,
-    "thai": "รักษา",
-    "romanization": "raksa",
-    "english": "treat"
-  },
-  {
-    "nr": 537,
-    "thai": "ข้างนอก",
-    "romanization": "khang nok",
-    "english": "outside"
-  },
-  {
-    "nr": 538,
-    "thai": "สาว",
-    "romanization": "sao",
-    "english": "girl"
-  },
-  {
-    "nr": 539,
-    "thai": "ย์",
-    "romanization": "",
-    "english": "y"
-  },
-  {
-    "nr": 540,
-    "thai": "ไม่ต้องการ",
-    "romanization": "mai tong kan",
-    "english": "do not need"
-  },
-  {
-    "nr": 541,
-    "thai": "อิน",
-    "romanization": "in",
-    "english": "Inn"
-  },
-  {
-    "nr": 542,
-    "thai": "ปกป้อง",
-    "romanization": "pok pong",
-    "english": "protect"
-  },
-  {
-    "nr": 543,
-    "thai": "ด",
-    "romanization": "?",
-    "english": "D"
-  },
-  {
-    "nr": 544,
-    "thai": "มนุษย์",
-    "romanization": "manut",
-    "english": "human"
-  },
-  {
-    "nr": 545,
-    "thai": "ห่วง",
-    "romanization": "huang",
-    "english": "loop"
-  },
-  {
-    "nr": 546,
-    "thai": "รอบ",
-    "romanization": "rop",
-    "english": "time"
-  },
-  {
-    "nr": 547,
-    "thai": "ตัดสินใจ",
-    "romanization": "tat sin chai",
-    "english": "decide"
-  },
-  {
-    "nr": 548,
-    "thai": "ทุกๆ",
-    "romanization": "thuk thuk",
-    "english": "every"
-  },
-  {
-    "nr": 549,
-    "thai": "เพลง",
-    "romanization": "phleng",
-    "english": "song"
-  },
-  {
-    "nr": 550,
-    "thai": "ฮี",
-    "romanization": "hi",
-    "english": "Hee"
-  },
-  {
-    "nr": 551,
-    "thai": "จี",
-    "romanization": "chi",
-    "english": "G"
-  },
-  {
-    "nr": 552,
-    "thai": "ยุ",
-    "romanization": "yu",
-    "english": "Yu"
-  },
-  {
-    "nr": 553,
-    "thai": "รู",
-    "romanization": "ru",
-    "english": "hole"
-  },
-  {
-    "nr": 554,
-    "thai": "ให้ได้",
-    "romanization": "hai dai",
-    "english": "To get it"
-  },
-  {
-    "nr": 555,
-    "thai": "ส่วน",
-    "romanization": "suan",
-    "english": "part"
-  },
-  {
-    "nr": 556,
-    "thai": "ดีใจ",
-    "romanization": "di chai",
-    "english": "happy"
-  },
-  {
-    "nr": 557,
-    "thai": "วอน",
-    "romanization": "won",
-    "english": "won"
-  },
-  {
-    "nr": 558,
-    "thai": "ไทย",
-    "romanization": "thai",
-    "english": "Thai"
-  },
-  {
-    "nr": 559,
-    "thai": "จำเป็นต้อง",
-    "romanization": "cham pen tong",
-    "english": "It is necessary."
-  },
-  {
-    "nr": 560,
-    "thai": "เอาไว้",
-    "romanization": "ao wai",
-    "english": "Keep it"
-  },
-  {
-    "nr": 561,
-    "thai": "ตามหา",
-    "romanization": "tam ha",
-    "english": "Searching for"
-  },
-  {
-    "nr": 562,
-    "thai": "ปืน",
-    "romanization": "puen",
-    "english": "gun"
-  },
-  {
-    "nr": 563,
-    "thai": "มาหา",
-    "romanization": "ma ha",
-    "english": "Come to me."
-  },
-  {
-    "nr": 564,
-    "thai": "บรรยาย",
-    "romanization": "banyai",
-    "english": "describe"
-  },
-  {
-    "nr": 565,
-    "thai": "บ",
-    "romanization": "bo",
-    "english": "B"
-  },
-  {
-    "nr": 566,
-    "thai": "อ่าน",
-    "romanization": "an",
-    "english": "read"
-  },
-  {
-    "nr": 567,
-    "thai": "คดี",
-    "romanization": "khadi",
-    "english": "case"
-  },
-  {
-    "nr": 568,
-    "thai": "โทษ",
-    "romanization": "thot",
-    "english": "blame"
-  },
-  {
-    "nr": 569,
-    "thai": "พัก",
-    "romanization": "phak",
-    "english": "stay"
-  },
-  {
-    "nr": 570,
-    "thai": "คิม",
-    "romanization": "khim",
-    "english": "Kim"
-  },
-  {
-    "nr": 571,
-    "thai": "โด",
-    "romanization": "do",
-    "english": "Do"
-  },
-  {
-    "nr": 572,
-    "thai": "เกลียด",
-    "romanization": "kliat",
-    "english": "hate"
-  },
-  {
-    "nr": 573,
-    "thai": "ขึ้นกับ",
-    "romanization": "khuen kap",
-    "english": "It depends."
-  },
-  {
-    "nr": 574,
-    "thai": "คุ",
-    "romanization": "khu",
-    "english": "smoke"
-  },
-  {
-    "nr": 575,
-    "thai": "นั่นแหละ",
-    "romanization": "nan lae",
-    "english": "That!"
-  },
-  {
-    "nr": 576,
-    "thai": "จนกว่า",
-    "romanization": "chon kwa",
-    "english": "unless"
-  },
-  {
-    "nr": 577,
-    "thai": "โต",
-    "romanization": "to",
-    "english": "grown up"
-  },
-  {
-    "nr": 578,
-    "thai": "อ่ะ",
-    "romanization": "a",
-    "english": "Ah"
-  },
-  {
-    "nr": 579,
-    "thai": "หญิง",
-    "romanization": "ying",
-    "english": "female"
-  },
-  {
-    "nr": 580,
-    "thai": "พี่ชาย",
-    "romanization": "phi chai",
-    "english": "elder brother"
-  },
-  {
-    "nr": 581,
-    "thai": "เป็นการ",
-    "romanization": "pen kan",
-    "english": "It is"
-  },
-  {
-    "nr": 582,
-    "thai": "สุด",
-    "romanization": "sut",
-    "english": "end"
-  },
-  {
-    "nr": 583,
-    "thai": "ซอง",
-    "romanization": "song",
-    "english": "envelope"
-  },
-  {
-    "nr": 584,
-    "thai": "ความคิด",
-    "romanization": "khwam khit",
-    "english": "idea"
-  },
-  {
-    "nr": 585,
-    "thai": "อึน",
-    "romanization": "uen",
-    "english": "Eun"
-  },
-  {
-    "nr": 586,
-    "thai": "ชั่วโมง",
-    "romanization": "chuamong",
-    "english": "hour"
-  },
-  {
-    "nr": 587,
-    "thai": "ที่แล้ว",
-    "romanization": "thi laeo",
-    "english": "Last time"
-  },
-  {
-    "nr": 588,
-    "thai": "เจ็บ",
-    "romanization": "chep",
-    "english": "hurt"
-  },
-  {
-    "nr": 589,
-    "thai": "ระวัง",
-    "romanization": "rawang",
-    "english": "be careful"
-  },
-  {
-    "nr": 590,
-    "thai": "แมน",
-    "romanization": "maen",
-    "english": "Man"
-  },
-  {
-    "nr": 591,
-    "thai": "ใจ",
-    "romanization": "chai",
-    "english": "heart"
-  },
-  {
-    "nr": 592,
-    "thai": "โรงพยาบาล",
-    "romanization": "rong phayaban",
-    "english": "hospital"
-  },
-  {
-    "nr": 593,
-    "thai": "ม",
-    "romanization": "?",
-    "english": "m"
-  },
-  {
-    "nr": 594,
-    "thai": "เก่ง",
-    "romanization": "keng",
-    "english": "good"
-  },
-  {
-    "nr": 595,
-    "thai": "กรุณา",
-    "romanization": "karuna",
-    "english": "please"
-  },
-  {
-    "nr": 596,
-    "thai": "ลุง",
-    "romanization": "lung",
-    "english": "uncle"
-  },
-  {
-    "nr": 597,
-    "thai": "ก",
-    "romanization": "",
-    "english": "g"
-  },
-  {
-    "nr": 598,
-    "thai": "สอน",
-    "romanization": "son",
-    "english": "teach"
-  },
-  {
-    "nr": 599,
-    "thai": "เครื่อง",
-    "romanization": "khrueang",
-    "english": "machine"
-  },
-  {
-    "nr": 600,
-    "thai": "ฮะ",
-    "romanization": "ha",
-    "english": "Ha!"
-  },
-  {
-    "nr": 601,
-    "thai": "ย้าย",
-    "romanization": "yai",
-    "english": "maternal grandmother"
-  },
-  {
-    "nr": 602,
-    "thai": "ด้าน",
-    "romanization": "dan",
-    "english": "side"
-  },
-  {
-    "nr": 603,
-    "thai": "อะ",
-    "romanization": "a",
-    "english": "A"
-  },
-  {
-    "nr": 604,
-    "thai": "โย",
-    "romanization": "yo",
-    "english": "Yo"
-  },
-  {
-    "nr": 605,
-    "thai": "สี",
-    "romanization": "si",
-    "english": "color"
-  },
-  {
-    "nr": 606,
-    "thai": "ล้าน",
-    "romanization": "lan",
-    "english": "million"
-  },
-  {
-    "nr": 607,
-    "thai": "สามี",
-    "romanization": "sami",
-    "english": "husband"
-  },
-  {
-    "nr": 608,
-    "thai": "ยังมี",
-    "romanization": "yang mi",
-    "english": "There are still some."
-  },
-  {
-    "nr": 609,
-    "thai": "ยอมรับ",
-    "romanization": "yom rap",
-    "english": "accept"
-  },
-  {
-    "nr": 610,
-    "thai": "กี้",
-    "romanization": "ki",
-    "english": "Kie"
-  },
-  {
-    "nr": 611,
-    "thai": "แม้แต่",
-    "romanization": "mae tae",
-    "english": "even"
-  },
-  {
-    "nr": 612,
-    "thai": "ยะ",
-    "romanization": "ya",
-    "english": "Ya"
-  },
-  {
-    "nr": 613,
-    "thai": "ความรู้สึก",
-    "romanization": "khwam ru suek",
-    "english": "feeling"
-  },
-  {
-    "nr": 614,
-    "thai": "ดีขึ้น",
-    "romanization": "di khuen",
-    "english": "better"
-  },
-  {
-    "nr": 615,
-    "thai": "ว้าว",
-    "romanization": "wao",
-    "english": "wow"
-  },
-  {
-    "nr": 616,
-    "thai": "วู",
-    "romanization": "wu",
-    "english": "Woo"
-  },
-  {
-    "nr": 617,
-    "thai": "วะ",
-    "romanization": "wa",
-    "english": "Wow"
-  },
-  {
-    "nr": 618,
-    "thai": "โท",
-    "romanization": "tho",
-    "english": "To"
-  },
-  {
-    "nr": 619,
-    "thai": "สั่ง",
-    "romanization": "sang",
-    "english": "order"
-  },
-  {
-    "nr": 620,
-    "thai": "บา",
-    "romanization": "ba",
-    "english": "Ba"
-  },
-  {
-    "nr": 621,
-    "thai": "โทรศัพท์",
-    "romanization": "thora sap",
-    "english": "telephone"
-  },
-  {
-    "nr": 622,
-    "thai": "นิดหน่อย",
-    "romanization": "nit noi",
-    "english": "a little"
-  },
-  {
-    "nr": 623,
-    "thai": "เ",
-    "romanization": "?",
-    "english": "The"
-  },
-  {
-    "nr": 624,
-    "thai": "ตรงนั้น",
-    "romanization": "trong nan",
-    "english": "Over there"
-  },
-  {
-    "nr": 625,
-    "thai": "อิ",
-    "romanization": "i",
-    "english": "I"
-  },
-  {
-    "nr": 626,
-    "thai": "โชคดี",
-    "romanization": "chok di",
-    "english": "good luck"
-  },
-  {
-    "nr": 627,
-    "thai": "หรือยัง",
-    "romanization": "rue yang",
-    "english": "Or not yet?"
-  },
-  {
-    "nr": 628,
-    "thai": "จำได้",
-    "romanization": "cham dai",
-    "english": "can remember"
-  },
-  {
-    "nr": 629,
-    "thai": "ร่า",
-    "romanization": "ra",
-    "english": "Raa"
-  },
-  {
-    "nr": 630,
-    "thai": "เต้น",
-    "romanization": "ten",
-    "english": "dance"
-  },
-  {
-    "nr": 631,
-    "thai": "ขอร้อง",
-    "romanization": "kho rong",
-    "english": "ask"
-  },
-  {
-    "nr": 632,
-    "thai": "ขโมย",
-    "romanization": "khamoi",
-    "english": "steal"
-  },
-  {
-    "nr": 633,
-    "thai": "พระ",
-    "romanization": "phra",
-    "english": "monk"
-  },
-  {
-    "nr": 634,
-    "thai": "โกรธ",
-    "romanization": "krot",
-    "english": "angry"
-  },
-  {
-    "nr": 635,
-    "thai": "ทำร้าย",
-    "romanization": "tham rai",
-    "english": "attack"
-  },
-  {
-    "nr": 636,
-    "thai": "เป็นห่วง",
-    "romanization": "pen huang",
-    "english": "worry"
-  },
-  {
-    "nr": 637,
-    "thai": "ยืน",
-    "romanization": "yuen",
-    "english": "stand"
-  },
-  {
-    "nr": 638,
-    "thai": "หรือว่า",
-    "romanization": "rue wa",
-    "english": "Or maybe..."
-  },
-  {
-    "nr": 639,
-    "thai": "เรียบร้อย",
-    "romanization": "riap roi",
-    "english": "tidy"
-  },
-  {
-    "nr": 640,
-    "thai": "มากมาย",
-    "romanization": "mak mai",
-    "english": "lots"
-  },
-  {
-    "nr": 641,
-    "thai": "หรือไง",
-    "romanization": "ruengai",
-    "english": "Or what?"
-  },
-  {
-    "nr": 642,
-    "thai": "ติดต่อ",
-    "romanization": "tit to",
-    "english": "contact"
-  },
-  {
-    "nr": 643,
-    "thai": "จา",
-    "romanization": "cha",
-    "english": "Ja"
-  },
-  {
-    "nr": 644,
-    "thai": "ยังคง",
-    "romanization": "yang khong",
-    "english": "still"
-  },
-  {
-    "nr": 645,
-    "thai": "เตรียม",
-    "romanization": "triam",
-    "english": "prepare"
-  },
-  {
-    "nr": 646,
-    "thai": "ดง",
-    "romanization": "dong",
-    "english": "Dong"
-  },
-  {
-    "nr": 647,
-    "thai": "ร",
-    "romanization": "?",
-    "english": "R"
-  },
-  {
-    "nr": 648,
-    "thai": "ฟ",
-    "romanization": "?",
-    "english": "F"
-  },
-  {
-    "nr": 649,
-    "thai": "พิเศษ",
-    "romanization": "phiset",
-    "english": "special"
-  },
-  {
-    "nr": 650,
-    "thai": "ตั้งใจ",
-    "romanization": "tang chai",
-    "english": "intend"
-  },
-  {
-    "nr": 651,
-    "thai": "แทน",
-    "romanization": "thaen",
-    "english": "instead"
-  },
-  {
-    "nr": 652,
-    "thai": "จ๊ะ",
-    "romanization": "cha",
-    "english": "Yes."
-  },
-  {
-    "nr": 653,
-    "thai": "ภรรยา",
-    "romanization": "phanraya",
-    "english": "wife"
-  },
-  {
-    "nr": 654,
-    "thai": "เบอร์",
-    "romanization": "boe",
-    "english": "number"
-  },
-  {
-    "nr": 655,
-    "thai": "ไอ",
-    "romanization": "ai",
-    "english": "cough"
-  },
-  {
-    "nr": 656,
-    "thai": "ทราบ",
-    "romanization": "sap",
-    "english": "know"
-  },
-  {
-    "nr": 657,
-    "thai": "ห้าม",
-    "romanization": "ham",
-    "english": "prohibit"
-  },
-  {
-    "nr": 658,
-    "thai": "อร่อย",
-    "romanization": "aroi",
-    "english": "delicious"
-  },
-  {
-    "nr": 659,
-    "thai": "ม.",
-    "romanization": "?",
-    "english": "m."
-  },
-  {
-    "nr": 660,
-    "thai": "อ้อ",
-    "romanization": "o",
-    "english": "oh"
-  },
-  {
-    "nr": 661,
-    "thai": "ส์",
-    "romanization": "",
-    "english": "s"
-  },
-  {
-    "nr": 662,
-    "thai": "จุน",
-    "romanization": "chun",
-    "english": "Jun"
-  },
-  {
-    "nr": 663,
-    "thai": "รูป",
-    "romanization": "rup",
-    "english": "photo"
-  },
-  {
-    "nr": 664,
-    "thai": "โบ",
-    "romanization": "bo",
-    "english": "ribbon"
-  },
-  {
-    "nr": 665,
-    "thai": "เจ้าหน้าที่",
-    "romanization": "chao nathi",
-    "english": "officer"
-  },
-  {
-    "nr": 666,
-    "thai": "แค",
-    "romanization": "khae",
-    "english": "Cat"
-  },
-  {
-    "nr": 667,
-    "thai": "ฮิ",
-    "romanization": "hi",
-    "english": "Hi"
-  },
-  {
-    "nr": 668,
-    "thai": "ข้าง",
-    "romanization": "khang",
-    "english": "side"
-  },
-  {
-    "nr": 669,
-    "thai": "จัด",
-    "romanization": "chat",
-    "english": "Organize"
-  },
-  {
-    "nr": 670,
-    "thai": "จริง ๆ",
-    "romanization": "ching ching",
-    "english": "really"
-  },
-  {
-    "nr": 671,
-    "thai": "ทาน",
-    "romanization": "than",
-    "english": "eat"
-  },
-  {
-    "nr": 672,
-    "thai": "หวัด",
-    "romanization": "wat",
-    "english": "cold"
-  },
-  {
-    "nr": 673,
-    "thai": "ข่าว",
-    "romanization": "khao",
-    "english": "news"
-  },
-  {
-    "nr": 674,
-    "thai": "ไร",
-    "romanization": "rai",
-    "english": "Rice"
-  },
-  {
-    "nr": 675,
-    "thai": "ดูเหมือนว่า",
-    "romanization": "du muean wa",
-    "english": "It seems that"
-  },
-  {
-    "nr": 676,
-    "thai": "แก่",
-    "romanization": "kae",
-    "english": "to"
-  },
-  {
-    "nr": 677,
-    "thai": "สบายดี",
-    "romanization": "sabai di",
-    "english": "fine"
-  },
-  {
-    "nr": 678,
-    "thai": "มั๊ย?",
-    "romanization": "mai",
-    "english": "Right?"
-  },
-  {
-    "nr": 679,
-    "thai": "ตอนนั้น",
-    "romanization": "ton nan",
-    "english": "At that time"
-  },
-  {
-    "nr": 680,
-    "thai": "ซี",
-    "romanization": "si",
-    "english": "C"
-  },
-  {
-    "nr": 681,
-    "thai": "ข้างใน",
-    "romanization": "khang nai",
-    "english": "Inside"
-  },
-  {
-    "nr": 682,
-    "thai": "ทรง",
-    "romanization": "song",
-    "english": "His Majesty"
-  },
-  {
-    "nr": 683,
-    "thai": "สูง",
-    "romanization": "sung",
-    "english": "high"
-  },
-  {
-    "nr": 684,
-    "thai": "เรือ",
-    "romanization": "ruea",
-    "english": "ship"
-  },
-  {
-    "nr": 685,
-    "thai": "หาก",
-    "romanization": "hak",
-    "english": "if"
-  },
-  {
-    "nr": 686,
-    "thai": "อยากได้",
-    "romanization": "yak dai",
-    "english": "want to have"
-  },
-  {
-    "nr": 687,
-    "thai": "ความผิด",
-    "romanization": "khwam phit",
-    "english": "mistake"
-  },
-  {
-    "nr": 688,
-    "thai": "เป็นเพื่อน",
-    "romanization": "pen phuean",
-    "english": "Be friends"
-  },
-  {
-    "nr": 689,
-    "thai": "ทหาร",
-    "romanization": "thahan",
-    "english": "soldier"
-  },
-  {
-    "nr": 690,
-    "thai": "เดียวกัน",
-    "romanization": "diao kan",
-    "english": "same"
-  },
-  {
-    "nr": 691,
-    "thai": "กลุ่ม",
-    "romanization": "klum",
-    "english": "group"
-  },
-  {
-    "nr": 692,
-    "thai": "ดิ",
-    "romanization": "di",
-    "english": "The"
-  },
-  {
-    "nr": 693,
-    "thai": "ใช้เวลา",
-    "romanization": "chai wela",
-    "english": "It takes time."
-  },
-  {
-    "nr": 694,
-    "thai": "ช่วง",
-    "romanization": "chuang",
-    "english": "period"
-  },
-  {
-    "nr": 695,
-    "thai": "กล้า",
-    "romanization": "kla",
-    "english": "brave"
-  },
-  {
-    "nr": 696,
-    "thai": "ระเบิด",
-    "romanization": "raboet",
-    "english": "blast"
-  },
-  {
-    "nr": 697,
-    "thai": "แหละ",
-    "romanization": "lae",
-    "english": "That's it."
-  },
-  {
-    "nr": 698,
-    "thai": "ดา",
-    "romanization": "da",
-    "english": "Da"
-  },
-  {
-    "nr": 699,
-    "thai": "ตอบ",
-    "romanization": "top",
-    "english": "reply"
-  },
-  {
-    "nr": 700,
-    "thai": "อาทิตย์",
-    "romanization": "athit",
-    "english": "week"
-  },
-  {
-    "nr": 701,
-    "thai": "วันที่",
-    "romanization": "wan thi",
-    "english": "date"
-  },
-  {
-    "nr": 702,
-    "thai": "รุ",
-    "romanization": "ru",
-    "english": "Ru"
-  },
-  {
-    "nr": 703,
-    "thai": "นึก",
-    "romanization": "nuek",
-    "english": "Think"
-  },
-  {
-    "nr": 704,
-    "thai": "พระองค์",
-    "romanization": "phraong",
-    "english": "His Majesty"
-  },
-  {
-    "nr": 705,
-    "thai": "ต่าง",
-    "romanization": "tang",
-    "english": "different"
-  },
-  {
-    "nr": 706,
-    "thai": "หนัก",
-    "romanization": "nak",
-    "english": "heavy"
-  },
-  {
-    "nr": 707,
-    "thai": "หนัง",
-    "romanization": "nang",
-    "english": "skin"
-  },
-  {
-    "nr": 708,
-    "thai": "รายงาน",
-    "romanization": "rai ngan",
-    "english": "report"
-  },
-  {
-    "nr": 709,
-    "thai": "ต่างหาก",
-    "romanization": "tang hak",
-    "english": "separate"
-  },
-  {
-    "nr": 710,
-    "thai": "เดี๋ยวก่อน",
-    "romanization": "diao kon",
-    "english": "Wait a minute."
-  },
-  {
-    "nr": 711,
-    "thai": "ยิ่ง",
-    "romanization": "ying",
-    "english": "more"
-  },
-  {
-    "nr": 712,
-    "thai": "เป็นไปได้",
-    "romanization": "pen pai dai",
-    "english": "possible"
-  },
-  {
-    "nr": 713,
-    "thai": "เหยื่อ",
-    "romanization": "yuea",
-    "english": "victim"
-  },
-  {
-    "nr": 714,
-    "thai": "จ้ะ",
-    "romanization": "cha",
-    "english": "yes"
-  },
-  {
-    "nr": 715,
-    "thai": "สู่",
-    "romanization": "su",
-    "english": "to"
-  },
-  {
-    "nr": 716,
-    "thai": "ทำตัว",
-    "romanization": "tham tua",
-    "english": "behave"
-  },
-  {
-    "nr": 717,
-    "thai": "หลังจากที่",
-    "romanization": "lang chak thi",
-    "english": "After"
-  },
-  {
-    "nr": 718,
-    "thai": "เย",
-    "romanization": "ye",
-    "english": "Ye"
-  },
-  {
-    "nr": 719,
-    "thai": "แฮ",
-    "romanization": "hae",
-    "english": "Ha"
-  },
-  {
-    "nr": 720,
-    "thai": "ตก",
-    "romanization": "tok",
-    "english": "fall"
-  },
-  {
-    "nr": 721,
-    "thai": "บิน",
-    "romanization": "bin",
-    "english": "fly"
-  },
-  {
-    "nr": 722,
-    "thai": "ร้องไห้",
-    "romanization": "rong hai",
-    "english": "cry"
-  },
-  {
-    "nr": 723,
-    "thai": "เพ",
-    "romanization": "phe",
-    "english": "P"
-  },
-  {
-    "nr": 724,
-    "thai": "ภาพ",
-    "romanization": "phap",
-    "english": "picture"
-  },
-  {
-    "nr": 725,
-    "thai": "ตื่น",
-    "romanization": "tuen",
-    "english": "wake up"
-  },
-  {
-    "nr": 726,
-    "thai": "ตี",
-    "romanization": "ti",
-    "english": "hit"
-  },
-  {
-    "nr": 727,
-    "thai": "คำถาม",
-    "romanization": "kham tham",
-    "english": "question"
-  },
-  {
-    "nr": 728,
-    "thai": "แผน",
-    "romanization": "phaen",
-    "english": "Plan"
-  },
-  {
-    "nr": 729,
-    "thai": "ได้ดี",
-    "romanization": "dai di",
-    "english": "Good job"
-  },
-  {
-    "nr": 730,
-    "thai": "อธิบาย",
-    "romanization": "athibai",
-    "english": "explain"
-  },
-  {
-    "nr": 731,
-    "thai": "ปกติ",
-    "romanization": "pakati",
-    "english": "normal"
-  },
-  {
-    "nr": 732,
-    "thai": "ใบ",
-    "romanization": "bai",
-    "english": "blade"
-  },
-  {
-    "nr": 733,
-    "thai": "อันตราย",
-    "romanization": "antarai",
-    "english": "dangerous"
-  },
-  {
-    "nr": 734,
-    "thai": "เล่า",
-    "romanization": "lao",
-    "english": "Tell me"
-  },
-  {
-    "nr": 735,
-    "thai": "ใจเย็น",
-    "romanization": "chai yen",
-    "english": "calm"
-  },
-  {
-    "nr": 736,
-    "thai": "ไกล",
-    "romanization": "klai",
-    "english": "far"
-  },
-  {
-    "nr": 737,
-    "thai": "คอ",
-    "romanization": "kho",
-    "english": "neck"
-  },
-  {
-    "nr": 738,
-    "thai": "มั่นใจ",
-    "romanization": "man chai",
-    "english": "confident"
-  },
-  {
-    "nr": 739,
-    "thai": "เห",
-    "romanization": "he",
-    "english": "He"
-  },
-  {
-    "nr": 740,
-    "thai": "ศพ",
-    "romanization": "sop",
-    "english": "body"
-  },
-  {
-    "nr": 741,
-    "thai": "ตามที่",
-    "romanization": "tam thi",
-    "english": "According to"
-  },
-  {
-    "nr": 742,
-    "thai": "ไปดู",
-    "romanization": "paidu",
-    "english": "Go and see."
-  },
-  {
-    "nr": 743,
-    "thai": "หลักฐาน",
-    "romanization": "lak than",
-    "english": "evidence"
-  },
-  {
-    "nr": 744,
-    "thai": "เดท",
-    "romanization": "det",
-    "english": "Date"
-  },
-  {
-    "nr": 745,
-    "thai": "แม้ว่า",
-    "romanization": "mae wa",
-    "english": "although"
-  },
-  {
-    "nr": 746,
-    "thai": "พ่อแม่",
-    "romanization": "pho mae",
-    "english": "parents"
-  },
-  {
-    "nr": 747,
-    "thai": "สบาย",
-    "romanization": "sabai",
-    "english": "comfortable"
-  },
-  {
-    "nr": 748,
-    "thai": "ดีแล้ว",
-    "romanization": "di laeo",
-    "english": "good"
-  },
-  {
-    "nr": 749,
-    "thai": "เดินทาง",
-    "romanization": "doen thang",
-    "english": "travel"
-  },
-  {
-    "nr": 750,
-    "thai": "เพิ่ม",
-    "romanization": "phoem",
-    "english": "increase"
-  },
-  {
-    "nr": 751,
-    "thai": "แล้",
-    "romanization": "lae",
-    "english": "Then"
-  },
-  {
-    "nr": 752,
-    "thai": "ออ",
-    "romanization": "o",
-    "english": "gather"
-  },
-  {
-    "nr": 753,
-    "thai": "กระเป๋า",
-    "romanization": "krapao",
-    "english": "bag"
-  },
-  {
-    "nr": 754,
-    "thai": "ระ",
-    "romanization": "ra",
-    "english": "Ra"
-  },
-  {
-    "nr": 755,
-    "thai": "ได้มา",
-    "romanization": "dai ma",
-    "english": "Received"
-  },
-  {
-    "nr": 756,
-    "thai": "หนังสือ",
-    "romanization": "nangsue",
-    "english": "book"
-  },
-  {
-    "nr": 757,
-    "thai": "กุ",
-    "romanization": "ku",
-    "english": "Gu"
-  },
-  {
-    "nr": 758,
-    "thai": "ประเทศ",
-    "romanization": "prathet",
-    "english": "country"
-  },
-  {
-    "nr": 759,
-    "thai": "ข้อความ",
-    "romanization": "kho khwam",
-    "english": "message"
-  },
-  {
-    "nr": 760,
-    "thai": "ถนน",
-    "romanization": "thanon",
-    "english": "road"
-  },
-  {
-    "nr": 761,
-    "thai": "โจ",
-    "romanization": "cho",
-    "english": "Joe"
-  },
-  {
-    "nr": 762,
-    "thai": "แจ",
-    "romanization": "chae",
-    "english": "Jae"
-  },
-  {
-    "nr": 763,
-    "thai": "พลัง",
-    "romanization": "phalang",
-    "english": "energy"
-  },
-  {
-    "nr": 764,
-    "thai": "เริ่มต้น",
-    "romanization": "roem ton",
-    "english": "start"
-  },
-  {
-    "nr": 765,
-    "thai": "เกม",
-    "romanization": "kem",
-    "english": "game"
-  },
-  {
-    "nr": 766,
-    "thai": "ฝัน",
-    "romanization": "fan",
-    "english": "dream"
-  },
-  {
-    "nr": 767,
-    "thai": "บี้",
-    "romanization": "bi",
-    "english": "crumbling"
-  },
-  {
-    "nr": 768,
-    "thai": "พี่สาว",
-    "romanization": "phi sao",
-    "english": "elder sister"
-  },
-  {
-    "nr": 769,
-    "thai": "ตำแหน่ง",
-    "romanization": "tamnaeng",
-    "english": "position"
-  },
-  {
-    "nr": 770,
-    "thai": "ตรวจสอบ",
-    "romanization": "truat sop",
-    "english": "examine"
-  },
-  {
-    "nr": 771,
-    "thai": "ก็ตาม",
-    "romanization": "ko tam",
-    "english": "Anyway."
-  },
-  {
-    "nr": 772,
-    "thai": "อ้า",
-    "romanization": "a",
-    "english": "open"
-  },
-  {
-    "nr": 773,
-    "thai": "เพื่อให้",
-    "romanization": "phuea hai",
-    "english": "In order to"
-  },
-  {
-    "nr": 774,
-    "thai": "ทั้งสอง",
-    "romanization": "thang song",
-    "english": "both"
-  },
-  {
-    "nr": 775,
-    "thai": "ภายใน",
-    "romanization": "phai nai",
-    "english": "inside"
-  },
-  {
-    "nr": 776,
-    "thai": "เงียบ",
-    "romanization": "ngiap",
-    "english": "quiet"
-  },
-  {
-    "nr": 777,
-    "thai": "ตัด",
-    "romanization": "tat",
-    "english": "cut"
-  },
-  {
-    "nr": 778,
-    "thai": "หนุ่ม",
-    "romanization": "num",
-    "english": "boy"
-  },
-  {
-    "nr": 779,
-    "thai": "ทั้งนั้น",
-    "romanization": "thang nan",
-    "english": "All in all"
-  },
-  {
-    "nr": 780,
-    "thai": "ฮัน",
-    "romanization": "han",
-    "english": "Han"
-  },
-  {
-    "nr": 781,
-    "thai": "ยังอยู่",
-    "romanization": "yang yu",
-    "english": "Still here."
-  },
-  {
-    "nr": 782,
-    "thai": "ป้า",
-    "romanization": "pa",
-    "english": "aunt"
-  },
-  {
-    "nr": 783,
-    "thai": "นักเรียน",
-    "romanization": "nak rian",
-    "english": "student"
-  },
-  {
-    "nr": 784,
-    "thai": "แบ",
-    "romanization": "bae",
-    "english": "Bag"
-  },
-  {
-    "nr": 785,
-    "thai": "มีเหตุผล",
-    "romanization": "mi het phon",
-    "english": "There's a reason."
-  },
-  {
-    "nr": 786,
-    "thai": "ค่อย",
-    "romanization": "khoi",
-    "english": "gradually"
-  },
-  {
-    "nr": 787,
-    "thai": "โอกาส",
-    "romanization": "okat",
-    "english": "chance"
-  },
-  {
-    "nr": 788,
-    "thai": "อาวุธ",
-    "romanization": "awut",
-    "english": "weapon"
-  },
-  {
-    "nr": 789,
-    "thai": "วจะ",
-    "romanization": "wacha",
-    "english": "will"
-  },
-  {
-    "nr": 790,
-    "thai": "จุด",
-    "romanization": "chut",
-    "english": "point"
-  },
-  {
-    "nr": 791,
-    "thai": "ตลก",
-    "romanization": "talok",
-    "english": "funny"
-  },
-  {
-    "nr": 792,
-    "thai": "ร้อง",
-    "romanization": "rong",
-    "english": "cry"
-  },
-  {
-    "nr": 793,
-    "thai": "เหนื่อย",
-    "romanization": "nueay",
-    "english": "tired"
-  },
-  {
-    "nr": 794,
-    "thai": "เดิม",
-    "romanization": "doem",
-    "english": "old"
-  },
-  {
-    "nr": 795,
-    "thai": "อยากรู้",
-    "romanization": "ayakru",
-    "english": "I want to know."
-  },
-  {
-    "nr": 796,
-    "thai": "ครั้งแรก",
-    "romanization": "khrang raek",
-    "english": "first time"
-  },
-  {
-    "nr": 797,
-    "thai": "แด",
-    "romanization": "dae",
-    "english": "Da"
-  },
-  {
-    "nr": 798,
-    "thai": "ฉลาด",
-    "romanization": "chalat",
-    "english": "clever"
-  },
-  {
-    "nr": 799,
-    "thai": "เกิน",
-    "romanization": "koen",
-    "english": "over"
-  },
-  {
-    "nr": 800,
-    "thai": "คุง",
-    "romanization": "khung",
-    "english": "Kung"
-  },
-  {
-    "nr": 801,
-    "thai": "เดา",
-    "romanization": "dao",
-    "english": "guess"
-  },
-  {
-    "nr": 802,
-    "thai": "วิน",
-    "romanization": "win",
-    "english": "Win"
-  },
-  {
-    "nr": 803,
-    "thai": "ควบคุม",
-    "romanization": "khuapkhum",
-    "english": "control"
-  },
-  {
-    "nr": 804,
-    "thai": "แอน",
-    "romanization": "aen",
-    "english": "Ann"
-  },
-  {
-    "nr": 805,
-    "thai": "ช้า",
-    "romanization": "cha",
-    "english": "slow"
-  },
-  {
-    "nr": 806,
-    "thai": "มอ",
-    "romanization": "mo",
-    "english": "Motorcycle"
-  },
-  {
-    "nr": 807,
-    "thai": "หลับ",
-    "romanization": "lap",
-    "english": "sleep"
-  },
-  {
-    "nr": 808,
-    "thai": "หมา",
-    "romanization": "ma",
-    "english": "dog"
-  },
-  {
-    "nr": 809,
-    "thai": "ไฟ",
-    "romanization": "fai",
-    "english": "electricity"
-  },
-  {
-    "nr": 810,
-    "thai": "มี่",
-    "romanization": "mi",
-    "english": "blatant"
-  },
-  {
-    "nr": 811,
-    "thai": "เมื่อวาน",
-    "romanization": "muea wan",
-    "english": "yesterday"
-  },
-  {
-    "nr": 812,
-    "thai": "อาการ",
-    "romanization": "akan",
-    "english": "symptom"
-  },
-  {
-    "nr": 813,
-    "thai": "หน่วย",
-    "romanization": "nuai",
-    "english": "unit"
-  },
-  {
-    "nr": 814,
-    "thai": "จอห์น",
-    "romanization": "chon",
-    "english": "John"
-  },
-  {
-    "nr": 815,
-    "thai": "มากขึ้น",
-    "romanization": "mak khuen",
-    "english": "More"
-  },
-  {
-    "nr": 816,
-    "thai": "คู่",
-    "romanization": "khu",
-    "english": "pair"
-  },
-  {
-    "nr": 817,
-    "thai": "ธุรกิจ",
-    "romanization": "thurakit",
-    "english": "business"
-  },
-  {
-    "nr": 818,
-    "thai": "ผ่าตัด",
-    "romanization": "pha tat",
-    "english": "do surgery"
-  },
-  {
-    "nr": 819,
-    "thai": "เจ๋ง",
-    "romanization": "cheng",
-    "english": "cool"
-  },
-  {
-    "nr": 820,
-    "thai": "ก็ดี",
-    "romanization": "ko di",
-    "english": "good"
-  },
-  {
-    "nr": 821,
-    "thai": "ฮัลโหล",
-    "romanization": "hanlo",
-    "english": "hello"
-  },
-  {
-    "nr": 822,
-    "thai": "ระบบ",
-    "romanization": "rabop",
-    "english": "system"
-  },
-  {
-    "nr": 823,
-    "thai": "ป",
-    "romanization": "?",
-    "english": "P"
-  },
-  {
-    "nr": 824,
-    "thai": "ในที่สุด",
-    "romanization": "nai thi sut",
-    "english": "in the end"
-  },
-  {
-    "nr": 825,
-    "thai": "ผู้คน",
-    "romanization": "phu khon",
-    "english": "People"
-  },
-  {
-    "nr": 826,
-    "thai": "ตะ",
-    "romanization": "ta",
-    "english": "Ta"
-  },
-  {
-    "nr": 827,
-    "thai": "ประมาณ",
-    "romanization": "praman",
-    "english": "about"
-  },
-  {
-    "nr": 828,
-    "thai": "แอ",
-    "romanization": "ae",
-    "english": "A"
-  },
-  {
-    "nr": 829,
-    "thai": "หละ",
-    "romanization": "la",
-    "english": "Well?"
-  },
-  {
-    "nr": 830,
-    "thai": "ยัย",
-    "romanization": "yai",
-    "english": "Hey girl"
-  },
-  {
-    "nr": 831,
-    "thai": "สถานที่",
-    "romanization": "sathan thi",
-    "english": "location"
-  },
-  {
-    "nr": 832,
-    "thai": "เลอ",
-    "romanization": "loe",
-    "english": "Le"
-  },
-  {
-    "nr": 833,
-    "thai": "ดัง",
-    "romanization": "dang",
-    "english": "as"
-  },
-  {
-    "nr": 834,
-    "thai": "ขา",
-    "romanization": "kha",
-    "english": "leg"
-  },
-  {
-    "nr": 835,
-    "thai": "พะ",
-    "romanization": "pha",
-    "english": "Pha"
-  },
-  {
-    "nr": 836,
-    "thai": "อีกต่อไป",
-    "romanization": "ik to pai",
-    "english": "No longer"
-  },
-  {
-    "nr": 837,
-    "thai": "คำตอบ",
-    "romanization": "kham top",
-    "english": "answer"
-  },
-  {
-    "nr": 838,
-    "thai": "ยก",
-    "romanization": "yok",
-    "english": "lift"
-  },
-  {
-    "nr": 839,
-    "thai": "เกี่ยวข้อง",
-    "romanization": "kiao khong",
-    "english": "relevant"
-  },
-  {
-    "nr": 840,
-    "thai": "วอ",
-    "romanization": "wo",
-    "english": "sedan"
-  },
-  {
-    "nr": 841,
-    "thai": "แซม",
-    "romanization": "saem",
-    "english": "Sam"
-  },
-  {
-    "nr": 842,
-    "thai": "ที่มา",
-    "romanization": "thima",
-    "english": "Source"
-  },
-  {
-    "nr": 843,
-    "thai": "พอแล้ว",
-    "romanization": "pho laeo",
-    "english": "enough"
-  },
-  {
-    "nr": 844,
-    "thai": "ฐานะ",
-    "romanization": "thana",
-    "english": "position"
-  },
-  {
-    "nr": 845,
-    "thai": "ยอ",
-    "romanization": "yo",
-    "english": "Yo"
-  },
-  {
-    "nr": 846,
-    "thai": "แถว",
-    "romanization": "thaeo",
-    "english": "row"
-  },
-  {
-    "nr": 847,
-    "thai": "สถานการณ์",
-    "romanization": "sathanna kan",
-    "english": "situation"
-  },
-  {
-    "nr": 848,
-    "thai": "ซ์",
-    "romanization": "",
-    "english": "z"
-  },
-  {
-    "nr": 849,
-    "thai": "ซ",
-    "romanization": "?",
-    "english": "C"
-  },
-  {
-    "nr": 850,
-    "thai": "ซอ",
-    "romanization": "so",
-    "english": "fiddle"
-  },
-  {
-    "nr": 851,
-    "thai": "เพียงแค่",
-    "romanization": "phiang khae",
-    "english": "Just"
-  },
-  {
-    "nr": 852,
-    "thai": "ของขวัญ",
-    "romanization": "khong khwan",
-    "english": "gift"
-  },
-  {
-    "nr": 853,
-    "thai": "เออ",
-    "romanization": "oe",
-    "english": "Yes!"
-  },
-  {
-    "nr": 854,
-    "thai": "แพ้",
-    "romanization": "phae",
-    "english": "lose"
-  },
-  {
-    "nr": 855,
-    "thai": "ฝึก",
-    "romanization": "fuek",
-    "english": "Practice"
-  },
-  {
-    "nr": 856,
-    "thai": "ครึ่ง",
-    "romanization": "khrueng",
-    "english": "half"
-  },
-  {
-    "nr": 857,
-    "thai": "โรงแรม",
-    "romanization": "rong raem",
-    "english": "hotel"
-  },
-  {
-    "nr": 858,
-    "thai": "เท่า",
-    "romanization": "thao",
-    "english": "equal"
-  },
-  {
-    "nr": 859,
-    "thai": "ดึง",
-    "romanization": "dueng",
-    "english": "pull"
-  },
-  {
-    "nr": 860,
-    "thai": "เป็นไปไม่ได้",
-    "romanization": "pen pai mai dai",
-    "english": "impossible"
-  },
-  {
-    "nr": 861,
-    "thai": "ความสัมพันธ์",
-    "romanization": "khwam samphan",
-    "english": "relationship"
-  },
-  {
-    "nr": 862,
-    "thai": "ทนาย",
-    "romanization": "thanai",
-    "english": "lawyer"
-  },
-  {
-    "nr": 863,
-    "thai": "จูบ",
-    "romanization": "chup",
-    "english": "kiss"
-  },
-  {
-    "nr": 864,
-    "thai": "หม่อมฉัน",
-    "romanization": "momchan",
-    "english": "I"
-  },
-  {
-    "nr": 865,
-    "thai": "ถึงแม้ว่า",
-    "romanization": "thueng mae wa",
-    "english": "although"
-  },
-  {
-    "nr": 866,
-    "thai": "สุดยอด",
-    "romanization": "sut yot",
-    "english": "superb"
-  },
-  {
-    "nr": 867,
-    "thai": "เก่า",
-    "romanization": "kao",
-    "english": "old"
-  },
-  {
-    "nr": 868,
-    "thai": "บาง",
-    "romanization": "bang",
-    "english": "thin"
-  },
-  {
-    "nr": 869,
-    "thai": "พลาด",
-    "romanization": "phlat",
-    "english": "miss"
-  },
-  {
-    "nr": 870,
-    "thai": "ตรวจ",
-    "romanization": "truat",
-    "english": "check"
-  },
-  {
-    "nr": 871,
-    "thai": "ฝ่าย",
-    "romanization": "fai",
-    "english": "cotton"
-  },
-  {
-    "nr": 872,
-    "thai": "น่ากลัว",
-    "romanization": "na klua",
-    "english": "scary"
-  },
-  {
-    "nr": 873,
-    "thai": "ผล",
-    "romanization": "phon",
-    "english": "result"
-  },
-  {
-    "nr": 874,
-    "thai": "รุ่นพี่",
-    "romanization": "run phi",
-    "english": "senior"
-  },
-  {
-    "nr": 875,
-    "thai": "ต",
-    "romanization": "?",
-    "english": "T"
-  },
-  {
-    "nr": 876,
-    "thai": "โจมตี",
-    "romanization": "chomti",
-    "english": "attack"
-  },
-  {
-    "nr": 877,
-    "thai": "ผู้จัดการ",
-    "romanization": "phu chat kan",
-    "english": "manager"
-  },
-  {
-    "nr": 878,
-    "thai": "ง่ายๆ",
-    "romanization": "ngai ngai",
-    "english": "Simple"
-  },
-  {
-    "nr": 879,
-    "thai": "ช",
-    "romanization": "?",
-    "english": "Ch"
-  },
-  {
-    "nr": 880,
-    "thai": "เจน",
-    "romanization": "chen",
-    "english": "Jane"
-  },
-  {
-    "nr": 881,
-    "thai": "ซ่อน",
-    "romanization": "son",
-    "english": "hide"
-  },
-  {
-    "nr": 882,
-    "thai": "แนะนำ",
-    "romanization": "nae nam",
-    "english": "recommend"
-  },
-  {
-    "nr": 883,
-    "thai": "ครั้งนี้",
-    "romanization": "khrang ni",
-    "english": "This time"
-  },
-  {
-    "nr": 884,
-    "thai": "เมีย",
-    "romanization": "mia",
-    "english": "wife"
-  },
-  {
-    "nr": 885,
-    "thai": "เย็น",
-    "romanization": "yen",
-    "english": "cool"
-  },
-  {
-    "nr": 886,
-    "thai": "ความฝัน",
-    "romanization": "khwam fan",
-    "english": "dream"
-  },
-  {
-    "nr": 887,
-    "thai": "ห้า",
-    "romanization": "ha",
-    "english": "five"
-  },
-  {
-    "nr": 888,
-    "thai": "สงคราม",
-    "romanization": "songkhram",
-    "english": "war"
-  },
-  {
-    "nr": 889,
-    "thai": "ค่า",
-    "romanization": "kha",
-    "english": "fee"
-  },
-  {
-    "nr": 890,
-    "thai": "อ๋อ",
-    "romanization": "o",
-    "english": "oh"
-  },
-  {
-    "nr": 891,
-    "thai": "ทางเลือก",
-    "romanization": "thang lueak",
-    "english": "choice"
-  },
-  {
-    "nr": 892,
-    "thai": "สน",
-    "romanization": "son",
-    "english": "SN"
-  },
-  {
-    "nr": 893,
-    "thai": "ทั้งคู่",
-    "romanization": "thang khu",
-    "english": "both"
-  },
-  {
-    "nr": 894,
-    "thai": "หน้าที่",
-    "romanization": "nathi",
-    "english": "duty"
-  },
-  {
-    "nr": 895,
-    "thai": "ถือ",
-    "romanization": "thue",
-    "english": "hold"
-  },
-  {
-    "nr": 896,
-    "thai": "ทน",
-    "romanization": "thon",
-    "english": "bear"
-  },
-  {
-    "nr": 897,
-    "thai": "หลอก",
-    "romanization": "lok",
-    "english": "trick"
-  },
-  {
-    "nr": 898,
-    "thai": "จากนั้น",
-    "romanization": "chak nan",
-    "english": "Then"
-  },
-  {
-    "nr": 899,
-    "thai": "แรง",
-    "romanization": "raeng",
-    "english": "force"
-  },
-  {
-    "nr": 900,
-    "thai": "เกาหลี",
-    "romanization": "kaoli",
-    "english": "Korea"
-  },
-  {
-    "nr": 901,
-    "thai": "นับ",
-    "romanization": "nap",
-    "english": "count"
-  },
-  {
-    "nr": 902,
-    "thai": "เลี้ยง",
-    "romanization": "liang",
-    "english": "raise"
-  },
-  {
-    "nr": 903,
-    "thai": "คิ",
-    "romanization": "khi",
-    "english": "Ki"
-  },
-  {
-    "nr": 904,
-    "thai": "แสน",
-    "romanization": "saen",
-    "english": "hundred thousand"
-  },
-  {
-    "nr": 905,
-    "thai": "ตลอดเวลา",
-    "romanization": "talot wela",
-    "english": "all the time"
-  },
-  {
-    "nr": 906,
-    "thai": "ที่ผ่านมา",
-    "romanization": "thi phan ma",
-    "english": "In the past"
-  },
-  {
-    "nr": 907,
-    "thai": "แม้",
-    "romanization": "mae",
-    "english": "even"
-  },
-  {
-    "nr": 908,
-    "thai": "สมอง",
-    "romanization": "samong",
-    "english": "brain"
-  },
-  {
-    "nr": 909,
-    "thai": "แท",
-    "romanization": "thae",
-    "english": "Tae"
-  },
-  {
-    "nr": 910,
-    "thai": "ว่ะ",
-    "romanization": "wa",
-    "english": "Wow"
-  },
-  {
-    "nr": 911,
-    "thai": "เจ็บปวด",
-    "romanization": "chep puat",
-    "english": "painful"
-  },
-  {
-    "nr": 912,
-    "thai": "น้องสาว",
-    "romanization": "nong sao",
-    "english": "younger sister"
-  },
-  {
-    "nr": 913,
-    "thai": "คาร์",
-    "romanization": "kha",
-    "english": "Car"
-  },
-  {
-    "nr": 914,
-    "thai": "วางแผน",
-    "romanization": "wang phaen",
-    "english": "plan"
-  },
-  {
-    "nr": 915,
-    "thai": "ขึ้นไป",
-    "romanization": "khuen pai",
-    "english": "Go up"
-  },
-  {
-    "nr": 916,
-    "thai": "คนใน",
-    "romanization": "khon nai",
-    "english": "People inside"
-  },
-  {
-    "nr": 917,
-    "thai": "ไล่",
-    "romanization": "lai",
-    "english": "Chase"
-  },
-  {
-    "nr": 918,
-    "thai": "คำพูด",
-    "romanization": "kham phut",
-    "english": "speech"
-  },
-  {
-    "nr": 919,
-    "thai": "เช้า",
-    "romanization": "chao",
-    "english": "morning"
-  },
-  {
-    "nr": 920,
-    "thai": "มาร",
-    "romanization": "mara",
-    "english": "devil"
-  },
-  {
-    "nr": 921,
-    "thai": "หิว",
-    "romanization": "hio",
-    "english": "hungry"
-  },
-  {
-    "nr": 922,
-    "thai": "ที่จริง",
-    "romanization": "thi ching",
-    "english": "Actually"
-  },
-  {
-    "nr": 923,
-    "thai": "จุ",
-    "romanization": "chu",
-    "english": "Chu"
-  },
-  {
-    "nr": 924,
-    "thai": "ล้อเล่น",
-    "romanization": "lo len",
-    "english": "kid"
-  },
-  {
-    "nr": 925,
-    "thai": "นั้นแหละ",
-    "romanization": "nan lae",
-    "english": "That's it."
-  },
-  {
-    "nr": 926,
-    "thai": "จง",
-    "romanization": "chong",
-    "english": "Go"
-  },
-  {
-    "nr": 927,
-    "thai": "เสื้อ",
-    "romanization": "suea",
-    "english": "shirt"
-  },
-  {
-    "nr": 928,
-    "thai": "ทันที",
-    "romanization": "than thi",
-    "english": "immediately"
-  },
-  {
-    "nr": 929,
-    "thai": "มีโอกาส",
-    "romanization": "mi okat",
-    "english": "There is a chance."
-  },
-  {
-    "nr": 930,
-    "thai": "โล",
-    "romanization": "lo",
-    "english": "Lo"
-  },
-  {
-    "nr": 931,
-    "thai": "แห",
-    "romanization": "hae",
-    "english": "ha"
-  },
-  {
-    "nr": 932,
-    "thai": "ปาร์ตี้",
-    "romanization": "pati",
-    "english": "party"
-  },
-  {
-    "nr": 933,
-    "thai": "ดะ",
-    "romanization": "da",
-    "english": "uncontrollably"
-  },
-  {
-    "nr": 934,
-    "thai": "จาง",
-    "romanization": "chang",
-    "english": "Zhang"
-  },
-  {
-    "nr": 935,
-    "thai": "ลำบาก",
-    "romanization": "lambak",
-    "english": "difficult"
-  },
-  {
-    "nr": 936,
-    "thai": "เหรียญ",
-    "romanization": "rian",
-    "english": "coin"
-  },
-  {
-    "nr": 937,
-    "thai": "เสื้อผ้า",
-    "romanization": "suea pha",
-    "english": "clothes"
-  },
-  {
-    "nr": 938,
-    "thai": "ซ่า",
-    "romanization": "sa",
-    "english": "Saa"
-  },
-  {
-    "nr": 939,
-    "thai": "สี่",
-    "romanization": "si",
-    "english": "four"
-  },
-  {
-    "nr": 940,
-    "thai": "เหตุการณ์",
-    "romanization": "het kan",
-    "english": "event"
-  },
-  {
-    "nr": 941,
-    "thai": "เกือบ",
-    "romanization": "kueap",
-    "english": "Almost"
-  },
-  {
-    "nr": 942,
-    "thai": "แข่ง",
-    "romanization": "khaeng",
-    "english": "race"
-  },
-  {
-    "nr": 943,
-    "thai": "ดูดี",
-    "romanization": "dudi",
-    "english": "look good"
-  },
-  {
-    "nr": 944,
-    "thai": "ปฏิเสธ",
-    "romanization": "patiset",
-    "english": "refuse"
-  },
-  {
-    "nr": 945,
-    "thai": "ข้อ",
-    "romanization": "kho",
-    "english": "Point"
-  },
-  {
-    "nr": 946,
-    "thai": "สำเร็จ",
-    "romanization": "samret",
-    "english": "succeed"
-  },
-  {
-    "nr": 947,
-    "thai": "จากไป",
-    "romanization": "chak pai",
-    "english": "Gone"
-  },
-  {
-    "nr": 948,
-    "thai": "ตัน",
-    "romanization": "tan",
-    "english": "ton"
-  },
-  {
-    "nr": 949,
-    "thai": "เป็นที่",
-    "romanization": "penthi",
-    "english": "It is a place."
-  },
-  {
-    "nr": 950,
-    "thai": "ร่างกาย",
-    "romanization": "rang kai",
-    "english": "body"
-  },
-  {
-    "nr": 951,
-    "thai": "หัวเราะ",
-    "romanization": "huaro",
-    "english": "laugh"
-  },
-  {
-    "nr": 952,
-    "thai": "เหล่านี้",
-    "romanization": "lao ni",
-    "english": "These"
-  },
-  {
-    "nr": 953,
-    "thai": "เฮ้!",
-    "romanization": "he",
-    "english": "Hey!"
-  },
-  {
-    "nr": 954,
-    "thai": "เหอะ",
-    "romanization": "hoe",
-    "english": "Huh?"
-  },
-  {
-    "nr": 955,
-    "thai": "แค่นี้",
-    "romanization": "khae ni",
-    "english": "That's all."
-  },
-  {
-    "nr": 956,
-    "thai": "พัน",
-    "romanization": "phan",
-    "english": "thousand"
-  },
-  {
-    "nr": 957,
-    "thai": "ความลับ",
-    "romanization": "khwam lap",
-    "english": "secret"
-  },
-  {
-    "nr": 958,
-    "thai": "สักหน่อย",
-    "romanization": "sak noi",
-    "english": "A little bit"
-  },
-  {
-    "nr": 959,
-    "thai": "นอกจาก",
-    "romanization": "nok chak",
-    "english": "except"
-  },
-  {
-    "nr": 960,
-    "thai": "บี",
-    "romanization": "bi",
-    "english": "B"
-  },
-  {
-    "nr": 961,
-    "thai": "คุณหมอ",
-    "romanization": "khunmo",
-    "english": "Doctor"
-  },
-  {
-    "nr": 962,
-    "thai": "แล้วกัน",
-    "romanization": "laeo kan",
-    "english": "Okay then."
-  },
-  {
-    "nr": 963,
-    "thai": "ใต้",
-    "romanization": "tai",
-    "english": "under"
-  },
-  {
-    "nr": 964,
-    "thai": "มะ",
-    "romanization": "ma",
-    "english": "Mango"
-  },
-  {
-    "nr": 965,
-    "thai": "ปาก",
-    "romanization": "pak",
-    "english": "mouth"
-  },
-  {
-    "nr": 966,
-    "thai": "อนาคต",
-    "romanization": "anakhot",
-    "english": "future"
-  },
-  {
-    "nr": 967,
-    "thai": "รอด",
-    "romanization": "rot",
-    "english": "survive"
-  },
-  {
-    "nr": 968,
-    "thai": "น้า",
-    "romanization": "na",
-    "english": "aunt"
-  },
-  {
-    "nr": 969,
-    "thai": "ร่วม",
-    "romanization": "ruam",
-    "english": "join"
-  },
-  {
-    "nr": 970,
-    "thai": "คำสั่ง",
-    "romanization": "kham sang",
-    "english": "order"
-  },
-  {
-    "nr": 971,
-    "thai": "ใช้ชีวิต",
-    "romanization": "chai chiwit",
-    "english": "Live life"
-  },
-  {
-    "nr": 972,
-    "thai": "เปลี่ยนไป",
-    "romanization": "plian pai",
-    "english": "Changed."
-  },
-  {
-    "nr": 973,
-    "thai": "สูญเสีย",
-    "romanization": "sun sia",
-    "english": "Loss"
-  },
-  {
-    "nr": 974,
-    "thai": "เตือน",
-    "romanization": "tuean",
-    "english": "warn"
-  },
-  {
-    "nr": 975,
-    "thai": "ทำเป็น",
-    "romanization": "tham pen",
-    "english": "Pretend to"
-  },
-  {
-    "nr": 976,
-    "thai": "นอ",
-    "romanization": "no",
-    "english": "Nor"
-  },
-  {
-    "nr": 977,
-    "thai": "คุณพ่อ",
-    "romanization": "khun pho",
-    "english": "Father"
-  },
-  {
-    "nr": 978,
-    "thai": "ฆาตกร",
-    "romanization": "khattakon",
-    "english": "assassin"
-  },
-  {
-    "nr": 979,
-    "thai": "มักจะ",
-    "romanization": "mak cha",
-    "english": "Often"
-  },
-  {
-    "nr": 980,
-    "thai": "ไม๊",
-    "romanization": "mai",
-    "english": "No"
-  },
-  {
-    "nr": 981,
-    "thai": "บาร์",
-    "romanization": "ba",
-    "english": "bar"
-  },
-  {
-    "nr": 982,
-    "thai": "คุณนาย",
-    "romanization": "khun nai",
-    "english": "Mrs."
-  },
-  {
-    "nr": 983,
-    "thai": "เช่นกัน",
-    "romanization": "chen kan",
-    "english": "too"
-  },
-  {
-    "nr": 984,
-    "thai": "แตก",
-    "romanization": "taek",
-    "english": "break"
-  },
-  {
-    "nr": 985,
-    "thai": "น้องชาย",
-    "romanization": "nong chai",
-    "english": "younger brother"
-  },
-  {
-    "nr": 986,
-    "thai": "ร้องเพลง",
-    "romanization": "rong phleng",
-    "english": "sing"
-  },
-  {
-    "nr": 987,
-    "thai": "อดีต",
-    "romanization": "adit",
-    "english": "past"
-  },
-  {
-    "nr": 988,
-    "thai": "ปาร์ค",
-    "romanization": "pak",
-    "english": "Park"
-  },
-  {
-    "nr": 989,
-    "thai": "โมง",
-    "romanization": "mong",
-    "english": "hour"
-  },
-  {
-    "nr": 990,
-    "thai": "ลงมา",
-    "romanization": "long ma",
-    "english": "Come down"
-  },
-  {
-    "nr": 991,
-    "thai": "ซาน",
-    "romanization": "san",
-    "english": "San"
-  },
-  {
-    "nr": 992,
-    "thai": "หุบปาก",
-    "romanization": "hup pak",
-    "english": "shut your mouth"
-  },
-  {
-    "nr": 993,
-    "thai": "ฆาตกรรม",
-    "romanization": "khatta kam",
-    "english": "murder"
-  },
-  {
-    "nr": 994,
-    "thai": "ปลา",
-    "romanization": "pla",
-    "english": "fish"
-  },
-  {
-    "nr": 995,
-    "thai": "ป่วย",
-    "romanization": "puai",
-    "english": "sick"
-  },
-  {
-    "nr": 996,
-    "thai": "ไม",
-    "romanization": "mai",
-    "english": "no"
-  },
-  {
-    "nr": 997,
-    "thai": "ไหว",
-    "romanization": "wai",
-    "english": "Shaking"
-  },
-  {
-    "nr": 998,
-    "thai": "หมาย",
-    "romanization": "mai",
-    "english": "Meaning"
-  },
-  {
-    "nr": 999,
-    "thai": "ปีศาจ",
-    "romanization": "pisat",
-    "english": "devil"
-  },
-  {
-    "nr": 1000,
-    "thai": "ได",
-    "romanization": "dai",
-    "english": "can"
-  }
+ {
+  "nr": 1,
+  "thai": "ฉัน",
+  "romanization": "chǎn",
+  "english": "I"
+ },
+ {
+  "nr": 2,
+  "thai": "ไม่",
+  "romanization": "mâi",
+  "english": "no"
+ },
+ {
+  "nr": 3,
+  "thai": "จะ",
+  "romanization": "chà",
+  "english": "will"
+ },
+ {
+  "nr": 4,
+  "thai": "คุณ",
+  "romanization": "khun",
+  "english": "you"
+ },
+ {
+  "nr": 5,
+  "thai": "ที่",
+  "romanization": "thîi",
+  "english": "at"
+ },
+ {
+  "nr": 6,
+  "thai": "ได้",
+  "romanization": "dâai",
+  "english": "can"
+ },
+ {
+  "nr": 7,
+  "thai": "ไป",
+  "romanization": "pai",
+  "english": "go"
+ },
+ {
+  "nr": 8,
+  "thai": "เธอ",
+  "romanization": "thoe",
+  "english": "you"
+ },
+ {
+  "nr": 9,
+  "thai": "มัน",
+  "romanization": "man",
+  "english": "it; greasy"
+ },
+ {
+  "nr": 10,
+  "thai": "ผม",
+  "romanization": "phǒm",
+  "english": "I (male); hair"
+ },
+ {
+  "nr": 11,
+  "thai": "ของ",
+  "romanization": "khǒrng",
+  "english": "of"
+ },
+ {
+  "nr": 12,
+  "thai": "ว่า",
+  "romanization": "wâa",
+  "english": "that"
+ },
+ {
+  "nr": 13,
+  "thai": "แล้ว",
+  "romanization": "láew",
+  "english": "already"
+ },
+ {
+  "nr": 14,
+  "thai": "เป็น",
+  "romanization": "pen",
+  "english": "is"
+ },
+ {
+  "nr": 15,
+  "thai": "อะไร",
+  "romanization": "à rai",
+  "english": "what"
+ },
+ {
+  "nr": 16,
+  "thai": "ก็",
+  "romanization": "kôr",
+  "english": "also"
+ },
+ {
+  "nr": 17,
+  "thai": "เรา",
+  "romanization": "rao",
+  "english": "we"
+ },
+ {
+  "nr": 18,
+  "thai": "มี",
+  "romanization": "mii",
+  "english": "have"
+ },
+ {
+  "nr": 19,
+  "thai": "เขา",
+  "romanization": "khǎo",
+  "english": "he"
+ },
+ {
+  "nr": 20,
+  "thai": "มา",
+  "romanization": "maa",
+  "english": "come"
+ },
+ {
+  "nr": 21,
+  "thai": "ให้",
+  "romanization": "hâi",
+  "english": "give"
+ },
+ {
+  "nr": 22,
+  "thai": "อยู่",
+  "romanization": "yùu",
+  "english": "live"
+ },
+ {
+  "nr": 23,
+  "thai": "กับ",
+  "romanization": "kàp",
+  "english": "with"
+ },
+ {
+  "nr": 24,
+  "thai": "นี่",
+  "romanization": "nîi",
+  "english": "this"
+ },
+ {
+  "nr": 25,
+  "thai": "เลย",
+  "romanization": "loej",
+  "english": "at all; go ahead"
+ },
+ {
+  "nr": 26,
+  "thai": "ใน",
+  "romanization": "nai",
+  "english": "in"
+ },
+ {
+  "nr": 27,
+  "thai": "ทำ",
+  "romanization": "tham",
+  "english": "do"
+ },
+ {
+  "nr": 28,
+  "thai": "ใช่",
+  "romanization": "châi",
+  "english": "yes"
+ },
+ {
+  "nr": 29,
+  "thai": "และ",
+  "romanization": "láe",
+  "english": "and"
+ },
+ {
+  "nr": 30,
+  "thai": "ต้อง",
+  "romanization": "tôrng",
+  "english": "must"
+ },
+ {
+  "nr": 31,
+  "thai": "คน",
+  "romanization": "khon",
+  "english": "person"
+ },
+ {
+  "nr": 32,
+  "thai": "นาย",
+  "romanization": "naai",
+  "english": "boss; Mr."
+ },
+ {
+  "nr": 33,
+  "thai": "แต่",
+  "romanization": "tàe",
+  "english": "but"
+ },
+ {
+  "nr": 34,
+  "thai": "นี้",
+  "romanization": "níi",
+  "english": "this"
+ },
+ {
+  "nr": 35,
+  "thai": "รู้",
+  "romanization": "rúu",
+  "english": "know"
+ },
+ {
+  "nr": 36,
+  "thai": "ถ้า",
+  "romanization": "thâa",
+  "english": "if"
+ },
+ {
+  "nr": 37,
+  "thai": "กัน",
+  "romanization": "kan",
+  "english": "together"
+ },
+ {
+  "nr": 38,
+  "thai": "ด้วย",
+  "romanization": "dûai",
+  "english": "too"
+ },
+ {
+  "nr": 39,
+  "thai": "พวก",
+  "romanization": "phûak",
+  "english": "they"
+ },
+ {
+  "nr": 40,
+  "thai": "คิด",
+  "romanization": "khít",
+  "english": "think"
+ },
+ {
+  "nr": 41,
+  "thai": "นั้น",
+  "romanization": "nán",
+  "english": "that"
+ },
+ {
+  "nr": 42,
+  "thai": "ข้า",
+  "romanization": "khâa",
+  "english": "I (archaic)"
+ },
+ {
+  "nr": 43,
+  "thai": "คือ",
+  "romanization": "khue",
+  "english": "to be; that is"
+ },
+ {
+  "nr": 44,
+  "thai": "ดี",
+  "romanization": "dii",
+  "english": "good"
+ },
+ {
+  "nr": 45,
+  "thai": "เรื่อง",
+  "romanization": "rûeang",
+  "english": "subject"
+ },
+ {
+  "nr": 46,
+  "thai": "ทำไม",
+  "romanization": "tham mai",
+  "english": "why"
+ },
+ {
+  "nr": 47,
+  "thai": "อยาก",
+  "romanization": "yàak",
+  "english": "want"
+ },
+ {
+  "nr": 48,
+  "thai": "บอก",
+  "romanization": "bòrk",
+  "english": "tell"
+ },
+ {
+  "nr": 49,
+  "thai": "นั่น",
+  "romanization": "nân",
+  "english": "that (over there)"
+ },
+ {
+  "nr": 50,
+  "thai": "การ",
+  "romanization": "kaan",
+  "english": "affair; matter"
+ },
+ {
+  "nr": 51,
+  "thai": "มาก",
+  "romanization": "mâak",
+  "english": "a lot"
+ },
+ {
+  "nr": 52,
+  "thai": "ยัง",
+  "romanization": "yang",
+  "english": "not yet"
+ },
+ {
+  "nr": 53,
+  "thai": "แค่",
+  "romanization": "khâe",
+  "english": "just"
+ },
+ {
+  "nr": 54,
+  "thai": "ใคร",
+  "romanization": "khrai",
+  "english": "who"
+ },
+ {
+  "nr": 55,
+  "thai": "พูด",
+  "romanization": "phûut",
+  "english": "speak"
+ },
+ {
+  "nr": 56,
+  "thai": "เจ้า",
+  "romanization": "châao",
+  "english": "lord; prince"
+ },
+ {
+  "nr": 57,
+  "thai": "อีก",
+  "romanization": "ìik",
+  "english": "more"
+ },
+ {
+  "nr": 58,
+  "thai": "อย่าง",
+  "romanization": "yàang",
+  "english": "at"
+ },
+ {
+  "nr": 59,
+  "thai": "แม่",
+  "romanization": "mâe",
+  "english": "mother"
+ },
+ {
+  "nr": 60,
+  "thai": "จาก",
+  "romanization": "chàak",
+  "english": "from"
+ },
+ {
+  "nr": 61,
+  "thai": "ดู",
+  "romanization": "duu",
+  "english": "watch"
+ },
+ {
+  "nr": 62,
+  "thai": "พ่อ",
+  "romanization": "phôr",
+  "english": "father"
+ },
+ {
+  "nr": 63,
+  "thai": "ท่าน",
+  "romanization": "thân",
+  "english": "you (respectful)"
+ },
+ {
+  "nr": 64,
+  "thai": "ถึง",
+  "romanization": "thǔeng",
+  "english": "to"
+ },
+ {
+  "nr": 65,
+  "thai": "หรือ",
+  "romanization": "rǔe",
+  "english": "or"
+ },
+ {
+  "nr": 66,
+  "thai": "เอา",
+  "romanization": "ao",
+  "english": "take"
+ },
+ {
+  "nr": 67,
+  "thai": "งั้น",
+  "romanization": "ngán",
+  "english": "otherwise"
+ },
+ {
+  "nr": 68,
+  "thai": "กำลัง",
+  "romanization": "kam lang",
+  "english": "energy"
+ },
+ {
+  "nr": 69,
+  "thai": "พวกเขา",
+  "romanization": "phûak khǎo",
+  "english": "they"
+ },
+ {
+  "nr": 70,
+  "thai": "ที่นี่",
+  "romanization": "thîi nîi",
+  "english": "here"
+ },
+ {
+  "nr": 71,
+  "thai": "ยังไง",
+  "romanization": "yang ngai",
+  "english": "how"
+ },
+ {
+  "nr": 72,
+  "thai": "ถูก",
+  "romanization": "thùuk",
+  "english": "cheap"
+ },
+ {
+  "nr": 73,
+  "thai": "เห็น",
+  "romanization": "hěn",
+  "english": "see"
+ },
+ {
+  "nr": 74,
+  "thai": "กว่า",
+  "romanization": "kwàa",
+  "english": "than"
+ },
+ {
+  "nr": 75,
+  "thai": "เคย",
+  "romanization": "khoej",
+  "english": "ever"
+ },
+ {
+  "nr": 76,
+  "thai": "ทำให้",
+  "romanization": "tham hâi",
+  "english": "make"
+ },
+ {
+  "nr": 77,
+  "thai": "อย่า",
+  "romanization": "yàa",
+  "english": "do not"
+ },
+ {
+  "nr": 78,
+  "thai": "ที่จะ",
+  "romanization": "thîi chà",
+  "english": "to"
+ },
+ {
+  "nr": 79,
+  "thai": "ไว้",
+  "romanization": "wái",
+  "english": "hold"
+ },
+ {
+  "nr": 80,
+  "thai": "ตอนนี้",
+  "romanization": "torn níi",
+  "english": "now"
+ },
+ {
+  "nr": 81,
+  "thai": "เพราะ",
+  "romanization": "phrór",
+  "english": "because"
+ },
+ {
+  "nr": 82,
+  "thai": "สิ่ง",
+  "romanization": "sìng",
+  "english": "thing"
+ },
+ {
+  "nr": 83,
+  "thai": "ช่วย",
+  "romanization": "chûai",
+  "english": "help"
+ },
+ {
+  "nr": 84,
+  "thai": "จริงๆ",
+  "romanization": "ching",
+  "english": "really"
+ },
+ {
+  "nr": 85,
+  "thai": "ต้องการ",
+  "romanization": "tôrng kaan",
+  "english": "need"
+ },
+ {
+  "nr": 86,
+  "thai": "เค้า",
+  "romanization": "kháo",
+  "english": "he/she (colloquial)"
+ },
+ {
+  "nr": 87,
+  "thai": "ออก",
+  "romanization": "òrk",
+  "english": "leave"
+ },
+ {
+  "nr": 88,
+  "thai": "ไหน",
+  "romanization": "nǎi",
+  "english": "which"
+ },
+ {
+  "nr": 89,
+  "thai": "แก",
+  "romanization": "kae",
+  "english": "you (informal)"
+ },
+ {
+  "nr": 90,
+  "thai": "ก่อน",
+  "romanization": "kòrn",
+  "english": "before"
+ },
+ {
+  "nr": 91,
+  "thai": "ชั้น",
+  "romanization": "chán",
+  "english": "class; floor; I"
+ },
+ {
+  "nr": 92,
+  "thai": "เพื่อ",
+  "romanization": "phûea",
+  "english": "to"
+ },
+ {
+  "nr": 93,
+  "thai": "ขึ้น",
+  "romanization": "khûen",
+  "english": "climb"
+ },
+ {
+  "nr": 94,
+  "thai": "พวกเรา",
+  "romanization": "phûak rao",
+  "english": "we"
+ },
+ {
+  "nr": 95,
+  "thai": "เอง",
+  "romanization": "eeng",
+  "english": "myself"
+ },
+ {
+  "nr": 96,
+  "thai": "ลูก",
+  "romanization": "lûuk",
+  "english": "child"
+ },
+ {
+  "nr": 97,
+  "thai": "พี่",
+  "romanization": "phîi",
+  "english": "elder sibling"
+ },
+ {
+  "nr": 98,
+  "thai": "ตาย",
+  "romanization": "taai",
+  "english": "dead"
+ },
+ {
+  "nr": 99,
+  "thai": "แบบ",
+  "romanization": "bàep",
+  "english": "type"
+ },
+ {
+  "nr": 100,
+  "thai": "คง",
+  "romanization": "khong",
+  "english": "probably"
+ },
+ {
+  "nr": 101,
+  "thai": "หน่อย",
+  "romanization": "nòoi",
+  "english": "bit"
+ },
+ {
+  "nr": 102,
+  "thai": "ขอโทษ",
+  "romanization": "khǒr thôot",
+  "english": "excuse me"
+ },
+ {
+  "nr": 103,
+  "thai": "สามารถ",
+  "romanization": "sǎa mâat",
+  "english": "can"
+ },
+ {
+  "nr": 104,
+  "thai": "ขอบคุณ",
+  "romanization": "khòrp khun",
+  "english": "thank you"
+ },
+ {
+  "nr": 105,
+  "thai": "หนู",
+  "romanization": "nǔu",
+  "english": "mouse; I (child/girl)"
+ },
+ {
+  "nr": 106,
+  "thai": "โอเค",
+  "romanization": "oo khee",
+  "english": "okay"
+ },
+ {
+  "nr": 107,
+  "thai": "ชอบ",
+  "romanization": "chôrp",
+  "english": "like"
+ },
+ {
+  "nr": 108,
+  "thai": "เหมือน",
+  "romanization": "mǔean",
+  "english": "like"
+ },
+ {
+  "nr": 109,
+  "thai": "หา",
+  "romanization": "hǎa",
+  "english": "look for"
+ },
+ {
+  "nr": 110,
+  "thai": "สำหรับ",
+  "romanization": "sǎm ràp",
+  "english": "for"
+ },
+ {
+  "nr": 111,
+  "thai": "แบบนี้",
+  "romanization": "bàep níi",
+  "english": "like this"
+ },
+ {
+  "nr": 112,
+  "thai": "ใช้",
+  "romanization": "chái",
+  "english": "use"
+ },
+ {
+  "nr": 113,
+  "thai": "เกิด",
+  "romanization": "kòet",
+  "english": "happen"
+ },
+ {
+  "nr": 114,
+  "thai": "เจอ",
+  "romanization": "choe",
+  "english": "meet"
+ },
+ {
+  "nr": 115,
+  "thai": "รู้สึก",
+  "romanization": "rúu sùek",
+  "english": "feel"
+ },
+ {
+  "nr": 116,
+  "thai": "ตัว",
+  "romanization": "tua",
+  "english": "one"
+ },
+ {
+  "nr": 117,
+  "thai": "เข้าใจ",
+  "romanization": "khâo chai",
+  "english": "understand"
+ },
+ {
+  "nr": 118,
+  "thai": "เมื่อ",
+  "romanization": "mûea",
+  "english": "when"
+ },
+ {
+  "nr": 119,
+  "thai": "กลับ",
+  "romanization": "klàp",
+  "english": "go back"
+ },
+ {
+  "nr": 120,
+  "thai": "เด็ก",
+  "romanization": "dèk",
+  "english": "child"
+ },
+ {
+  "nr": 121,
+  "thai": "ขอ",
+  "romanization": "khǒr",
+  "english": "please"
+ },
+ {
+  "nr": 122,
+  "thai": "จริง",
+  "romanization": "ching",
+  "english": "true; real"
+ },
+ {
+  "nr": 123,
+  "thai": "บ้าง",
+  "romanization": "bâang",
+  "english": "some"
+ },
+ {
+  "nr": 124,
+  "thai": "เร็ว",
+  "romanization": "rew",
+  "english": "fast"
+ },
+ {
+  "nr": 125,
+  "thai": "เวลา",
+  "romanization": "wee laa",
+  "english": "time"
+ },
+ {
+  "nr": 126,
+  "thai": "บ้าน",
+  "romanization": "bâan",
+  "english": "house"
+ },
+ {
+  "nr": 127,
+  "thai": "ฟัง",
+  "romanization": "fang",
+  "english": "listen"
+ },
+ {
+  "nr": 128,
+  "thai": "น่า",
+  "romanization": "nâa",
+  "english": "probably"
+ },
+ {
+  "nr": 129,
+  "thai": "ฆ่า",
+  "romanization": "khâa",
+  "english": "kill"
+ },
+ {
+  "nr": 130,
+  "thai": "ใช่ไหม",
+  "romanization": "châi mǎi",
+  "english": "right?"
+ },
+ {
+  "nr": 131,
+  "thai": "หยุด",
+  "romanization": "yùt",
+  "english": "stop"
+ },
+ {
+  "nr": 132,
+  "thai": "พบ",
+  "romanization": "phóp",
+  "english": "meet"
+ },
+ {
+  "nr": 133,
+  "thai": "เข้า",
+  "romanization": "khâo",
+  "english": "enter"
+ },
+ {
+  "nr": 134,
+  "thai": "กลับมา",
+  "romanization": "klàp maa",
+  "english": "return"
+ },
+ {
+  "nr": 135,
+  "thai": "ลง",
+  "romanization": "long",
+  "english": "go down"
+ },
+ {
+  "nr": 136,
+  "thai": "อาจจะ",
+  "romanization": "àat chà",
+  "english": "may"
+ },
+ {
+  "nr": 137,
+  "thai": "ปี",
+  "romanization": "pii",
+  "english": "year"
+ },
+ {
+  "nr": 138,
+  "thai": "ทั้งหมด",
+  "romanization": "tháng mòt",
+  "english": "all"
+ },
+ {
+  "nr": 139,
+  "thai": "รอ",
+  "romanization": "ror",
+  "english": "wait"
+ },
+ {
+  "nr": 140,
+  "thai": "กิน",
+  "romanization": "kin",
+  "english": "eat"
+ },
+ {
+  "nr": 141,
+  "thai": "ที่สุด",
+  "romanization": "thîi sùt",
+  "english": "the most"
+ },
+ {
+  "nr": 142,
+  "thai": "วัน",
+  "romanization": "wan",
+  "english": "day"
+ },
+ {
+  "nr": 143,
+  "thai": "อย่างนั้น",
+  "romanization": "yàang nán",
+  "english": "like that"
+ },
+ {
+  "nr": 144,
+  "thai": "ทุกคน",
+  "romanization": "thúk khon",
+  "english": "everyone"
+ },
+ {
+  "nr": 145,
+  "thai": "ไม่ต้อง",
+  "romanization": "mâi tôrng",
+  "english": "do not need"
+ },
+ {
+  "nr": 146,
+  "thai": "ทำงาน",
+  "romanization": "tham ngaan",
+  "english": "work"
+ },
+ {
+  "nr": 147,
+  "thai": "อร",
+  "romanization": "orn",
+  "english": "or"
+ },
+ {
+  "nr": 148,
+  "thai": "ได้ยิน",
+  "romanization": "dâai yin",
+  "english": "heard"
+ },
+ {
+  "nr": 149,
+  "thai": "เกี่ยวกับ",
+  "romanization": "kìao kàp",
+  "english": "about"
+ },
+ {
+  "nr": 150,
+  "thai": "รัก",
+  "romanization": "rák",
+  "english": "love"
+ },
+ {
+  "nr": 151,
+  "thai": "เนี่ย",
+  "romanization": "nîa",
+  "english": "this (emphatic)"
+ },
+ {
+  "nr": 152,
+  "thai": "สอง",
+  "romanization": "sǒrng",
+  "english": "two"
+ },
+ {
+  "nr": 153,
+  "thai": "ก็ได้",
+  "romanization": "kôr dâai",
+  "english": "okay"
+ },
+ {
+  "nr": 154,
+  "thai": "ส่ง",
+  "romanization": "sòng",
+  "english": "send"
+ },
+ {
+  "nr": 155,
+  "thai": "โดย",
+  "romanization": "dooi",
+  "english": "by"
+ },
+ {
+  "nr": 156,
+  "thai": "ผู้หญิง",
+  "romanization": "phûu yǐng",
+  "english": "woman"
+ },
+ {
+  "nr": 157,
+  "thai": "วันนี้",
+  "romanization": "wan níi",
+  "english": "today"
+ },
+ {
+  "nr": 158,
+  "thai": "ละ",
+  "romanization": "lá",
+  "english": "per"
+ },
+ {
+  "nr": 159,
+  "thai": "แน่",
+  "romanization": "nâe",
+  "english": "definitely"
+ },
+ {
+  "nr": 160,
+  "thai": "พยายาม",
+  "romanization": "phá yaa yaam",
+  "english": "try"
+ },
+ {
+  "nr": 161,
+  "thai": "เริ่ม",
+  "romanization": "rôem",
+  "english": "start"
+ },
+ {
+  "nr": 162,
+  "thai": "ควร",
+  "romanization": "khuan",
+  "english": "should"
+ },
+ {
+  "nr": 163,
+  "thai": "หนึ่ง",
+  "romanization": "nùeng",
+  "english": "one"
+ },
+ {
+  "nr": 164,
+  "thai": "งาน",
+  "romanization": "ngaan",
+  "english": "work"
+ },
+ {
+  "nr": 165,
+  "thai": "เหมือนกัน",
+  "romanization": "mǔean kan",
+  "english": "the same"
+ },
+ {
+  "nr": 166,
+  "thai": "ทาง",
+  "romanization": "thaang",
+  "english": "way"
+ },
+ {
+  "nr": 167,
+  "thai": "ตัวเอง",
+  "romanization": "tua eeng",
+  "english": "myself"
+ },
+ {
+  "nr": 168,
+  "thai": "ทุกอย่าง",
+  "romanization": "thúk yàang",
+  "english": "everything"
+ },
+ {
+  "nr": 169,
+  "thai": "เชื่อ",
+  "romanization": "chûea",
+  "english": "believe"
+ },
+ {
+  "nr": 170,
+  "thai": "ไม่เป็นไร",
+  "romanization": "mâi pen rai",
+  "english": "nevermind"
+ },
+ {
+  "nr": 171,
+  "thai": "คุย",
+  "romanization": "khui",
+  "english": "talk"
+ },
+ {
+  "nr": 172,
+  "thai": "เดี๋ยว",
+  "romanization": "dǐao",
+  "english": "wait a minute"
+ },
+ {
+  "nr": 173,
+  "thai": "ตอน",
+  "romanization": "torn",
+  "english": "part; when; episode"
+ },
+ {
+  "nr": 174,
+  "thai": "ใหม่",
+  "romanization": "mài",
+  "english": "new"
+ },
+ {
+  "nr": 175,
+  "thai": "นา",
+  "romanization": "naa",
+  "english": "rice field"
+ },
+ {
+  "nr": 176,
+  "thai": "เพื่อน",
+  "romanization": "phûean",
+  "english": "friend"
+ },
+ {
+  "nr": 177,
+  "thai": "อา",
+  "romanization": "aa",
+  "english": "uncle"
+ },
+ {
+  "nr": 178,
+  "thai": "ไอ้",
+  "romanization": "âi",
+  "english": "hey"
+ },
+ {
+  "nr": 179,
+  "thai": "ปล่อย",
+  "romanization": "plòoi",
+  "english": "release"
+ },
+ {
+  "nr": 180,
+  "thai": "บ้า",
+  "romanization": "bâa",
+  "english": "crazy"
+ },
+ {
+  "nr": 181,
+  "thai": "ชื่อ",
+  "romanization": "chûe",
+  "english": "name"
+ },
+ {
+  "nr": 182,
+  "thai": "บน",
+  "romanization": "bon",
+  "english": "on"
+ },
+ {
+  "nr": 183,
+  "thai": "ต่อ",
+  "romanization": "tòr",
+  "english": "continue"
+ },
+ {
+  "nr": 184,
+  "thai": "เล่น",
+  "romanization": "lêen",
+  "english": "play"
+ },
+ {
+  "nr": 185,
+  "thai": "พอ",
+  "romanization": "phor",
+  "english": "enough"
+ },
+ {
+  "nr": 186,
+  "thai": "ที่ไหน",
+  "romanization": "thîi nǎi",
+  "english": "where"
+ },
+ {
+  "nr": 187,
+  "thai": "พา",
+  "romanization": "phaa",
+  "english": "take"
+ },
+ {
+  "nr": 188,
+  "thai": "โทร",
+  "romanization": "thoo",
+  "english": "phone"
+ },
+ {
+  "nr": 189,
+  "thai": "เอ",
+  "romanization": "ee",
+  "english": "a"
+ },
+ {
+  "nr": 190,
+  "thai": "ออกมา",
+  "romanization": "òrk maa",
+  "english": "come out"
+ },
+ {
+  "nr": 191,
+  "thai": "เรียก",
+  "romanization": "rîak",
+  "english": "call"
+ },
+ {
+  "nr": 192,
+  "thai": "โปรด",
+  "romanization": "pròot",
+  "english": "please"
+ },
+ {
+  "nr": 193,
+  "thai": "ที",
+  "romanization": "thii",
+  "english": "time; once"
+ },
+ {
+  "nr": 194,
+  "thai": "น่าจะ",
+  "romanization": "nâa chà",
+  "english": "probably"
+ },
+ {
+  "nr": 195,
+  "thai": "หมด",
+  "romanization": "mòt",
+  "english": "to run out; all"
+ },
+ {
+  "nr": 196,
+  "thai": "ได้รับ",
+  "romanization": "dâai ráp",
+  "english": "receive"
+ },
+ {
+  "nr": 197,
+  "thai": "ชีวิต",
+  "romanization": "chii wít",
+  "english": "life"
+ },
+ {
+  "nr": 198,
+  "thai": "แล้วก็",
+  "romanization": "láew kôr",
+  "english": "and then"
+ },
+ {
+  "nr": 199,
+  "thai": "อาจ",
+  "romanization": "àat",
+  "english": "might"
+ },
+ {
+  "nr": 200,
+  "thai": "รู้จัก",
+  "romanization": "rúu chàk",
+  "english": "know"
+ },
+ {
+  "nr": 201,
+  "thai": "แน่นอน",
+  "romanization": "nâe norn",
+  "english": "certain"
+ },
+ {
+  "nr": 202,
+  "thai": "เข้าไป",
+  "romanization": "khâo pai",
+  "english": "into"
+ },
+ {
+  "nr": 203,
+  "thai": "กำลังจะ",
+  "romanization": "kam lang chà",
+  "english": "about to"
+ },
+ {
+  "nr": 204,
+  "thai": "ใส่",
+  "romanization": "sài",
+  "english": "wear"
+ },
+ {
+  "nr": 205,
+  "thai": "เกิดขึ้น",
+  "romanization": "kòet khûen",
+  "english": "occur"
+ },
+ {
+  "nr": 206,
+  "thai": "ห้อง",
+  "romanization": "hôrng",
+  "english": "room"
+ },
+ {
+  "nr": 207,
+  "thai": "ตอนที่",
+  "romanization": "torn thîi",
+  "english": "episode"
+ },
+ {
+  "nr": 208,
+  "thai": "เดียว",
+  "romanization": "diao",
+  "english": "single"
+ },
+ {
+  "nr": 209,
+  "thai": "ถาม",
+  "romanization": "thǎam",
+  "english": "ask"
+ },
+ {
+  "nr": 210,
+  "thai": "เงิน",
+  "romanization": "ngoen",
+  "english": "money"
+ },
+ {
+  "nr": 211,
+  "thai": "นาน",
+  "romanization": "naan",
+  "english": "long"
+ },
+ {
+  "nr": 212,
+  "thai": "เข้ามา",
+  "romanization": "khâo maa",
+  "english": "come in"
+ },
+ {
+  "nr": 213,
+  "thai": "พระเจ้า",
+  "romanization": "phrá châao",
+  "english": "God"
+ },
+ {
+  "nr": 214,
+  "thai": "ฮา",
+  "romanization": "haa",
+  "english": "haha"
+ },
+ {
+  "nr": 215,
+  "thai": "ควรจะ",
+  "romanization": "khuan chà",
+  "english": "should"
+ },
+ {
+  "nr": 216,
+  "thai": "ผู้ชาย",
+  "romanization": "phûu chaai",
+  "english": "man"
+ },
+ {
+  "nr": 217,
+  "thai": "หรือเปล่า",
+  "romanization": "rǔe plào",
+  "english": "or not?"
+ },
+ {
+  "nr": 218,
+  "thai": "มาจาก",
+  "romanization": "maa chàak",
+  "english": "come from"
+ },
+ {
+  "nr": 219,
+  "thai": "ตาม",
+  "romanization": "taam",
+  "english": "follow"
+ },
+ {
+  "nr": 220,
+  "thai": "ดีกว่า",
+  "romanization": "dii kwàa",
+  "english": "better"
+ },
+ {
+  "nr": 221,
+  "thai": "นึง",
+  "romanization": "nueng",
+  "english": "one"
+ },
+ {
+  "nr": 222,
+  "thai": "บางอย่าง",
+  "romanization": "baang yàang",
+  "english": "something"
+ },
+ {
+  "nr": 223,
+  "thai": "รถ",
+  "romanization": "rót",
+  "english": "car"
+ },
+ {
+  "nr": 224,
+  "thai": "ดังนั้น",
+  "romanization": "dang nán",
+  "english": "so"
+ },
+ {
+  "nr": 225,
+  "thai": "รึเปล่า",
+  "romanization": "rúe plào",
+  "english": "or not?"
+ },
+ {
+  "nr": 226,
+  "thai": "โลก",
+  "romanization": "lôok",
+  "english": "world"
+ },
+ {
+  "nr": 227,
+  "thai": "ทิ้ง",
+  "romanization": "thíng",
+  "english": "throw away"
+ },
+ {
+  "nr": 228,
+  "thai": "อย่างนี้",
+  "romanization": "yàang níi",
+  "english": "like this"
+ },
+ {
+  "nr": 229,
+  "thai": "นัก",
+  "romanization": "nák",
+  "english": "student"
+ },
+ {
+  "nr": 230,
+  "thai": "มากกว่า",
+  "romanization": "mâak kwàa",
+  "english": "more than"
+ },
+ {
+  "nr": 231,
+  "thai": "อืม",
+  "romanization": "uem",
+  "english": "um"
+ },
+ {
+  "nr": 232,
+  "thai": "ทำได้",
+  "romanization": "tham dâai",
+  "english": "can"
+ },
+ {
+  "nr": 233,
+  "thai": "ความ",
+  "romanization": "khwaam",
+  "english": "sense"
+ },
+ {
+  "nr": 234,
+  "thai": "ต่อไป",
+  "romanization": "tòr pai",
+  "english": "next"
+ },
+ {
+  "nr": 235,
+  "thai": "คนเดียว",
+  "romanization": "khon diao",
+  "english": "alone"
+ },
+ {
+  "nr": 236,
+  "thai": "ลืม",
+  "romanization": "luem",
+  "english": "forget"
+ },
+ {
+  "nr": 237,
+  "thai": "รับ",
+  "romanization": "ráp",
+  "english": "receive"
+ },
+ {
+  "nr": 238,
+  "thai": "ครั้ง",
+  "romanization": "khráng",
+  "english": "time"
+ },
+ {
+  "nr": 239,
+  "thai": "จัดการ",
+  "romanization": "chàt kaan",
+  "english": "manage"
+ },
+ {
+  "nr": 240,
+  "thai": "สัก",
+  "romanization": "sàk",
+  "english": "to tattoo; about"
+ },
+ {
+  "nr": 241,
+  "thai": "คนอื่น",
+  "romanization": "khon ùen",
+  "english": "other people"
+ },
+ {
+  "nr": 242,
+  "thai": "ครอบครัว",
+  "romanization": "khrôrp khrua",
+  "english": "family"
+ },
+ {
+  "nr": 243,
+  "thai": "หมายถึง",
+  "romanization": "mǎai thǔeng",
+  "english": "mean"
+ },
+ {
+  "nr": 244,
+  "thai": "ผู้",
+  "romanization": "phûu",
+  "english": "person"
+ },
+ {
+  "nr": 245,
+  "thai": "หมายความว่า",
+  "romanization": "mǎai khwaam wâa",
+  "english": "means that"
+ },
+ {
+  "nr": 246,
+  "thai": "ด้วยกัน",
+  "romanization": "dûai kan",
+  "english": "together"
+ },
+ {
+  "nr": 247,
+  "thai": "กลัว",
+  "romanization": "klua",
+  "english": "afraid"
+ },
+ {
+  "nr": 248,
+  "thai": "สวัสดี",
+  "romanization": "sà wàt dii",
+  "english": "hello"
+ },
+ {
+  "nr": 249,
+  "thai": "หน้า",
+  "romanization": "nâa",
+  "english": "page"
+ },
+ {
+  "nr": 250,
+  "thai": "แต่งงาน",
+  "romanization": "tàeng ngaan",
+  "english": "marry"
+ },
+ {
+  "nr": 251,
+  "thai": "หมอ",
+  "romanization": "mǒr",
+  "english": "doctor"
+ },
+ {
+  "nr": 252,
+  "thai": "บางที",
+  "romanization": "baang thii",
+  "english": "sometimes"
+ },
+ {
+  "nr": 253,
+  "thai": "ยา",
+  "romanization": "yaa",
+  "english": "medicine"
+ },
+ {
+  "nr": 254,
+  "thai": "อย่างไร",
+  "romanization": "yàang rai",
+  "english": "how"
+ },
+ {
+  "nr": 255,
+  "thai": "แห่ง",
+  "romanization": "hàeng",
+  "english": "of"
+ },
+ {
+  "nr": 256,
+  "thai": "ที่นั่น",
+  "romanization": "thîi nân",
+  "english": "there"
+ },
+ {
+  "nr": 257,
+  "thai": "แน่ใจ",
+  "romanization": "nâe chai",
+  "english": "sure"
+ },
+ {
+  "nr": 258,
+  "thai": "เก็บ",
+  "romanization": "kèp",
+  "english": "collect"
+ },
+ {
+  "nr": 259,
+  "thai": "ซัก",
+  "romanization": "sák",
+  "english": "wash"
+ },
+ {
+  "nr": 260,
+  "thai": "จับ",
+  "romanization": "chàp",
+  "english": "hold"
+ },
+ {
+  "nr": 261,
+  "thai": "ทั้ง",
+  "romanization": "tháng",
+  "english": "both; entire"
+ },
+ {
+  "nr": 262,
+  "thai": "ผ่าน",
+  "romanization": "phàan",
+  "english": "pass"
+ },
+ {
+  "nr": 263,
+  "thai": "ซื้อ",
+  "romanization": "súe",
+  "english": "buy"
+ },
+ {
+  "nr": 264,
+  "thai": "ลอง",
+  "romanization": "lorng",
+  "english": "try"
+ },
+ {
+  "nr": 265,
+  "thai": "จบ",
+  "romanization": "chòp",
+  "english": "finish"
+ },
+ {
+  "nr": 266,
+  "thai": "น้อย",
+  "romanization": "nóoi",
+  "english": "little"
+ },
+ {
+  "nr": 267,
+  "thai": "ดื่ม",
+  "romanization": "dùem",
+  "english": "drink"
+ },
+ {
+  "nr": 268,
+  "thai": "เพราะว่า",
+  "romanization": "phrór wâa",
+  "english": "because"
+ },
+ {
+  "nr": 269,
+  "thai": "เปิด",
+  "romanization": "pòet",
+  "english": "open"
+ },
+ {
+  "nr": 270,
+  "thai": "ตั้งแต่",
+  "romanization": "tâng tàe",
+  "english": "since"
+ },
+ {
+  "nr": 271,
+  "thai": "มอง",
+  "romanization": "morng",
+  "english": "look"
+ },
+ {
+  "nr": 272,
+  "thai": "ตกลง",
+  "romanization": "tòk long",
+  "english": "agree"
+ },
+ {
+  "nr": 273,
+  "thai": "ดูเหมือน",
+  "romanization": "duu mǔean",
+  "english": "it seems"
+ },
+ {
+  "nr": 274,
+  "thai": "เลือก",
+  "romanization": "lûeak",
+  "english": "choose"
+ },
+ {
+  "nr": 275,
+  "thai": "เยี่ยม",
+  "romanization": "yîam",
+  "english": "visit"
+ },
+ {
+  "nr": 276,
+  "thai": "ผิด",
+  "romanization": "phìt",
+  "english": "wrong"
+ },
+ {
+  "nr": 277,
+  "thai": "เพิ่ง",
+  "romanization": "phôeng",
+  "english": "just"
+ },
+ {
+  "nr": 278,
+  "thai": "สำคัญ",
+  "romanization": "sǎm khan",
+  "english": "important"
+ },
+ {
+  "nr": 279,
+  "thai": "โดน",
+  "romanization": "doon",
+  "english": "to get (hit/affected)"
+ },
+ {
+  "nr": 280,
+  "thai": "รีบ",
+  "romanization": "rîip",
+  "english": "hurry up"
+ },
+ {
+  "nr": 281,
+  "thai": "นั่ง",
+  "romanization": "nâng",
+  "english": "sit"
+ },
+ {
+  "nr": 282,
+  "thai": "พร้อม",
+  "romanization": "phrórm",
+  "english": "ready"
+ },
+ {
+  "nr": 283,
+  "thai": "อีกแล้ว",
+  "romanization": "ìik láew",
+  "english": "again?"
+ },
+ {
+  "nr": 284,
+  "thai": "แย่",
+  "romanization": "yâe",
+  "english": "badly"
+ },
+ {
+  "nr": 285,
+  "thai": "หวัง",
+  "romanization": "wǎng",
+  "english": "hope"
+ },
+ {
+  "nr": 286,
+  "thai": "หัวหน้า",
+  "romanization": "hǔa nâa",
+  "english": "head"
+ },
+ {
+  "nr": 287,
+  "thai": "ชาย",
+  "romanization": "chaai",
+  "english": "man"
+ },
+ {
+  "nr": 288,
+  "thai": "เสียง",
+  "romanization": "sǐang",
+  "english": "sound"
+ },
+ {
+  "nr": 289,
+  "thai": "เสียใจ",
+  "romanization": "sǐa chai",
+  "english": "sad"
+ },
+ {
+  "nr": 290,
+  "thai": "ออกจาก",
+  "romanization": "òrk chàak",
+  "english": "leave"
+ },
+ {
+  "nr": 291,
+  "thai": "อีกครั้ง",
+  "romanization": "ìik khráng",
+  "english": "once again"
+ },
+ {
+  "nr": 292,
+  "thai": "หาย",
+  "romanization": "hǎai",
+  "english": "to disappear; recover"
+ },
+ {
+  "nr": 293,
+  "thai": "เดิน",
+  "romanization": "doen",
+  "english": "walk"
+ },
+ {
+  "nr": 294,
+  "thai": "ตา",
+  "romanization": "taa",
+  "english": "eye; grandfather"
+ },
+ {
+  "nr": 295,
+  "thai": "อัน",
+  "romanization": "an",
+  "english": "an"
+ },
+ {
+  "nr": 296,
+  "thai": "คืน",
+  "romanization": "khuen",
+  "english": "night"
+ },
+ {
+  "nr": 297,
+  "thai": "สวย",
+  "romanization": "sǔai",
+  "english": "beautiful"
+ },
+ {
+  "nr": 298,
+  "thai": "ซึ่ง",
+  "romanization": "sûeng",
+  "english": "which"
+ },
+ {
+  "nr": 299,
+  "thai": "ยิง",
+  "romanization": "ying",
+  "english": "shoot"
+ },
+ {
+  "nr": 300,
+  "thai": "อื่น",
+  "romanization": "ùen",
+  "english": "another"
+ },
+ {
+  "nr": 301,
+  "thai": "ขนาด",
+  "romanization": "khà nàat",
+  "english": "size"
+ },
+ {
+  "nr": 302,
+  "thai": "นาง",
+  "romanization": "naang",
+  "english": "mrs"
+ },
+ {
+  "nr": 303,
+  "thai": "คงจะ",
+  "romanization": "khong chà",
+  "english": "would"
+ },
+ {
+  "nr": 304,
+  "thai": "ทุก",
+  "romanization": "thúk",
+  "english": "each"
+ },
+ {
+  "nr": 305,
+  "thai": "จำ",
+  "romanization": "cham",
+  "english": "remember"
+ },
+ {
+  "nr": 306,
+  "thai": "สร้าง",
+  "romanization": "sâang",
+  "english": "build"
+ },
+ {
+  "nr": 307,
+  "thai": "เปลี่ยน",
+  "romanization": "plìan",
+  "english": "change"
+ },
+ {
+  "nr": 308,
+  "thai": "ใหญ่",
+  "romanization": "yài",
+  "english": "big"
+ },
+ {
+  "nr": 309,
+  "thai": "เอาล่ะ",
+  "romanization": "ao lâ",
+  "english": "okay"
+ },
+ {
+  "nr": 310,
+  "thai": "ไปหา",
+  "romanization": "pai hǎa",
+  "english": "go find"
+ },
+ {
+  "nr": 311,
+  "thai": "ความจริง",
+  "romanization": "khwaam ching",
+  "english": "truth"
+ },
+ {
+  "nr": 312,
+  "thai": "หนี",
+  "romanization": "nǐi",
+  "english": "escape"
+ },
+ {
+  "nr": 313,
+  "thai": "เท",
+  "romanization": "thee",
+  "english": "to pour"
+ },
+ {
+  "nr": 314,
+  "thai": "เพียง",
+  "romanization": "phiang",
+  "english": "only"
+ },
+ {
+  "nr": 315,
+  "thai": "เท่านั้น",
+  "romanization": "thâo nán",
+  "english": "only"
+ },
+ {
+  "nr": 316,
+  "thai": "พวกคุณ",
+  "romanization": "phûak khun",
+  "english": "you"
+ },
+ {
+  "nr": 317,
+  "thai": "สาม",
+  "romanization": "sǎam",
+  "english": "three"
+ },
+ {
+  "nr": 318,
+  "thai": "แรก",
+  "romanization": "râek",
+  "english": "first"
+ },
+ {
+  "nr": 319,
+  "thai": "เดี๋ยวนี้",
+  "romanization": "dǐao níi",
+  "english": "now"
+ },
+ {
+  "nr": 320,
+  "thai": "ตำรวจ",
+  "romanization": "tam rùat",
+  "english": "policeman"
+ },
+ {
+  "nr": 321,
+  "thai": "นอน",
+  "romanization": "norn",
+  "english": "sleep"
+ },
+ {
+  "nr": 322,
+  "thai": "พูดว่า",
+  "romanization": "phûut wâa",
+  "english": "say that"
+ },
+ {
+  "nr": 323,
+  "thai": "ที่รัก",
+  "romanization": "thîi rák",
+  "english": "darling"
+ },
+ {
+  "nr": 324,
+  "thai": "ยาก",
+  "romanization": "yâak",
+  "english": "difficult"
+ },
+ {
+  "nr": 325,
+  "thai": "ดูแล",
+  "romanization": "duu lae",
+  "english": "look after"
+ },
+ {
+  "nr": 326,
+  "thai": "กลับบ้าน",
+  "romanization": "klàp bâan",
+  "english": "go home"
+ },
+ {
+  "nr": 327,
+  "thai": "ยอม",
+  "romanization": "yorm",
+  "english": "to give in"
+ },
+ {
+  "nr": 328,
+  "thai": "มีความสุข",
+  "romanization": "mii khwaam sùk",
+  "english": "be happy"
+ },
+ {
+  "nr": 329,
+  "thai": "แต่ว่า",
+  "romanization": "tàe wâa",
+  "english": "but"
+ },
+ {
+  "nr": 330,
+  "thai": "ดีมาก",
+  "romanization": "dii mâak",
+  "english": "very good"
+ },
+ {
+  "nr": 331,
+  "thai": "หลาย",
+  "romanization": "lǎai",
+  "english": "many"
+ },
+ {
+  "nr": 332,
+  "thai": "โกหก",
+  "romanization": "koo hòk",
+  "english": "lie"
+ },
+ {
+  "nr": 333,
+  "thai": "เปล่า",
+  "romanization": "plào",
+  "english": "no; empty"
+ },
+ {
+  "nr": 334,
+  "thai": "ตรงนี้",
+  "romanization": "trong níi",
+  "english": "here"
+ },
+ {
+  "nr": 335,
+  "thai": "เหมือนกับ",
+  "romanization": "mǔean kàp",
+  "english": "like"
+ },
+ {
+  "nr": 336,
+  "thai": "เสีย",
+  "romanization": "sǐa",
+  "english": "broken"
+ },
+ {
+  "nr": 337,
+  "thai": "ฝ่า",
+  "romanization": "fàa",
+  "english": "break"
+ },
+ {
+  "nr": 338,
+  "thai": "หรือไม่",
+  "romanization": "rǔe mâi",
+  "english": "or not?"
+ },
+ {
+  "nr": 339,
+  "thai": "ทีม",
+  "romanization": "thiim",
+  "english": "team"
+ },
+ {
+  "nr": 340,
+  "thai": "สนใจ",
+  "romanization": "sǒn chai",
+  "english": "interested"
+ },
+ {
+  "nr": 341,
+  "thai": "บาท",
+  "romanization": "bàat",
+  "english": "baht; foot (verse)"
+ },
+ {
+  "nr": 342,
+  "thai": "ทา",
+  "romanization": "thaa",
+  "english": "to apply; spread"
+ },
+ {
+  "nr": 343,
+  "thai": "วิธี",
+  "romanization": "wí thii",
+  "english": "way"
+ },
+ {
+  "nr": 344,
+  "thai": "โรงเรียน",
+  "romanization": "roong rian",
+  "english": "school"
+ },
+ {
+  "nr": 345,
+  "thai": "เรียน",
+  "romanization": "rian",
+  "english": "learn"
+ },
+ {
+  "nr": 346,
+  "thai": "อยู่แล้ว",
+  "romanization": "yùu láew",
+  "english": "already there"
+ },
+ {
+  "nr": 347,
+  "thai": "ที่อยู่",
+  "romanization": "thîi yùu",
+  "english": "address"
+ },
+ {
+  "nr": 348,
+  "thai": "สัญญา",
+  "romanization": "sǎn yaa",
+  "english": "contract"
+ },
+ {
+  "nr": 349,
+  "thai": "คำ",
+  "romanization": "kham",
+  "english": "word"
+ },
+ {
+  "nr": 350,
+  "thai": "รา",
+  "romanization": "raa",
+  "english": "mold; fungus"
+ },
+ {
+  "nr": 351,
+  "thai": "ระหว่าง",
+  "romanization": "rá wàang",
+  "english": "between"
+ },
+ {
+  "nr": 352,
+  "thai": "จน",
+  "romanization": "chon",
+  "english": "until"
+ },
+ {
+  "nr": 353,
+  "thai": "กา",
+  "romanization": "kaa",
+  "english": "crow; kettle"
+ },
+ {
+  "nr": 354,
+  "thai": "หลัง",
+  "romanization": "lǎng",
+  "english": "behind"
+ },
+ {
+  "nr": 355,
+  "thai": "คิดถึง",
+  "romanization": "khít thǔeng",
+  "english": "miss"
+ },
+ {
+  "nr": 356,
+  "thai": "แฟน",
+  "romanization": "faen",
+  "english": "sweetheart"
+ },
+ {
+  "nr": 357,
+  "thai": "เสร็จ",
+  "romanization": "sèt",
+  "english": "finish"
+ },
+ {
+  "nr": 358,
+  "thai": "จอง",
+  "romanization": "chorng",
+  "english": "reserve"
+ },
+ {
+  "nr": 359,
+  "thai": "ประตู",
+  "romanization": "prà tuu",
+  "english": "door"
+ },
+ {
+  "nr": 360,
+  "thai": "ตั้ง",
+  "romanization": "tâng",
+  "english": "set"
+ },
+ {
+  "nr": 361,
+  "thai": "เมือง",
+  "romanization": "mueang",
+  "english": "city"
+ },
+ {
+  "nr": 362,
+  "thai": "มีทาง",
+  "romanization": "mii thaang",
+  "english": "there is a way"
+ },
+ {
+  "nr": 363,
+  "thai": "มือ",
+  "romanization": "mue",
+  "english": "hand"
+ },
+ {
+  "nr": 364,
+  "thai": "ประธาน",
+  "romanization": "prà thaan",
+  "english": "chairman"
+ },
+ {
+  "nr": 365,
+  "thai": "คอย",
+  "romanization": "khooi",
+  "english": "wait"
+ },
+ {
+  "nr": 366,
+  "thai": "หล่อน",
+  "romanization": "lòrn",
+  "english": "her"
+ },
+ {
+  "nr": 367,
+  "thai": "เยอะ",
+  "romanization": "yóe",
+  "english": "a lot"
+ },
+ {
+  "nr": 368,
+  "thai": "อายุ",
+  "romanization": "aa yú",
+  "english": "age"
+ },
+ {
+  "nr": 369,
+  "thai": "หลังจาก",
+  "romanization": "lǎng chàak",
+  "english": "after"
+ },
+ {
+  "nr": 370,
+  "thai": "เป็นเรื่อง",
+  "romanization": "pen rûeang",
+  "english": "it's a matter"
+ },
+ {
+  "nr": 371,
+  "thai": "ยุ่ง",
+  "romanization": "yûng",
+  "english": "busy"
+ },
+ {
+  "nr": 372,
+  "thai": "พูดถึง",
+  "romanization": "phûut thǔeng",
+  "english": "speaking of"
+ },
+ {
+  "nr": 373,
+  "thai": "โง่",
+  "romanization": "ngôo",
+  "english": "stupid"
+ },
+ {
+  "nr": 374,
+  "thai": "สุดท้าย",
+  "romanization": "sùt tháai",
+  "english": "last"
+ },
+ {
+  "nr": 375,
+  "thai": "เหตุผล",
+  "romanization": "hèet phǒn",
+  "english": "reason"
+ },
+ {
+  "nr": 376,
+  "thai": "ขอให้",
+  "romanization": "khǒr hâi",
+  "english": "please"
+ },
+ {
+  "nr": 377,
+  "thai": "ชา",
+  "romanization": "chaa",
+  "english": "tea; numb"
+ },
+ {
+  "nr": 378,
+  "thai": "มีปัญหา",
+  "romanization": "mii pan hǎa",
+  "english": "have a problem"
+ },
+ {
+  "nr": 379,
+  "thai": "เจอกัน",
+  "romanization": "choe kan",
+  "english": "meet"
+ },
+ {
+  "nr": 380,
+  "thai": "ตลอด",
+  "romanization": "tà lòrt",
+  "english": "always"
+ },
+ {
+  "nr": 381,
+  "thai": "เมื่อไหร่",
+  "romanization": "mûea rài",
+  "english": "when"
+ },
+ {
+  "nr": 382,
+  "thai": "หัวใจ",
+  "romanization": "hǔa chai",
+  "english": "heart"
+ },
+ {
+  "nr": 383,
+  "thai": "บริษัท",
+  "romanization": "bor rí sàt",
+  "english": "company"
+ },
+ {
+  "nr": 384,
+  "thai": "เลิก",
+  "romanization": "lôek",
+  "english": "finish"
+ },
+ {
+  "nr": 385,
+  "thai": "องค์",
+  "romanization": "ong",
+  "english": "(classifier for monks/royalty)"
+ },
+ {
+  "nr": 386,
+  "thai": "ถูกต้อง",
+  "romanization": "thùuk tôrng",
+  "english": "correct"
+ },
+ {
+  "nr": 387,
+  "thai": "เกินไป",
+  "romanization": "koen pai",
+  "english": "too"
+ },
+ {
+  "nr": 388,
+  "thai": "ใกล้",
+  "romanization": "klâi",
+  "english": "near"
+ },
+ {
+  "nr": 389,
+  "thai": "ลูกชาย",
+  "romanization": "lûuk chaai",
+  "english": "son"
+ },
+ {
+  "nr": 390,
+  "thai": "มีชีวิต",
+  "romanization": "mii chii wít",
+  "english": "alive"
+ },
+ {
+  "nr": 391,
+  "thai": "นำ",
+  "romanization": "nam",
+  "english": "lead"
+ },
+ {
+  "nr": 392,
+  "thai": "เหลือ",
+  "romanization": "lǔea",
+  "english": "left"
+ },
+ {
+  "nr": 393,
+  "thai": "เท่าไหร่",
+  "romanization": "thâo rài",
+  "english": "how much"
+ },
+ {
+  "nr": 394,
+  "thai": "พรุ่งนี้",
+  "romanization": "phrûng níi",
+  "english": "tomorrow"
+ },
+ {
+  "nr": 395,
+  "thai": "นาที",
+  "romanization": "naa thii",
+  "english": "minute"
+ },
+ {
+  "nr": 396,
+  "thai": "ช่าง",
+  "romanization": "châng",
+  "english": "tradesman"
+ },
+ {
+  "nr": 397,
+  "thai": "เป็นไง",
+  "romanization": "pen ngai",
+  "english": "how was it?"
+ },
+ {
+  "nr": 398,
+  "thai": "หัว",
+  "romanization": "hǔa",
+  "english": "head"
+ },
+ {
+  "nr": 399,
+  "thai": "อาหาร",
+  "romanization": "aa hǎan",
+  "english": "food"
+ },
+ {
+  "nr": 400,
+  "thai": "ขาย",
+  "romanization": "khǎai",
+  "english": "sell"
+ },
+ {
+  "nr": 401,
+  "thai": "สนุก",
+  "romanization": "sà nùk",
+  "english": "fun"
+ },
+ {
+  "nr": 402,
+  "thai": "กู",
+  "romanization": "kuu",
+  "english": "I (vulgar)"
+ },
+ {
+  "nr": 403,
+  "thai": "เล็ก",
+  "romanization": "lék",
+  "english": "small"
+ },
+ {
+  "nr": 404,
+  "thai": "คืนนี้",
+  "romanization": "khuen níi",
+  "english": "this evening"
+ },
+ {
+  "nr": 405,
+  "thai": "บางคน",
+  "romanization": "baang khon",
+  "english": "some people"
+ },
+ {
+  "nr": 406,
+  "thai": "เลือด",
+  "romanization": "lûeat",
+  "english": "blood"
+ },
+ {
+  "nr": 407,
+  "thai": "แปลก",
+  "romanization": "plàek",
+  "english": "strange"
+ },
+ {
+  "nr": 408,
+  "thai": "รู้เรื่อง",
+  "romanization": "rúu rûeang",
+  "english": "i know"
+ },
+ {
+  "nr": 409,
+  "thai": "ชุด",
+  "romanization": "chút",
+  "english": "set"
+ },
+ {
+  "nr": 410,
+  "thai": "สาย",
+  "romanization": "sǎai",
+  "english": "line"
+ },
+ {
+  "nr": 411,
+  "thai": "จ่าย",
+  "romanization": "chàai",
+  "english": "pay"
+ },
+ {
+  "nr": 412,
+  "thai": "ข้อมูล",
+  "romanization": "khôr muun",
+  "english": "information"
+ },
+ {
+  "nr": 413,
+  "thai": "ลูกสาว",
+  "romanization": "lûuk sǎao",
+  "english": "daughter"
+ },
+ {
+  "nr": 414,
+  "thai": "ตรง",
+  "romanization": "trong",
+  "english": "straight"
+ },
+ {
+  "nr": 415,
+  "thai": "เขียน",
+  "romanization": "khǐan",
+  "english": "write"
+ },
+ {
+  "nr": 416,
+  "thai": "กลายเป็น",
+  "romanization": "klaai pen",
+  "english": "it became"
+ },
+ {
+  "nr": 417,
+  "thai": "สัน",
+  "romanization": "sǎn",
+  "english": "ridge"
+ },
+ {
+  "nr": 418,
+  "thai": "ทำลาย",
+  "romanization": "tham laai",
+  "english": "destroy"
+ },
+ {
+  "nr": 419,
+  "thai": "กังวล",
+  "romanization": "kang won",
+  "english": "worry"
+ },
+ {
+  "nr": 420,
+  "thai": "แน่ๆ",
+  "romanization": "nâe",
+  "english": "definitely"
+ },
+ {
+  "nr": 421,
+  "thai": "ซี่",
+  "romanization": "sîi",
+  "english": "teeth"
+ },
+ {
+  "nr": 422,
+  "thai": "อาจารย์",
+  "romanization": "aa chaan",
+  "english": "lecturer"
+ },
+ {
+  "nr": 423,
+  "thai": "ปัญหา",
+  "romanization": "pan hǎa",
+  "english": "problem"
+ },
+ {
+  "nr": 424,
+  "thai": "ลา",
+  "romanization": "laa",
+  "english": "donkey"
+ },
+ {
+  "nr": 425,
+  "thai": "เดือน",
+  "romanization": "duean",
+  "english": "month"
+ },
+ {
+  "nr": 426,
+  "thai": "น่ารัก",
+  "romanization": "nâa rák",
+  "english": "cute"
+ },
+ {
+  "nr": 427,
+  "thai": "ไม่ค่อย",
+  "romanization": "mâi khôoi",
+  "english": "not really"
+ },
+ {
+  "nr": 428,
+  "thai": "ปิด",
+  "romanization": "pìt",
+  "english": "turn off"
+ },
+ {
+  "nr": 429,
+  "thai": "น้ำ",
+  "romanization": "náam",
+  "english": "water"
+ },
+ {
+  "nr": 430,
+  "thai": "วาง",
+  "romanization": "waang",
+  "english": "place"
+ },
+ {
+  "nr": 431,
+  "thai": "ความรัก",
+  "romanization": "khwaam rák",
+  "english": "love"
+ },
+ {
+  "nr": 432,
+  "thai": "ร้าน",
+  "romanization": "ráan",
+  "english": "store"
+ },
+ {
+  "nr": 433,
+  "thai": "เสมอ",
+  "romanization": "sà mǒe",
+  "english": "always"
+ },
+ {
+  "nr": 434,
+  "thai": "ยินดี",
+  "romanization": "yin dii",
+  "english": "pleased"
+ },
+ {
+  "nr": 435,
+  "thai": "ชิน",
+  "romanization": "chin",
+  "english": "accustomed"
+ },
+ {
+  "nr": 436,
+  "thai": "ติด",
+  "romanization": "tìt",
+  "english": "stuck"
+ },
+ {
+  "nr": 437,
+  "thai": "ขอบใจ",
+  "romanization": "khòrp chai",
+  "english": "thank"
+ },
+ {
+  "nr": 438,
+  "thai": "มีเรื่อง",
+  "romanization": "mii rûeang",
+  "english": "there's a story"
+ },
+ {
+  "nr": 439,
+  "thai": "ชนะ",
+  "romanization": "chá ná",
+  "english": "win"
+ },
+ {
+  "nr": 440,
+  "thai": "ปลอดภัย",
+  "romanization": "plòrt phai",
+  "english": "safe"
+ },
+ {
+  "nr": 441,
+  "thai": "จึง",
+  "romanization": "chueng",
+  "english": "therefore"
+ },
+ {
+  "nr": 442,
+  "thai": "กะ",
+  "romanization": "kà",
+  "english": "ka"
+ },
+ {
+  "nr": 443,
+  "thai": "ล่า",
+  "romanization": "lâa",
+  "english": "to hunt"
+ },
+ {
+  "nr": 444,
+  "thai": "แสดง",
+  "romanization": "sà daeng",
+  "english": "show"
+ },
+ {
+  "nr": 445,
+  "thai": "ง่าย",
+  "romanization": "ngâai",
+  "english": "easy"
+ },
+ {
+  "nr": 446,
+  "thai": "ครู",
+  "romanization": "khruu",
+  "english": "teacher"
+ },
+ {
+  "nr": 447,
+  "thai": "มาถึง",
+  "romanization": "maa thǔeng",
+  "english": "arrive"
+ },
+ {
+  "nr": 448,
+  "thai": "กี่",
+  "romanization": "kìi",
+  "english": "how many"
+ },
+ {
+  "nr": 449,
+  "thai": "สู้",
+  "romanization": "sûu",
+  "english": "fight"
+ },
+ {
+  "nr": 450,
+  "thai": "สงสัย",
+  "romanization": "sǒng sǎi",
+  "english": "wonder"
+ },
+ {
+  "nr": 451,
+  "thai": "เชิญ",
+  "romanization": "choen",
+  "english": "invite"
+ },
+ {
+  "nr": 452,
+  "thai": "วิ่ง",
+  "romanization": "wîng",
+  "english": "run"
+ },
+ {
+  "nr": 453,
+  "thai": "ก่อนที่",
+  "romanization": "kòrn thîi",
+  "english": "before"
+ },
+ {
+  "nr": 454,
+  "thai": "รักษา",
+  "romanization": "rák sǎa",
+  "english": "treat"
+ },
+ {
+  "nr": 455,
+  "thai": "ข้างนอก",
+  "romanization": "khâang nôrk",
+  "english": "outside"
+ },
+ {
+  "nr": 456,
+  "thai": "สาว",
+  "romanization": "sǎao",
+  "english": "girl"
+ },
+ {
+  "nr": 457,
+  "thai": "ไม่ต้องการ",
+  "romanization": "mâi tôrng kaan",
+  "english": "do not need"
+ },
+ {
+  "nr": 458,
+  "thai": "ปกป้อง",
+  "romanization": "pòk pôrng",
+  "english": "protect"
+ },
+ {
+  "nr": 459,
+  "thai": "มนุษย์",
+  "romanization": "má nút",
+  "english": "human"
+ },
+ {
+  "nr": 460,
+  "thai": "ห่วง",
+  "romanization": "hùang",
+  "english": "worried; ring"
+ },
+ {
+  "nr": 461,
+  "thai": "รอบ",
+  "romanization": "rôrp",
+  "english": "time"
+ },
+ {
+  "nr": 462,
+  "thai": "ตัดสินใจ",
+  "romanization": "tàt sǐn chai",
+  "english": "decide"
+ },
+ {
+  "nr": 463,
+  "thai": "ทุกๆ",
+  "romanization": "thúk",
+  "english": "every"
+ },
+ {
+  "nr": 464,
+  "thai": "เพลง",
+  "romanization": "phleeng",
+  "english": "song"
+ },
+ {
+  "nr": 465,
+  "thai": "รู",
+  "romanization": "ruu",
+  "english": "hole"
+ },
+ {
+  "nr": 466,
+  "thai": "ให้ได้",
+  "romanization": "hâi dâai",
+  "english": "to get it"
+ },
+ {
+  "nr": 467,
+  "thai": "ส่วน",
+  "romanization": "sùan",
+  "english": "part"
+ },
+ {
+  "nr": 468,
+  "thai": "ดีใจ",
+  "romanization": "dii chai",
+  "english": "happy"
+ },
+ {
+  "nr": 469,
+  "thai": "ไทย",
+  "romanization": "thai",
+  "english": "Thai"
+ },
+ {
+  "nr": 470,
+  "thai": "จำเป็นต้อง",
+  "romanization": "cham pen tôrng",
+  "english": "it is necessary"
+ },
+ {
+  "nr": 471,
+  "thai": "เอาไว้",
+  "romanization": "ao wái",
+  "english": "keep it"
+ },
+ {
+  "nr": 472,
+  "thai": "ตามหา",
+  "romanization": "taam hǎa",
+  "english": "searching for"
+ },
+ {
+  "nr": 473,
+  "thai": "ปืน",
+  "romanization": "puen",
+  "english": "gun"
+ },
+ {
+  "nr": 474,
+  "thai": "มาหา",
+  "romanization": "maa hǎa",
+  "english": "come to me"
+ },
+ {
+  "nr": 475,
+  "thai": "บรรยาย",
+  "romanization": "ban yaai",
+  "english": "describe"
+ },
+ {
+  "nr": 476,
+  "thai": "อ่าน",
+  "romanization": "àan",
+  "english": "read"
+ },
+ {
+  "nr": 477,
+  "thai": "คดี",
+  "romanization": "khá dii",
+  "english": "case"
+ },
+ {
+  "nr": 478,
+  "thai": "โทษ",
+  "romanization": "thôot",
+  "english": "punishment; to blame"
+ },
+ {
+  "nr": 479,
+  "thai": "พัก",
+  "romanization": "phák",
+  "english": "to rest; stay"
+ },
+ {
+  "nr": 480,
+  "thai": "เกลียด",
+  "romanization": "klìat",
+  "english": "hate"
+ },
+ {
+  "nr": 481,
+  "thai": "ขึ้นกับ",
+  "romanization": "khûen kàp",
+  "english": "it depends"
+ },
+ {
+  "nr": 482,
+  "thai": "นั่นแหละ",
+  "romanization": "nân làe",
+  "english": "that!"
+ },
+ {
+  "nr": 483,
+  "thai": "จนกว่า",
+  "romanization": "chon kwàa",
+  "english": "unless"
+ },
+ {
+  "nr": 484,
+  "thai": "โต",
+  "romanization": "too",
+  "english": "big; to grow up"
+ },
+ {
+  "nr": 485,
+  "thai": "หญิง",
+  "romanization": "yǐng",
+  "english": "female"
+ },
+ {
+  "nr": 486,
+  "thai": "พี่ชาย",
+  "romanization": "phîi chaai",
+  "english": "elder brother"
+ },
+ {
+  "nr": 487,
+  "thai": "เป็นการ",
+  "romanization": "pen kaan",
+  "english": "it is"
+ },
+ {
+  "nr": 488,
+  "thai": "สุด",
+  "romanization": "sùt",
+  "english": "end"
+ },
+ {
+  "nr": 489,
+  "thai": "ซอง",
+  "romanization": "sorng",
+  "english": "envelope"
+ },
+ {
+  "nr": 490,
+  "thai": "ความคิด",
+  "romanization": "khwaam khít",
+  "english": "idea"
+ },
+ {
+  "nr": 491,
+  "thai": "ชั่วโมง",
+  "romanization": "chûa moong",
+  "english": "hour"
+ },
+ {
+  "nr": 492,
+  "thai": "ที่แล้ว",
+  "romanization": "thîi láew",
+  "english": "last time"
+ },
+ {
+  "nr": 493,
+  "thai": "เจ็บ",
+  "romanization": "chèp",
+  "english": "hurt"
+ },
+ {
+  "nr": 494,
+  "thai": "ระวัง",
+  "romanization": "rá wang",
+  "english": "be careful"
+ },
+ {
+  "nr": 495,
+  "thai": "ใจ",
+  "romanization": "chai",
+  "english": "heart"
+ },
+ {
+  "nr": 496,
+  "thai": "โรงพยาบาล",
+  "romanization": "roong phá yaa baan",
+  "english": "hospital"
+ },
+ {
+  "nr": 497,
+  "thai": "เก่ง",
+  "romanization": "kèeng",
+  "english": "skilled; clever"
+ },
+ {
+  "nr": 498,
+  "thai": "กรุณา",
+  "romanization": "kà rú naa",
+  "english": "please"
+ },
+ {
+  "nr": 499,
+  "thai": "ลุง",
+  "romanization": "lung",
+  "english": "uncle"
+ },
+ {
+  "nr": 500,
+  "thai": "สอน",
+  "romanization": "sǒrn",
+  "english": "teach"
+ },
+ {
+  "nr": 501,
+  "thai": "เครื่อง",
+  "romanization": "khrûeang",
+  "english": "machine"
+ },
+ {
+  "nr": 502,
+  "thai": "ย้าย",
+  "romanization": "yáai",
+  "english": "to move; relocate"
+ },
+ {
+  "nr": 503,
+  "thai": "ด้าน",
+  "romanization": "dâan",
+  "english": "side"
+ },
+ {
+  "nr": 504,
+  "thai": "สี",
+  "romanization": "sǐi",
+  "english": "color"
+ },
+ {
+  "nr": 505,
+  "thai": "ล้าน",
+  "romanization": "láan",
+  "english": "million"
+ },
+ {
+  "nr": 506,
+  "thai": "สามี",
+  "romanization": "sǎa mii",
+  "english": "husband"
+ },
+ {
+  "nr": 507,
+  "thai": "ยังมี",
+  "romanization": "yang mii",
+  "english": "there are still some"
+ },
+ {
+  "nr": 508,
+  "thai": "ยอมรับ",
+  "romanization": "yorm ráp",
+  "english": "accept"
+ },
+ {
+  "nr": 509,
+  "thai": "กี้",
+  "romanization": "kîi",
+  "english": "kie"
+ },
+ {
+  "nr": 510,
+  "thai": "แม้แต่",
+  "romanization": "máe tàe",
+  "english": "even"
+ },
+ {
+  "nr": 511,
+  "thai": "ความรู้สึก",
+  "romanization": "khwaam rúu sùek",
+  "english": "feeling"
+ },
+ {
+  "nr": 512,
+  "thai": "ดีขึ้น",
+  "romanization": "dii khûen",
+  "english": "better"
+ },
+ {
+  "nr": 513,
+  "thai": "สั่ง",
+  "romanization": "sàng",
+  "english": "order"
+ },
+ {
+  "nr": 514,
+  "thai": "โทรศัพท์",
+  "romanization": "thoo rá sàp",
+  "english": "telephone"
+ },
+ {
+  "nr": 515,
+  "thai": "นิดหน่อย",
+  "romanization": "nít nòoi",
+  "english": "a little"
+ },
+ {
+  "nr": 516,
+  "thai": "ตรงนั้น",
+  "romanization": "trong nán",
+  "english": "over there"
+ },
+ {
+  "nr": 517,
+  "thai": "โชคดี",
+  "romanization": "chôok dii",
+  "english": "good luck"
+ },
+ {
+  "nr": 518,
+  "thai": "หรือยัง",
+  "romanization": "rǔe yang",
+  "english": "or not yet?"
+ },
+ {
+  "nr": 519,
+  "thai": "จำได้",
+  "romanization": "cham dâai",
+  "english": "can remember"
+ },
+ {
+  "nr": 520,
+  "thai": "เต้น",
+  "romanization": "têen",
+  "english": "dance"
+ },
+ {
+  "nr": 521,
+  "thai": "ขอร้อง",
+  "romanization": "khǒr rórng",
+  "english": "ask"
+ },
+ {
+  "nr": 522,
+  "thai": "ขโมย",
+  "romanization": "khà mooi",
+  "english": "steal"
+ },
+ {
+  "nr": 523,
+  "thai": "พระ",
+  "romanization": "phrá",
+  "english": "monk"
+ },
+ {
+  "nr": 524,
+  "thai": "โกรธ",
+  "romanization": "kròot",
+  "english": "angry"
+ },
+ {
+  "nr": 525,
+  "thai": "ทำร้าย",
+  "romanization": "tham ráai",
+  "english": "attack"
+ },
+ {
+  "nr": 526,
+  "thai": "เป็นห่วง",
+  "romanization": "pen hùang",
+  "english": "worry"
+ },
+ {
+  "nr": 527,
+  "thai": "ยืน",
+  "romanization": "yuen",
+  "english": "stand"
+ },
+ {
+  "nr": 528,
+  "thai": "หรือว่า",
+  "romanization": "rǔe wâa",
+  "english": "or maybe"
+ },
+ {
+  "nr": 529,
+  "thai": "เรียบร้อย",
+  "romanization": "rîap róoi",
+  "english": "tidy"
+ },
+ {
+  "nr": 530,
+  "thai": "มากมาย",
+  "romanization": "mâak maai",
+  "english": "lots"
+ },
+ {
+  "nr": 531,
+  "thai": "หรือไง",
+  "romanization": "rǔe ngai",
+  "english": "or what?"
+ },
+ {
+  "nr": 532,
+  "thai": "ติดต่อ",
+  "romanization": "tìt tòr",
+  "english": "contact"
+ },
+ {
+  "nr": 533,
+  "thai": "ยังคง",
+  "romanization": "yang khong",
+  "english": "still"
+ },
+ {
+  "nr": 534,
+  "thai": "เตรียม",
+  "romanization": "triam",
+  "english": "prepare"
+ },
+ {
+  "nr": 535,
+  "thai": "ดง",
+  "romanization": "dong",
+  "english": "dong"
+ },
+ {
+  "nr": 536,
+  "thai": "พิเศษ",
+  "romanization": "phí sèet",
+  "english": "special"
+ },
+ {
+  "nr": 537,
+  "thai": "ตั้งใจ",
+  "romanization": "tâng chai",
+  "english": "intend"
+ },
+ {
+  "nr": 538,
+  "thai": "แทน",
+  "romanization": "thaen",
+  "english": "instead"
+ },
+ {
+  "nr": 539,
+  "thai": "ภรรยา",
+  "romanization": "phan yaa",
+  "english": "wife"
+ },
+ {
+  "nr": 540,
+  "thai": "เบอร์",
+  "romanization": "boe",
+  "english": "number"
+ },
+ {
+  "nr": 541,
+  "thai": "ไอ",
+  "romanization": "ai",
+  "english": "cough"
+ },
+ {
+  "nr": 542,
+  "thai": "ทราบ",
+  "romanization": "sâap",
+  "english": "know"
+ },
+ {
+  "nr": 543,
+  "thai": "ห้าม",
+  "romanization": "hâam",
+  "english": "prohibit"
+ },
+ {
+  "nr": 544,
+  "thai": "อร่อย",
+  "romanization": "à ròoi",
+  "english": "delicious"
+ },
+ {
+  "nr": 545,
+  "thai": "รูป",
+  "romanization": "rûup",
+  "english": "photo"
+ },
+ {
+  "nr": 546,
+  "thai": "เจ้าหน้าที่",
+  "romanization": "châao nâa thîi",
+  "english": "officer"
+ },
+ {
+  "nr": 547,
+  "thai": "ข้าง",
+  "romanization": "khâang",
+  "english": "side"
+ },
+ {
+  "nr": 548,
+  "thai": "จัด",
+  "romanization": "chàt",
+  "english": "organize"
+ },
+ {
+  "nr": 549,
+  "thai": "จริง ๆ",
+  "romanization": "ching",
+  "english": "really"
+ },
+ {
+  "nr": 550,
+  "thai": "ทาน",
+  "romanization": "thaan",
+  "english": "eat"
+ },
+ {
+  "nr": 551,
+  "thai": "หวัด",
+  "romanization": "wàt",
+  "english": "cold; flu"
+ },
+ {
+  "nr": 552,
+  "thai": "ข่าว",
+  "romanization": "khàao",
+  "english": "news"
+ },
+ {
+  "nr": 553,
+  "thai": "ไร",
+  "romanization": "rai",
+  "english": "what (colloquial)"
+ },
+ {
+  "nr": 554,
+  "thai": "ดูเหมือนว่า",
+  "romanization": "duu mǔean wâa",
+  "english": "it seems that"
+ },
+ {
+  "nr": 555,
+  "thai": "แก่",
+  "romanization": "kàe",
+  "english": "to"
+ },
+ {
+  "nr": 556,
+  "thai": "สบายดี",
+  "romanization": "sà baai dii",
+  "english": "fine"
+ },
+ {
+  "nr": 557,
+  "thai": "ตอนนั้น",
+  "romanization": "torn nán",
+  "english": "at that time"
+ },
+ {
+  "nr": 558,
+  "thai": "ข้างใน",
+  "romanization": "khâang nai",
+  "english": "inside"
+ },
+ {
+  "nr": 559,
+  "thai": "ทรง",
+  "romanization": "song",
+  "english": "shape; (royal prefix)"
+ },
+ {
+  "nr": 560,
+  "thai": "สูง",
+  "romanization": "sǔung",
+  "english": "high"
+ },
+ {
+  "nr": 561,
+  "thai": "เรือ",
+  "romanization": "ruea",
+  "english": "ship"
+ },
+ {
+  "nr": 562,
+  "thai": "หาก",
+  "romanization": "hàak",
+  "english": "if"
+ },
+ {
+  "nr": 563,
+  "thai": "อยากได้",
+  "romanization": "yàak dâai",
+  "english": "want to have"
+ },
+ {
+  "nr": 564,
+  "thai": "ความผิด",
+  "romanization": "khwaam phìt",
+  "english": "mistake"
+ },
+ {
+  "nr": 565,
+  "thai": "เป็นเพื่อน",
+  "romanization": "pen phûean",
+  "english": "be friends"
+ },
+ {
+  "nr": 566,
+  "thai": "ทหาร",
+  "romanization": "thá hǎan",
+  "english": "soldier"
+ },
+ {
+  "nr": 567,
+  "thai": "เดียวกัน",
+  "romanization": "diao kan",
+  "english": "same"
+ },
+ {
+  "nr": 568,
+  "thai": "กลุ่ม",
+  "romanization": "klùm",
+  "english": "group"
+ },
+ {
+  "nr": 569,
+  "thai": "ใช้เวลา",
+  "romanization": "chái wee laa",
+  "english": "it takes time"
+ },
+ {
+  "nr": 570,
+  "thai": "ช่วง",
+  "romanization": "chûang",
+  "english": "period"
+ },
+ {
+  "nr": 571,
+  "thai": "กล้า",
+  "romanization": "klâa",
+  "english": "brave"
+ },
+ {
+  "nr": 572,
+  "thai": "ระเบิด",
+  "romanization": "rá bòet",
+  "english": "blast"
+ },
+ {
+  "nr": 573,
+  "thai": "แหละ",
+  "romanization": "làe",
+  "english": "that's it"
+ },
+ {
+  "nr": 574,
+  "thai": "ตอบ",
+  "romanization": "tòrp",
+  "english": "reply"
+ },
+ {
+  "nr": 575,
+  "thai": "อาทิตย์",
+  "romanization": "aa thít",
+  "english": "week; sun"
+ },
+ {
+  "nr": 576,
+  "thai": "วันที่",
+  "romanization": "wan thîi",
+  "english": "date"
+ },
+ {
+  "nr": 577,
+  "thai": "นึก",
+  "romanization": "núek",
+  "english": "to think; recall"
+ },
+ {
+  "nr": 578,
+  "thai": "พระองค์",
+  "romanization": "phrá ong",
+  "english": "him/her (royalty)"
+ },
+ {
+  "nr": 579,
+  "thai": "ต่าง",
+  "romanization": "tàang",
+  "english": "different"
+ },
+ {
+  "nr": 580,
+  "thai": "หนัก",
+  "romanization": "nàk",
+  "english": "heavy"
+ },
+ {
+  "nr": 581,
+  "thai": "หนัง",
+  "romanization": "nǎng",
+  "english": "movie; leather"
+ },
+ {
+  "nr": 582,
+  "thai": "รายงาน",
+  "romanization": "raai ngaan",
+  "english": "report"
+ },
+ {
+  "nr": 583,
+  "thai": "ต่างหาก",
+  "romanization": "tàang hàak",
+  "english": "separate"
+ },
+ {
+  "nr": 584,
+  "thai": "เดี๋ยวก่อน",
+  "romanization": "dǐao kòrn",
+  "english": "wait a minute"
+ },
+ {
+  "nr": 585,
+  "thai": "ยิ่ง",
+  "romanization": "yîng",
+  "english": "even more"
+ },
+ {
+  "nr": 586,
+  "thai": "เป็นไปได้",
+  "romanization": "pen pai dâai",
+  "english": "possible"
+ },
+ {
+  "nr": 587,
+  "thai": "เหยื่อ",
+  "romanization": "yùea",
+  "english": "victim"
+ },
+ {
+  "nr": 588,
+  "thai": "สู่",
+  "romanization": "sùu",
+  "english": "toward"
+ },
+ {
+  "nr": 589,
+  "thai": "ทำตัว",
+  "romanization": "tham tua",
+  "english": "behave"
+ },
+ {
+  "nr": 590,
+  "thai": "หลังจากที่",
+  "romanization": "lǎng chàak thîi",
+  "english": "after"
+ },
+ {
+  "nr": 591,
+  "thai": "ตก",
+  "romanization": "tòk",
+  "english": "to fall"
+ },
+ {
+  "nr": 592,
+  "thai": "บิน",
+  "romanization": "bin",
+  "english": "to fly"
+ },
+ {
+  "nr": 593,
+  "thai": "ร้องไห้",
+  "romanization": "rórng hâai",
+  "english": "cry"
+ },
+ {
+  "nr": 594,
+  "thai": "ภาพ",
+  "romanization": "phâap",
+  "english": "image; picture"
+ },
+ {
+  "nr": 595,
+  "thai": "ตื่น",
+  "romanization": "tùen",
+  "english": "wake up"
+ },
+ {
+  "nr": 596,
+  "thai": "ตี",
+  "romanization": "tii",
+  "english": "to hit; (o’clock, morning)"
+ },
+ {
+  "nr": 597,
+  "thai": "คำถาม",
+  "romanization": "kham thǎam",
+  "english": "question"
+ },
+ {
+  "nr": 598,
+  "thai": "แผน",
+  "romanization": "phǎen",
+  "english": "plan"
+ },
+ {
+  "nr": 599,
+  "thai": "ได้ดี",
+  "romanization": "dâai dii",
+  "english": "good job"
+ },
+ {
+  "nr": 600,
+  "thai": "อธิบาย",
+  "romanization": "à thí baai",
+  "english": "explain"
+ },
+ {
+  "nr": 601,
+  "thai": "ปกติ",
+  "romanization": "pòk kà tì",
+  "english": "normal"
+ },
+ {
+  "nr": 602,
+  "thai": "ใบ",
+  "romanization": "bai",
+  "english": "leaf; (classifier); sheet"
+ },
+ {
+  "nr": 603,
+  "thai": "อันตราย",
+  "romanization": "an tà raai",
+  "english": "dangerous"
+ },
+ {
+  "nr": 604,
+  "thai": "เล่า",
+  "romanization": "lâo",
+  "english": "tell me"
+ },
+ {
+  "nr": 605,
+  "thai": "ใจเย็น",
+  "romanization": "chai yen",
+  "english": "calm"
+ },
+ {
+  "nr": 606,
+  "thai": "ไกล",
+  "romanization": "klai",
+  "english": "far"
+ },
+ {
+  "nr": 607,
+  "thai": "คอ",
+  "romanization": "khor",
+  "english": "neck"
+ },
+ {
+  "nr": 608,
+  "thai": "มั่นใจ",
+  "romanization": "mân chai",
+  "english": "confident"
+ },
+ {
+  "nr": 609,
+  "thai": "ศพ",
+  "romanization": "sòp",
+  "english": "body"
+ },
+ {
+  "nr": 610,
+  "thai": "ตามที่",
+  "romanization": "taam thîi",
+  "english": "according to"
+ },
+ {
+  "nr": 611,
+  "thai": "ไปดู",
+  "romanization": "pai duu",
+  "english": "go and see"
+ },
+ {
+  "nr": 612,
+  "thai": "หลักฐาน",
+  "romanization": "làk thǎan",
+  "english": "evidence"
+ },
+ {
+  "nr": 613,
+  "thai": "เดท",
+  "romanization": "dèet",
+  "english": "date"
+ },
+ {
+  "nr": 614,
+  "thai": "แม้ว่า",
+  "romanization": "máe wâa",
+  "english": "although"
+ },
+ {
+  "nr": 615,
+  "thai": "พ่อแม่",
+  "romanization": "phôr mâe",
+  "english": "parents"
+ },
+ {
+  "nr": 616,
+  "thai": "สบาย",
+  "romanization": "sà baai",
+  "english": "comfortable"
+ },
+ {
+  "nr": 617,
+  "thai": "ดีแล้ว",
+  "romanization": "dii láew",
+  "english": "good"
+ },
+ {
+  "nr": 618,
+  "thai": "เดินทาง",
+  "romanization": "doen thaang",
+  "english": "travel"
+ },
+ {
+  "nr": 619,
+  "thai": "เพิ่ม",
+  "romanization": "phôem",
+  "english": "increase"
+ },
+ {
+  "nr": 620,
+  "thai": "กระเป๋า",
+  "romanization": "krà pǎo",
+  "english": "bag"
+ },
+ {
+  "nr": 621,
+  "thai": "ได้มา",
+  "romanization": "dâai maa",
+  "english": "received"
+ },
+ {
+  "nr": 622,
+  "thai": "หนังสือ",
+  "romanization": "nǎng sǔe",
+  "english": "book"
+ },
+ {
+  "nr": 623,
+  "thai": "กุ",
+  "romanization": "kù",
+  "english": "gu"
+ },
+ {
+  "nr": 624,
+  "thai": "ประเทศ",
+  "romanization": "prà thêet",
+  "english": "country"
+ },
+ {
+  "nr": 625,
+  "thai": "ข้อความ",
+  "romanization": "khôr khwaam",
+  "english": "message"
+ },
+ {
+  "nr": 626,
+  "thai": "ถนน",
+  "romanization": "thà nǒn",
+  "english": "road"
+ },
+ {
+  "nr": 627,
+  "thai": "โจ",
+  "romanization": "choo",
+  "english": "joe"
+ },
+ {
+  "nr": 628,
+  "thai": "แจ",
+  "romanization": "chae",
+  "english": "jae"
+ },
+ {
+  "nr": 629,
+  "thai": "พลัง",
+  "romanization": "phá lang",
+  "english": "energy"
+ },
+ {
+  "nr": 630,
+  "thai": "เริ่มต้น",
+  "romanization": "rôem tôn",
+  "english": "start"
+ },
+ {
+  "nr": 631,
+  "thai": "เกม",
+  "romanization": "keem",
+  "english": "game"
+ },
+ {
+  "nr": 632,
+  "thai": "ฝัน",
+  "romanization": "fǎn",
+  "english": "dream"
+ },
+ {
+  "nr": 633,
+  "thai": "บี้",
+  "romanization": "bîi",
+  "english": "to crush"
+ },
+ {
+  "nr": 634,
+  "thai": "พี่สาว",
+  "romanization": "phîi sǎao",
+  "english": "elder sister"
+ },
+ {
+  "nr": 635,
+  "thai": "ตำแหน่ง",
+  "romanization": "tam nàeng",
+  "english": "position"
+ },
+ {
+  "nr": 636,
+  "thai": "ตรวจสอบ",
+  "romanization": "trùat sòrp",
+  "english": "examine"
+ },
+ {
+  "nr": 637,
+  "thai": "ก็ตาม",
+  "romanization": "kôr taam",
+  "english": "anyway"
+ },
+ {
+  "nr": 638,
+  "thai": "อ้า",
+  "romanization": "âa",
+  "english": "open"
+ },
+ {
+  "nr": 639,
+  "thai": "เพื่อให้",
+  "romanization": "phûea hâi",
+  "english": "in order to"
+ },
+ {
+  "nr": 640,
+  "thai": "ทั้งสอง",
+  "romanization": "tháng sǒrng",
+  "english": "both"
+ },
+ {
+  "nr": 641,
+  "thai": "ภายใน",
+  "romanization": "phaai nai",
+  "english": "inside"
+ },
+ {
+  "nr": 642,
+  "thai": "เงียบ",
+  "romanization": "ngîap",
+  "english": "quiet"
+ },
+ {
+  "nr": 643,
+  "thai": "ตัด",
+  "romanization": "tàt",
+  "english": "cut"
+ },
+ {
+  "nr": 644,
+  "thai": "หนุ่ม",
+  "romanization": "nùm",
+  "english": "boy"
+ },
+ {
+  "nr": 645,
+  "thai": "ทั้งนั้น",
+  "romanization": "tháng nán",
+  "english": "all in all"
+ },
+ {
+  "nr": 646,
+  "thai": "ยังอยู่",
+  "romanization": "yang yùu",
+  "english": "still here"
+ },
+ {
+  "nr": 647,
+  "thai": "ป้า",
+  "romanization": "pâa",
+  "english": "aunt (older)"
+ },
+ {
+  "nr": 648,
+  "thai": "นักเรียน",
+  "romanization": "nák rian",
+  "english": "student"
+ },
+ {
+  "nr": 649,
+  "thai": "แบ",
+  "romanization": "bae",
+  "english": "to open (palm)"
+ },
+ {
+  "nr": 650,
+  "thai": "มีเหตุผล",
+  "romanization": "mii hèet phǒn",
+  "english": "there's a reason"
+ },
+ {
+  "nr": 651,
+  "thai": "ค่อย",
+  "romanization": "khôoi",
+  "english": "gradually"
+ },
+ {
+  "nr": 652,
+  "thai": "โอกาส",
+  "romanization": "oo kàat",
+  "english": "chance"
+ },
+ {
+  "nr": 653,
+  "thai": "อาวุธ",
+  "romanization": "aa wút",
+  "english": "weapon"
+ },
+ {
+  "nr": 654,
+  "thai": "จุด",
+  "romanization": "chùt",
+  "english": "point"
+ },
+ {
+  "nr": 655,
+  "thai": "ตลก",
+  "romanization": "tà lòk",
+  "english": "funny"
+ },
+ {
+  "nr": 656,
+  "thai": "ร้อง",
+  "romanization": "rórng",
+  "english": "cry"
+ },
+ {
+  "nr": 657,
+  "thai": "เหนื่อย",
+  "romanization": "nùeai",
+  "english": "tired"
+ },
+ {
+  "nr": 658,
+  "thai": "เดิม",
+  "romanization": "doem",
+  "english": "original; former"
+ },
+ {
+  "nr": 659,
+  "thai": "อยากรู้",
+  "romanization": "yàak rúu",
+  "english": "i want to know"
+ },
+ {
+  "nr": 660,
+  "thai": "ครั้งแรก",
+  "romanization": "khráng râek",
+  "english": "first time"
+ },
+ {
+  "nr": 661,
+  "thai": "ฉลาด",
+  "romanization": "chà làat",
+  "english": "clever"
+ },
+ {
+  "nr": 662,
+  "thai": "เกิน",
+  "romanization": "koen",
+  "english": "to exceed"
+ },
+ {
+  "nr": 663,
+  "thai": "เดา",
+  "romanization": "dao",
+  "english": "to guess"
+ },
+ {
+  "nr": 664,
+  "thai": "ควบคุม",
+  "romanization": "khûap khum",
+  "english": "control"
+ },
+ {
+  "nr": 665,
+  "thai": "ช้า",
+  "romanization": "cháa",
+  "english": "slow"
+ },
+ {
+  "nr": 666,
+  "thai": "หลับ",
+  "romanization": "làp",
+  "english": "to sleep"
+ },
+ {
+  "nr": 667,
+  "thai": "หมา",
+  "romanization": "mǎa",
+  "english": "dog"
+ },
+ {
+  "nr": 668,
+  "thai": "ไฟ",
+  "romanization": "fai",
+  "english": "fire; light"
+ },
+ {
+  "nr": 669,
+  "thai": "เมื่อวาน",
+  "romanization": "mûea waan",
+  "english": "yesterday"
+ },
+ {
+  "nr": 670,
+  "thai": "อาการ",
+  "romanization": "aa kaan",
+  "english": "symptom"
+ },
+ {
+  "nr": 671,
+  "thai": "หน่วย",
+  "romanization": "nùai",
+  "english": "unit"
+ },
+ {
+  "nr": 672,
+  "thai": "มากขึ้น",
+  "romanization": "mâak khûen",
+  "english": "more"
+ },
+ {
+  "nr": 673,
+  "thai": "คู่",
+  "romanization": "khûu",
+  "english": "pair"
+ },
+ {
+  "nr": 674,
+  "thai": "ธุรกิจ",
+  "romanization": "thú rá kìt",
+  "english": "business"
+ },
+ {
+  "nr": 675,
+  "thai": "ผ่าตัด",
+  "romanization": "phàa tàt",
+  "english": "do surgery"
+ },
+ {
+  "nr": 676,
+  "thai": "เจ๋ง",
+  "romanization": "chěeng",
+  "english": "cool"
+ },
+ {
+  "nr": 677,
+  "thai": "ก็ดี",
+  "romanization": "kôr dii",
+  "english": "good"
+ },
+ {
+  "nr": 678,
+  "thai": "ระบบ",
+  "romanization": "rá bòp",
+  "english": "system"
+ },
+ {
+  "nr": 679,
+  "thai": "ในที่สุด",
+  "romanization": "nai thîi sùt",
+  "english": "in the end"
+ },
+ {
+  "nr": 680,
+  "thai": "ผู้คน",
+  "romanization": "phûu khon",
+  "english": "people"
+ },
+ {
+  "nr": 681,
+  "thai": "ประมาณ",
+  "romanization": "prà maan",
+  "english": "about"
+ },
+ {
+  "nr": 682,
+  "thai": "แอ",
+  "romanization": "ae",
+  "english": "a"
+ },
+ {
+  "nr": 683,
+  "thai": "ยัย",
+  "romanization": "yai",
+  "english": "hey girl"
+ },
+ {
+  "nr": 684,
+  "thai": "สถานที่",
+  "romanization": "sà thǎan thîi",
+  "english": "location"
+ },
+ {
+  "nr": 685,
+  "thai": "ดัง",
+  "romanization": "dang",
+  "english": "loud; famous"
+ },
+ {
+  "nr": 686,
+  "thai": "ขา",
+  "romanization": "khǎa",
+  "english": "leg"
+ },
+ {
+  "nr": 687,
+  "thai": "อีกต่อไป",
+  "romanization": "ìik tòr pai",
+  "english": "no longer"
+ },
+ {
+  "nr": 688,
+  "thai": "คำตอบ",
+  "romanization": "kham tòrp",
+  "english": "answer"
+ },
+ {
+  "nr": 689,
+  "thai": "ยก",
+  "romanization": "yók",
+  "english": "lift"
+ },
+ {
+  "nr": 690,
+  "thai": "เกี่ยวข้อง",
+  "romanization": "kìao khôrng",
+  "english": "relevant"
+ },
+ {
+  "nr": 691,
+  "thai": "ที่มา",
+  "romanization": "thîi maa",
+  "english": "source"
+ },
+ {
+  "nr": 692,
+  "thai": "พอแล้ว",
+  "romanization": "phor láew",
+  "english": "enough"
+ },
+ {
+  "nr": 693,
+  "thai": "ฐานะ",
+  "romanization": "thǎa ná",
+  "english": "position"
+ },
+ {
+  "nr": 694,
+  "thai": "แถว",
+  "romanization": "thǎew",
+  "english": "row"
+ },
+ {
+  "nr": 695,
+  "thai": "สถานการณ์",
+  "romanization": "sà thǎa ná kaan",
+  "english": "situation"
+ },
+ {
+  "nr": 696,
+  "thai": "เพียงแค่",
+  "romanization": "phiang khâe",
+  "english": "just"
+ },
+ {
+  "nr": 697,
+  "thai": "ของขวัญ",
+  "romanization": "khǒrng khwǎn",
+  "english": "gift"
+ },
+ {
+  "nr": 698,
+  "thai": "แพ้",
+  "romanization": "pháe",
+  "english": "lose"
+ },
+ {
+  "nr": 699,
+  "thai": "ฝึก",
+  "romanization": "fùek",
+  "english": "practice"
+ },
+ {
+  "nr": 700,
+  "thai": "ครึ่ง",
+  "romanization": "khrûeng",
+  "english": "half"
+ },
+ {
+  "nr": 701,
+  "thai": "โรงแรม",
+  "romanization": "roong raem",
+  "english": "hotel"
+ },
+ {
+  "nr": 702,
+  "thai": "เท่า",
+  "romanization": "thâo",
+  "english": "equal"
+ },
+ {
+  "nr": 703,
+  "thai": "ดึง",
+  "romanization": "dueng",
+  "english": "pull"
+ },
+ {
+  "nr": 704,
+  "thai": "เป็นไปไม่ได้",
+  "romanization": "pen pai mâi dâai",
+  "english": "impossible"
+ },
+ {
+  "nr": 705,
+  "thai": "ความสัมพันธ์",
+  "romanization": "khwaam sǎm phan",
+  "english": "relationship"
+ },
+ {
+  "nr": 706,
+  "thai": "ทนาย",
+  "romanization": "thá naai",
+  "english": "lawyer"
+ },
+ {
+  "nr": 707,
+  "thai": "จูบ",
+  "romanization": "chùup",
+  "english": "kiss"
+ },
+ {
+  "nr": 708,
+  "thai": "หม่อมฉัน",
+  "romanization": "mòrm chǎn",
+  "english": "I (royal, female)"
+ },
+ {
+  "nr": 709,
+  "thai": "ถึงแม้ว่า",
+  "romanization": "thǔeng máe wâa",
+  "english": "although"
+ },
+ {
+  "nr": 710,
+  "thai": "สุดยอด",
+  "romanization": "sùt yôrt",
+  "english": "superb"
+ },
+ {
+  "nr": 711,
+  "thai": "เก่า",
+  "romanization": "kào",
+  "english": "old"
+ },
+ {
+  "nr": 712,
+  "thai": "บาง",
+  "romanization": "baang",
+  "english": "thin"
+ },
+ {
+  "nr": 713,
+  "thai": "พลาด",
+  "romanization": "phlâat",
+  "english": "miss"
+ },
+ {
+  "nr": 714,
+  "thai": "ตรวจ",
+  "romanization": "trùat",
+  "english": "check"
+ },
+ {
+  "nr": 715,
+  "thai": "ฝ่าย",
+  "romanization": "fàai",
+  "english": "side; faction"
+ },
+ {
+  "nr": 716,
+  "thai": "น่ากลัว",
+  "romanization": "nâa klua",
+  "english": "scary"
+ },
+ {
+  "nr": 717,
+  "thai": "ผล",
+  "romanization": "phǒn",
+  "english": "result"
+ },
+ {
+  "nr": 718,
+  "thai": "รุ่นพี่",
+  "romanization": "rûn phîi",
+  "english": "senior"
+ },
+ {
+  "nr": 719,
+  "thai": "โจมตี",
+  "romanization": "choom tii",
+  "english": "attack"
+ },
+ {
+  "nr": 720,
+  "thai": "ผู้จัดการ",
+  "romanization": "phûu chàt kaan",
+  "english": "manager"
+ },
+ {
+  "nr": 721,
+  "thai": "ง่ายๆ",
+  "romanization": "ngâai",
+  "english": "simple"
+ },
+ {
+  "nr": 722,
+  "thai": "ซ่อน",
+  "romanization": "sôrn",
+  "english": "hide"
+ },
+ {
+  "nr": 723,
+  "thai": "แนะนำ",
+  "romanization": "náe nam",
+  "english": "recommend"
+ },
+ {
+  "nr": 724,
+  "thai": "ครั้งนี้",
+  "romanization": "khráng níi",
+  "english": "this time"
+ },
+ {
+  "nr": 725,
+  "thai": "เมีย",
+  "romanization": "mia",
+  "english": "wife"
+ },
+ {
+  "nr": 726,
+  "thai": "เย็น",
+  "romanization": "yen",
+  "english": "cool; evening"
+ },
+ {
+  "nr": 727,
+  "thai": "ความฝัน",
+  "romanization": "khwaam fǎn",
+  "english": "dream"
+ },
+ {
+  "nr": 728,
+  "thai": "ห้า",
+  "romanization": "hâa",
+  "english": "five"
+ },
+ {
+  "nr": 729,
+  "thai": "สงคราม",
+  "romanization": "sǒng khraam",
+  "english": "war"
+ },
+ {
+  "nr": 730,
+  "thai": "ค่า",
+  "romanization": "khâa",
+  "english": "value; fee"
+ },
+ {
+  "nr": 731,
+  "thai": "ทางเลือก",
+  "romanization": "thaang lûeak",
+  "english": "choice"
+ },
+ {
+  "nr": 732,
+  "thai": "สน",
+  "romanization": "sǒn",
+  "english": "pine; interested"
+ },
+ {
+  "nr": 733,
+  "thai": "ทั้งคู่",
+  "romanization": "tháng khûu",
+  "english": "both"
+ },
+ {
+  "nr": 734,
+  "thai": "หน้าที่",
+  "romanization": "nâa thîi",
+  "english": "duty"
+ },
+ {
+  "nr": 735,
+  "thai": "ถือ",
+  "romanization": "thǔe",
+  "english": "to hold; carry"
+ },
+ {
+  "nr": 736,
+  "thai": "ทน",
+  "romanization": "thon",
+  "english": "to endure"
+ },
+ {
+  "nr": 737,
+  "thai": "หลอก",
+  "romanization": "lòrk",
+  "english": "trick"
+ },
+ {
+  "nr": 738,
+  "thai": "จากนั้น",
+  "romanization": "chàak nán",
+  "english": "then"
+ },
+ {
+  "nr": 739,
+  "thai": "แรง",
+  "romanization": "raeng",
+  "english": "strong; force"
+ },
+ {
+  "nr": 740,
+  "thai": "เกาหลี",
+  "romanization": "kao lǐi",
+  "english": "Korea"
+ },
+ {
+  "nr": 741,
+  "thai": "นับ",
+  "romanization": "náp",
+  "english": "to count"
+ },
+ {
+  "nr": 742,
+  "thai": "เลี้ยง",
+  "romanization": "líang",
+  "english": "raise"
+ },
+ {
+  "nr": 743,
+  "thai": "แสน",
+  "romanization": "sǎen",
+  "english": "hundred thousand; very"
+ },
+ {
+  "nr": 744,
+  "thai": "ตลอดเวลา",
+  "romanization": "tà lòrt wee laa",
+  "english": "all the time"
+ },
+ {
+  "nr": 745,
+  "thai": "ที่ผ่านมา",
+  "romanization": "thîi phàan maa",
+  "english": "in the past"
+ },
+ {
+  "nr": 746,
+  "thai": "แม้",
+  "romanization": "máe",
+  "english": "even"
+ },
+ {
+  "nr": 747,
+  "thai": "สมอง",
+  "romanization": "sà mǒrng",
+  "english": "brain"
+ },
+ {
+  "nr": 748,
+  "thai": "เจ็บปวด",
+  "romanization": "chèp pùat",
+  "english": "painful"
+ },
+ {
+  "nr": 749,
+  "thai": "น้องสาว",
+  "romanization": "nórng sǎao",
+  "english": "younger sister"
+ },
+ {
+  "nr": 750,
+  "thai": "คาร์",
+  "romanization": "khaa",
+  "english": "car"
+ },
+ {
+  "nr": 751,
+  "thai": "วางแผน",
+  "romanization": "waang phǎen",
+  "english": "plan"
+ },
+ {
+  "nr": 752,
+  "thai": "ขึ้นไป",
+  "romanization": "khûen pai",
+  "english": "go up"
+ },
+ {
+  "nr": 753,
+  "thai": "คนใน",
+  "romanization": "khon nai",
+  "english": "people inside"
+ },
+ {
+  "nr": 754,
+  "thai": "ไล่",
+  "romanization": "lâi",
+  "english": "chase"
+ },
+ {
+  "nr": 755,
+  "thai": "คำพูด",
+  "romanization": "kham phûut",
+  "english": "speech"
+ },
+ {
+  "nr": 756,
+  "thai": "เช้า",
+  "romanization": "cháo",
+  "english": "morning"
+ },
+ {
+  "nr": 757,
+  "thai": "มาร",
+  "romanization": "maan",
+  "english": "demon; Mara"
+ },
+ {
+  "nr": 758,
+  "thai": "หิว",
+  "romanization": "hǐw",
+  "english": "hungry"
+ },
+ {
+  "nr": 759,
+  "thai": "ที่จริง",
+  "romanization": "thîi ching",
+  "english": "actually"
+ },
+ {
+  "nr": 760,
+  "thai": "ล้อเล่น",
+  "romanization": "lór lêen",
+  "english": "kid"
+ },
+ {
+  "nr": 761,
+  "thai": "นั้นแหละ",
+  "romanization": "nán làe",
+  "english": "that's it"
+ },
+ {
+  "nr": 762,
+  "thai": "จง",
+  "romanization": "chong",
+  "english": "shall (imperative)"
+ },
+ {
+  "nr": 763,
+  "thai": "เสื้อ",
+  "romanization": "sûea",
+  "english": "shirt"
+ },
+ {
+  "nr": 764,
+  "thai": "ทันที",
+  "romanization": "than thii",
+  "english": "immediately"
+ },
+ {
+  "nr": 765,
+  "thai": "มีโอกาส",
+  "romanization": "mii oo kàat",
+  "english": "there is a chance"
+ },
+ {
+  "nr": 766,
+  "thai": "แห",
+  "romanization": "hǎe",
+  "english": "ha"
+ },
+ {
+  "nr": 767,
+  "thai": "ปาร์ตี้",
+  "romanization": "paa tîi",
+  "english": "party"
+ },
+ {
+  "nr": 768,
+  "thai": "ลำบาก",
+  "romanization": "lam bàak",
+  "english": "difficult"
+ },
+ {
+  "nr": 769,
+  "thai": "เหรียญ",
+  "romanization": "rǐan",
+  "english": "coin"
+ },
+ {
+  "nr": 770,
+  "thai": "เสื้อผ้า",
+  "romanization": "sûea phâa",
+  "english": "clothes"
+ },
+ {
+  "nr": 771,
+  "thai": "สี่",
+  "romanization": "sìi",
+  "english": "four"
+ },
+ {
+  "nr": 772,
+  "thai": "เหตุการณ์",
+  "romanization": "hèet kaan",
+  "english": "event"
+ },
+ {
+  "nr": 773,
+  "thai": "เกือบ",
+  "romanization": "kùeap",
+  "english": "almost"
+ },
+ {
+  "nr": 774,
+  "thai": "แข่ง",
+  "romanization": "khàeng",
+  "english": "to compete"
+ },
+ {
+  "nr": 775,
+  "thai": "ดูดี",
+  "romanization": "duu dii",
+  "english": "look good"
+ },
+ {
+  "nr": 776,
+  "thai": "ปฏิเสธ",
+  "romanization": "pà tì sèet",
+  "english": "refuse"
+ },
+ {
+  "nr": 777,
+  "thai": "ข้อ",
+  "romanization": "khôr",
+  "english": "point; joint"
+ },
+ {
+  "nr": 778,
+  "thai": "สำเร็จ",
+  "romanization": "sǎm rèt",
+  "english": "succeed"
+ },
+ {
+  "nr": 779,
+  "thai": "จากไป",
+  "romanization": "chàak pai",
+  "english": "gone"
+ },
+ {
+  "nr": 780,
+  "thai": "ตัน",
+  "romanization": "tan",
+  "english": "ton; blocked"
+ },
+ {
+  "nr": 781,
+  "thai": "เป็นที่",
+  "romanization": "pen thîi",
+  "english": "it is a place"
+ },
+ {
+  "nr": 782,
+  "thai": "ร่างกาย",
+  "romanization": "râang kaai",
+  "english": "body"
+ },
+ {
+  "nr": 783,
+  "thai": "หัวเราะ",
+  "romanization": "hǔa rór",
+  "english": "laugh"
+ },
+ {
+  "nr": 784,
+  "thai": "เหล่านี้",
+  "romanization": "lào níi",
+  "english": "these"
+ },
+ {
+  "nr": 785,
+  "thai": "เหอะ",
+  "romanization": "hòe",
+  "english": "come on (let’s)"
+ },
+ {
+  "nr": 786,
+  "thai": "แค่นี้",
+  "romanization": "khâe níi",
+  "english": "that's all"
+ },
+ {
+  "nr": 787,
+  "thai": "พัน",
+  "romanization": "phan",
+  "english": "thousand"
+ },
+ {
+  "nr": 788,
+  "thai": "ความลับ",
+  "romanization": "khwaam láp",
+  "english": "secret"
+ },
+ {
+  "nr": 789,
+  "thai": "สักหน่อย",
+  "romanization": "sàk nòoi",
+  "english": "a little bit"
+ },
+ {
+  "nr": 790,
+  "thai": "นอกจาก",
+  "romanization": "nôrk chàak",
+  "english": "except"
+ },
+ {
+  "nr": 791,
+  "thai": "คุณหมอ",
+  "romanization": "khun mǒr",
+  "english": "doctor"
+ },
+ {
+  "nr": 792,
+  "thai": "แล้วกัน",
+  "romanization": "láew kan",
+  "english": "okay then"
+ },
+ {
+  "nr": 793,
+  "thai": "ใต้",
+  "romanization": "tâai",
+  "english": "under"
+ },
+ {
+  "nr": 794,
+  "thai": "ปาก",
+  "romanization": "pàak",
+  "english": "mouth"
+ },
+ {
+  "nr": 795,
+  "thai": "อนาคต",
+  "romanization": "à naa khót",
+  "english": "future"
+ },
+ {
+  "nr": 796,
+  "thai": "รอด",
+  "romanization": "rôrt",
+  "english": "survive"
+ },
+ {
+  "nr": 797,
+  "thai": "น้า",
+  "romanization": "náa",
+  "english": "aunt/uncle (younger)"
+ },
+ {
+  "nr": 798,
+  "thai": "ร่วม",
+  "romanization": "rûam",
+  "english": "join"
+ },
+ {
+  "nr": 799,
+  "thai": "คำสั่ง",
+  "romanization": "kham sàng",
+  "english": "order"
+ },
+ {
+  "nr": 800,
+  "thai": "ใช้ชีวิต",
+  "romanization": "chái chii wít",
+  "english": "live life"
+ },
+ {
+  "nr": 801,
+  "thai": "เปลี่ยนไป",
+  "romanization": "plìan pai",
+  "english": "changed"
+ },
+ {
+  "nr": 802,
+  "thai": "สูญเสีย",
+  "romanization": "sǔun sǐa",
+  "english": "to lose"
+ },
+ {
+  "nr": 803,
+  "thai": "เตือน",
+  "romanization": "tuean",
+  "english": "warn"
+ },
+ {
+  "nr": 804,
+  "thai": "ทำเป็น",
+  "romanization": "tham pen",
+  "english": "to pretend"
+ },
+ {
+  "nr": 805,
+  "thai": "คุณพ่อ",
+  "romanization": "khun phôr",
+  "english": "father"
+ },
+ {
+  "nr": 806,
+  "thai": "ฆาตกร",
+  "romanization": "khâat kà korn",
+  "english": "assassin"
+ },
+ {
+  "nr": 807,
+  "thai": "มักจะ",
+  "romanization": "mák chà",
+  "english": "tend to; usually"
+ },
+ {
+  "nr": 808,
+  "thai": "บาร์",
+  "romanization": "baa",
+  "english": "bar"
+ },
+ {
+  "nr": 809,
+  "thai": "คุณนาย",
+  "romanization": "khun naai",
+  "english": "mrs"
+ },
+ {
+  "nr": 810,
+  "thai": "เช่นกัน",
+  "romanization": "chêen kan",
+  "english": "too"
+ },
+ {
+  "nr": 811,
+  "thai": "แตก",
+  "romanization": "tàek",
+  "english": "break"
+ },
+ {
+  "nr": 812,
+  "thai": "น้องชาย",
+  "romanization": "nórng chaai",
+  "english": "younger brother"
+ },
+ {
+  "nr": 813,
+  "thai": "ร้องเพลง",
+  "romanization": "rórng phleeng",
+  "english": "sing"
+ },
+ {
+  "nr": 814,
+  "thai": "อดีต",
+  "romanization": "à dìit",
+  "english": "past"
+ },
+ {
+  "nr": 815,
+  "thai": "โมง",
+  "romanization": "moong",
+  "english": "hour"
+ },
+ {
+  "nr": 816,
+  "thai": "ลงมา",
+  "romanization": "long maa",
+  "english": "come down"
+ },
+ {
+  "nr": 817,
+  "thai": "หุบปาก",
+  "romanization": "hùp pàak",
+  "english": "shut your mouth"
+ },
+ {
+  "nr": 818,
+  "thai": "ฆาตกรรม",
+  "romanization": "khâat kà kam",
+  "english": "murder"
+ },
+ {
+  "nr": 819,
+  "thai": "ปลา",
+  "romanization": "plaa",
+  "english": "fish"
+ },
+ {
+  "nr": 820,
+  "thai": "ป่วย",
+  "romanization": "pùai",
+  "english": "sick"
+ },
+ {
+  "nr": 821,
+  "thai": "ไหว",
+  "romanization": "wǎi",
+  "english": "to be able; to shake"
+ },
+ {
+  "nr": 822,
+  "thai": "หมาย",
+  "romanization": "mǎai",
+  "english": "to intend; summons"
+ },
+ {
+  "nr": 823,
+  "thai": "ปีศาจ",
+  "romanization": "pii sàat",
+  "english": "demon"
+ },
+ {
+  "nr": 824,
+  "thai": "เรียนรู้",
+  "romanization": "rian rúu",
+  "english": "to learn"
+ },
+ {
+  "nr": 825,
+  "thai": "ยินดีต้อนรับ",
+  "romanization": "yin dii tôrn ráp",
+  "english": "welcome"
+ },
+ {
+  "nr": 826,
+  "thai": "เป้าหมาย",
+  "romanization": "pâo mǎai",
+  "english": "goal; target"
+ },
+ {
+  "nr": 827,
+  "thai": "จำเป็น",
+  "romanization": "cham pen",
+  "english": "necessary"
+ },
+ {
+  "nr": 828,
+  "thai": "เห็นด้วย",
+  "romanization": "hěn dûai",
+  "english": "to agree"
+ },
+ {
+  "nr": 829,
+  "thai": "ระดับ",
+  "romanization": "rá dàp",
+  "english": "level"
+ },
+ {
+  "nr": 830,
+  "thai": "ฝาก",
+  "romanization": "fàak",
+  "english": "to entrust; deposit"
+ },
+ {
+  "nr": 831,
+  "thai": "เท่าที่",
+  "romanization": "thâo thîi",
+  "english": "as far as"
+ },
+ {
+  "nr": 832,
+  "thai": "ทุกวัน",
+  "romanization": "thúk wan",
+  "english": "every day"
+ },
+ {
+  "nr": 833,
+  "thai": "นักสืบ",
+  "romanization": "nák sùep",
+  "english": "detective"
+ },
+ {
+  "nr": 834,
+  "thai": "เนื้อ",
+  "romanization": "núea",
+  "english": "meat"
+ },
+ {
+  "nr": 835,
+  "thai": "ช่วงเวลา",
+  "romanization": "chûang wee laa",
+  "english": "period of time"
+ },
+ {
+  "nr": 836,
+  "thai": "ขับ",
+  "romanization": "khàp",
+  "english": "to drive"
+ },
+ {
+  "nr": 837,
+  "thai": "คุก",
+  "romanization": "khúk",
+  "english": "prison"
+ },
+ {
+  "nr": 838,
+  "thai": "ดาว",
+  "romanization": "daao",
+  "english": "star"
+ },
+ {
+  "nr": 839,
+  "thai": "เช็ค",
+  "romanization": "chék",
+  "english": "to check"
+ },
+ {
+  "nr": 840,
+  "thai": "น้อง",
+  "romanization": "nórng",
+  "english": "younger sibling"
+ },
+ {
+  "nr": 841,
+  "thai": "รับผิดชอบ",
+  "romanization": "ráp phìt chôrp",
+  "english": "to be responsible"
+ },
+ {
+  "nr": 842,
+  "thai": "ด้วยซ้ำ",
+  "romanization": "dûai sám",
+  "english": "even"
+ },
+ {
+  "nr": 843,
+  "thai": "บางครั้ง",
+  "romanization": "baang khráng",
+  "english": "sometimes"
+ },
+ {
+  "nr": 844,
+  "thai": "ลูกค้า",
+  "romanization": "lûuk kháa",
+  "english": "customer"
+ },
+ {
+  "nr": 845,
+  "thai": "ก้าว",
+  "romanization": "kâao",
+  "english": "to step"
+ },
+ {
+  "nr": 846,
+  "thai": "ค้นหา",
+  "romanization": "khón hǎa",
+  "english": "to search for"
+ },
+ {
+  "nr": 847,
+  "thai": "ลด",
+  "romanization": "lót",
+  "english": "to reduce"
+ },
+ {
+  "nr": 848,
+  "thai": "ยืนยัน",
+  "romanization": "yuen yan",
+  "english": "to confirm"
+ },
+ {
+  "nr": 849,
+  "thai": "ยิ้ม",
+  "romanization": "yím",
+  "english": "to smile"
+ },
+ {
+  "nr": 850,
+  "thai": "แปล",
+  "romanization": "plae",
+  "english": "to translate"
+ },
+ {
+  "nr": 851,
+  "thai": "บันทึก",
+  "romanization": "ban thúek",
+  "english": "to record; note"
+ },
+ {
+  "nr": 852,
+  "thai": "คัน",
+  "romanization": "khan",
+  "english": "itchy; (classifier for vehicles)"
+ },
+ {
+  "nr": 853,
+  "thai": "นก",
+  "romanization": "nók",
+  "english": "bird"
+ },
+ {
+  "nr": 854,
+  "thai": "แดน",
+  "romanization": "daen",
+  "english": "land; realm"
+ },
+ {
+  "nr": 855,
+  "thai": "กลิ่น",
+  "romanization": "klìn",
+  "english": "smell"
+ },
+ {
+  "nr": 856,
+  "thai": "พอดี",
+  "romanization": "phor dii",
+  "english": "just right"
+ },
+ {
+  "nr": 857,
+  "thai": "ก่อ",
+  "romanization": "kòr",
+  "english": "to build; ignite"
+ },
+ {
+  "nr": 858,
+  "thai": "ถอย",
+  "romanization": "thǒoi",
+  "english": "to back up; retreat"
+ },
+ {
+  "nr": 859,
+  "thai": "ตรงไหน",
+  "romanization": "trong nǎi",
+  "english": "where"
+ },
+ {
+  "nr": 860,
+  "thai": "ต่อสู้",
+  "romanization": "tòr sûu",
+  "english": "to fight"
+ },
+ {
+  "nr": 861,
+  "thai": "เมื่อคืน",
+  "romanization": "mûea khuen",
+  "english": "last night"
+ },
+ {
+  "nr": 862,
+  "thai": "ท่า",
+  "romanization": "thâa",
+  "english": "pose; manner"
+ },
+ {
+  "nr": 863,
+  "thai": "ความสามารถ",
+  "romanization": "khwaam sǎa mâat",
+  "english": "ability"
+ },
+ {
+  "nr": 864,
+  "thai": "สัปดาห์",
+  "romanization": "sàp daa",
+  "english": "week"
+ },
+ {
+  "nr": 865,
+  "thai": "เกาะ",
+  "romanization": "kòr",
+  "english": "island"
+ },
+ {
+  "nr": 866,
+  "thai": "รบกวน",
+  "romanization": "róp kuan",
+  "english": "to bother"
+ },
+ {
+  "nr": 867,
+  "thai": "ครั้งสุดท้าย",
+  "romanization": "khráng sùt tháai",
+  "english": "the last time"
+ },
+ {
+  "nr": 868,
+  "thai": "สิบ",
+  "romanization": "sìp",
+  "english": "ten"
+ },
+ {
+  "nr": 869,
+  "thai": "ตกใจ",
+  "romanization": "tòk chai",
+  "english": "to be startled"
+ },
+ {
+  "nr": 870,
+  "thai": "ญี่ปุ่น",
+  "romanization": "yîi pùn",
+  "english": "Japan"
+ },
+ {
+  "nr": 871,
+  "thai": "อารมณ์",
+  "romanization": "aa rom",
+  "english": "mood; emotion"
+ },
+ {
+  "nr": 872,
+  "thai": "ย่า",
+  "romanization": "yâa",
+  "english": "grandmother (paternal)"
+ },
+ {
+  "nr": 873,
+  "thai": "ทั่ว",
+  "romanization": "thûa",
+  "english": "throughout"
+ },
+ {
+  "nr": 874,
+  "thai": "กษัตริย์",
+  "romanization": "kà sàt",
+  "english": "king"
+ },
+ {
+  "nr": 875,
+  "thai": "พบกัน",
+  "romanization": "phóp kan",
+  "english": "to meet"
+ },
+ {
+  "nr": 876,
+  "thai": "ยาน",
+  "romanization": "yaan",
+  "english": "craft"
+ },
+ {
+  "nr": 877,
+  "thai": "ความทรงจำ",
+  "romanization": "khwaam song cham",
+  "english": "memory"
+ },
+ {
+  "nr": 878,
+  "thai": "แท้จริง",
+  "romanization": "tháe ching",
+  "english": "genuine; true"
+ },
+ {
+  "nr": 879,
+  "thai": "รอย",
+  "romanization": "rooi",
+  "english": "mark; trace"
+ },
+ {
+  "nr": 880,
+  "thai": "กองทัพ",
+  "romanization": "korng tháp",
+  "english": "army"
+ },
+ {
+  "nr": 881,
+  "thai": "ญาติ",
+  "romanization": "yâat",
+  "english": "relative"
+ },
+ {
+  "nr": 882,
+  "thai": "ยอมให้",
+  "romanization": "yorm hâi",
+  "english": "to allow"
+ },
+ {
+  "nr": 883,
+  "thai": "ค่อนข้าง",
+  "romanization": "khôrn khâang",
+  "english": "rather; quite"
+ },
+ {
+  "nr": 884,
+  "thai": "คุณแม่",
+  "romanization": "khun mâe",
+  "english": "mother"
+ },
+ {
+  "nr": 885,
+  "thai": "ทัน",
+  "romanization": "than",
+  "english": "in time"
+ },
+ {
+  "nr": 886,
+  "thai": "ชิ้น",
+  "romanization": "chín",
+  "english": "piece"
+ },
+ {
+  "nr": 887,
+  "thai": "แค่นั้น",
+  "romanization": "khâe nán",
+  "english": "only that"
+ },
+ {
+  "nr": 888,
+  "thai": "ร้อน",
+  "romanization": "rórn",
+  "english": "hot"
+ },
+ {
+  "nr": 889,
+  "thai": "เพื่อที่จะ",
+  "romanization": "phûea thîi chà",
+  "english": "in order to"
+ },
+ {
+  "nr": 890,
+  "thai": "ส่วนตัว",
+  "romanization": "sùan tua",
+  "english": "personal; private"
+ },
+ {
+  "nr": 891,
+  "thai": "กาแฟ",
+  "romanization": "kaa fae",
+  "english": "coffee"
+ },
+ {
+  "nr": 892,
+  "thai": "วัง",
+  "romanization": "wang",
+  "english": "palace"
+ },
+ {
+  "nr": 893,
+  "thai": "ขับรถ",
+  "romanization": "khàp rót",
+  "english": "to drive a car"
+ },
+ {
+  "nr": 894,
+  "thai": "ลับ",
+  "romanization": "láp",
+  "english": "secret"
+ },
+ {
+  "nr": 895,
+  "thai": "ลุกขึ้น",
+  "romanization": "lúk khûen",
+  "english": "to stand up"
+ },
+ {
+  "nr": 896,
+  "thai": "อเมริกา",
+  "romanization": "à mee rí kaa",
+  "english": "America"
+ },
+ {
+  "nr": 897,
+  "thai": "คบ",
+  "romanization": "khóp",
+  "english": "to associate with"
+ },
+ {
+  "nr": 898,
+  "thai": "การแสดง",
+  "romanization": "kaan sà daeng",
+  "english": "performance"
+ },
+ {
+  "nr": 899,
+  "thai": "ต่อหน้า",
+  "romanization": "tòr nâa",
+  "english": "in front of"
+ },
+ {
+  "nr": 900,
+  "thai": "พิสูจน์",
+  "romanization": "phí sùut",
+  "english": "to prove"
+ },
+ {
+  "nr": 901,
+  "thai": "ช่วยเหลือ",
+  "romanization": "chûai lǔea",
+  "english": "to help"
+ },
+ {
+  "nr": 902,
+  "thai": "อุบัติเหตุ",
+  "romanization": "ù bàt tì hèet",
+  "english": "accident"
+ },
+ {
+  "nr": 903,
+  "thai": "แต่ง",
+  "romanization": "tàeng",
+  "english": "to decorate; compose"
+ },
+ {
+  "nr": 904,
+  "thai": "ไร้",
+  "romanization": "rái",
+  "english": "without; -less"
+ },
+ {
+  "nr": 905,
+  "thai": "รองเท้า",
+  "romanization": "rorng tháao",
+  "english": "shoes"
+ },
+ {
+  "nr": 906,
+  "thai": "วันเกิด",
+  "romanization": "wan kòet",
+  "english": "birthday"
+ },
+ {
+  "nr": 907,
+  "thai": "ดาบ",
+  "romanization": "dàap",
+  "english": "sword"
+ },
+ {
+  "nr": 908,
+  "thai": "ศัตรู",
+  "romanization": "sàt truu",
+  "english": "enemy"
+ },
+ {
+  "nr": 909,
+  "thai": "ยอมแพ้",
+  "romanization": "yorm pháe",
+  "english": "to give up"
+ },
+ {
+  "nr": 910,
+  "thai": "ท้อง",
+  "romanization": "thórng",
+  "english": "stomach; pregnant"
+ },
+ {
+  "nr": 911,
+  "thai": "อากาศ",
+  "romanization": "aa kàat",
+  "english": "weather; air"
+ },
+ {
+  "nr": 912,
+  "thai": "เมา",
+  "romanization": "mao",
+  "english": "drunk"
+ },
+ {
+  "nr": 913,
+  "thai": "รายการ",
+  "romanization": "raai kaan",
+  "english": "list; program"
+ },
+ {
+  "nr": 914,
+  "thai": "ชาว",
+  "romanization": "chaao",
+  "english": "people of; -er"
+ },
+ {
+  "nr": 915,
+  "thai": "ดำ",
+  "romanization": "dam",
+  "english": "black"
+ },
+ {
+  "nr": 916,
+  "thai": "เลวร้าย",
+  "romanization": "leew ráai",
+  "english": "terrible"
+ },
+ {
+  "nr": 917,
+  "thai": "วาน",
+  "romanization": "waan",
+  "english": "yesterday; to request"
+ },
+ {
+  "nr": 918,
+  "thai": "โชว์",
+  "romanization": "choo",
+  "english": "to show"
+ },
+ {
+  "nr": 919,
+  "thai": "ชัดเจน",
+  "romanization": "chát cheen",
+  "english": "clear; obvious"
+ },
+ {
+  "nr": 920,
+  "thai": "ตัดสิน",
+  "romanization": "tàt sǐn",
+  "english": "to judge; decide"
+ },
+ {
+  "nr": 921,
+  "thai": "หลังจากนั้น",
+  "romanization": "lǎng chàak nán",
+  "english": "after that"
+ },
+ {
+  "nr": 922,
+  "thai": "แกล้ง",
+  "romanization": "klâeng",
+  "english": "to tease; pretend"
+ },
+ {
+  "nr": 923,
+  "thai": "สัญญาณ",
+  "romanization": "sǎn yaan",
+  "english": "signal"
+ },
+ {
+  "nr": 924,
+  "thai": "กำจัด",
+  "romanization": "kam chàt",
+  "english": "to eliminate"
+ },
+ {
+  "nr": 925,
+  "thai": "เชื่อใจ",
+  "romanization": "chûea chai",
+  "english": "to trust"
+ },
+ {
+  "nr": 926,
+  "thai": "ได้ผล",
+  "romanization": "dâai phǒn",
+  "english": "to work; be effective"
+ },
+ {
+  "nr": 927,
+  "thai": "ห่าง",
+  "romanization": "hàang",
+  "english": "far apart"
+ },
+ {
+  "nr": 928,
+  "thai": "กล่อง",
+  "romanization": "klòrng",
+  "english": "box"
+ },
+ {
+  "nr": 929,
+  "thai": "ถ่าย",
+  "romanization": "thàai",
+  "english": "to photograph"
+ },
+ {
+  "nr": 930,
+  "thai": "ห้องน้ำ",
+  "romanization": "hôrng náam",
+  "english": "bathroom"
+ },
+ {
+  "nr": 931,
+  "thai": "ทีหลัง",
+  "romanization": "thii lǎng",
+  "english": "later"
+ },
+ {
+  "nr": 932,
+  "thai": "ร่าง",
+  "romanization": "râang",
+  "english": "body; draft"
+ },
+ {
+  "nr": 933,
+  "thai": "ทดสอบ",
+  "romanization": "thót sòrp",
+  "english": "to test"
+ },
+ {
+  "nr": 934,
+  "thai": "กุญแจ",
+  "romanization": "kun chae",
+  "english": "key"
+ },
+ {
+  "nr": 935,
+  "thai": "ยิ่งใหญ่",
+  "romanization": "yîng yài",
+  "english": "great; grand"
+ },
+ {
+  "nr": 936,
+  "thai": "ต่างๆ",
+  "romanization": "tàang",
+  "english": "various"
+ },
+ {
+  "nr": 937,
+  "thai": "เฉย",
+  "romanization": "chǒej",
+  "english": "still; indifferent"
+ },
+ {
+  "nr": 938,
+  "thai": "ซุก",
+  "romanization": "súk",
+  "english": "to hide; stash"
+ },
+ {
+  "nr": 939,
+  "thai": "คนอื่นๆ",
+  "romanization": "khon ùen",
+  "english": "others"
+ },
+ {
+  "nr": 940,
+  "thai": "พอใจ",
+  "romanization": "phor chai",
+  "english": "satisfied"
+ },
+ {
+  "nr": 941,
+  "thai": "รวม",
+  "romanization": "ruam",
+  "english": "to combine; total"
+ },
+ {
+  "nr": 942,
+  "thai": "อรุณสวัสดิ์",
+  "romanization": "à run sà wàt",
+  "english": "good morning"
+ },
+ {
+  "nr": 943,
+  "thai": "แอบ",
+  "romanization": "àep",
+  "english": "to hide; secretly"
+ },
+ {
+  "nr": 944,
+  "thai": "เลว",
+  "romanization": "leew",
+  "english": "bad; evil"
+ },
+ {
+  "nr": 945,
+  "thai": "ที่สอง",
+  "romanization": "thîi sǒrng",
+  "english": "second"
+ },
+ {
+  "nr": 946,
+  "thai": "นัด",
+  "romanization": "nát",
+  "english": "appointment"
+ },
+ {
+  "nr": 947,
+  "thai": "ความปลอดภัย",
+  "romanization": "khwaam plòrt phai",
+  "english": "safety"
+ },
+ {
+  "nr": 948,
+  "thai": "ตึก",
+  "romanization": "tùek",
+  "english": "building"
+ },
+ {
+  "nr": 949,
+  "thai": "ถึงแม้",
+  "romanization": "thǔeng máe",
+  "english": "although"
+ },
+ {
+  "nr": 950,
+  "thai": "จนถึง",
+  "romanization": "chon thǔeng",
+  "english": "until"
+ },
+ {
+  "nr": 951,
+  "thai": "ทำตาม",
+  "romanization": "tham taam",
+  "english": "to follow; obey"
+ },
+ {
+  "nr": 952,
+  "thai": "อัยการ",
+  "romanization": "ai yá kaan",
+  "english": "prosecutor"
+ },
+ {
+  "nr": 953,
+  "thai": "ต้องหา",
+  "romanization": "tôrng hǎa",
+  "english": "to be accused"
+ },
+ {
+  "nr": 954,
+  "thai": "มื้อ",
+  "romanization": "múe",
+  "english": "meal"
+ },
+ {
+  "nr": 955,
+  "thai": "ช่วยชีวิต",
+  "romanization": "chûai chii wít",
+  "english": "to save a life"
+ },
+ {
+  "nr": 956,
+  "thai": "น่าสนใจ",
+  "romanization": "nâa sǒn chai",
+  "english": "interesting"
+ },
+ {
+  "nr": 957,
+  "thai": "อันนี้",
+  "romanization": "an níi",
+  "english": "this one"
+ },
+ {
+  "nr": 958,
+  "thai": "ไม่งั้น",
+  "romanization": "mâi ngán",
+  "english": "otherwise"
+ },
+ {
+  "nr": 959,
+  "thai": "อีกที",
+  "romanization": "ìik thii",
+  "english": "once more"
+ },
+ {
+  "nr": 960,
+  "thai": "ขยับ",
+  "romanization": "khà yàp",
+  "english": "to move; shift"
+ },
+ {
+  "nr": 961,
+  "thai": "ด้วยตัวเอง",
+  "romanization": "dûai tua eeng",
+  "english": "by oneself"
+ },
+ {
+  "nr": 962,
+  "thai": "พัง",
+  "romanization": "phang",
+  "english": "to break down"
+ },
+ {
+  "nr": 963,
+  "thai": "มีค่า",
+  "romanization": "mii khâa",
+  "english": "valuable"
+ },
+ {
+  "nr": 964,
+  "thai": "ทีนี้",
+  "romanization": "thii níi",
+  "english": "now then"
+ },
+ {
+  "nr": 965,
+  "thai": "คนไข้",
+  "romanization": "khon khâi",
+  "english": "patient"
+ },
+ {
+  "nr": 966,
+  "thai": "เกมส์",
+  "romanization": "keem",
+  "english": "game"
+ },
+ {
+  "nr": 967,
+  "thai": "เป็นครั้งแรก",
+  "romanization": "pen khráng râek",
+  "english": "for the first time"
+ },
+ {
+  "nr": 968,
+  "thai": "แก้ว",
+  "romanization": "kâew",
+  "english": "glass"
+ },
+ {
+  "nr": 969,
+  "thai": "เรื่องจริง",
+  "romanization": "rûeang ching",
+  "english": "true story"
+ },
+ {
+  "nr": 970,
+  "thai": "เช่นนั้น",
+  "romanization": "chêen nán",
+  "english": "like that"
+ },
+ {
+  "nr": 971,
+  "thai": "ลาก่อน",
+  "romanization": "laa kòrn",
+  "english": "goodbye"
+ },
+ {
+  "nr": 972,
+  "thai": "ยกเลิก",
+  "romanization": "yók lôek",
+  "english": "to cancel"
+ },
+ {
+  "nr": 973,
+  "thai": "เหมาะสม",
+  "romanization": "mòr sǒm",
+  "english": "suitable"
+ },
+ {
+  "nr": 974,
+  "thai": "โต๊ะ",
+  "romanization": "tó",
+  "english": "table"
+ },
+ {
+  "nr": 975,
+  "thai": "มากเกินไป",
+  "romanization": "mâak koen pai",
+  "english": "too much"
+ },
+ {
+  "nr": 976,
+  "thai": "ราคา",
+  "romanization": "raa khaa",
+  "english": "price"
+ },
+ {
+  "nr": 977,
+  "thai": "นอก",
+  "romanization": "nôrk",
+  "english": "outside"
+ },
+ {
+  "nr": 978,
+  "thai": "การแข่งขัน",
+  "romanization": "kaan khàeng khǎn",
+  "english": "competition"
+ },
+ {
+  "nr": 979,
+  "thai": "พึ่ง",
+  "romanization": "phûeng",
+  "english": "to rely on"
+ },
+ {
+  "nr": 980,
+  "thai": "แกน",
+  "romanization": "kaen",
+  "english": "core; axis"
+ },
+ {
+  "nr": 981,
+  "thai": "มองหา",
+  "romanization": "morng hǎa",
+  "english": "to look for"
+ },
+ {
+  "nr": 982,
+  "thai": "เจ้านาย",
+  "romanization": "châao naai",
+  "english": "boss"
+ },
+ {
+  "nr": 983,
+  "thai": "เอกสาร",
+  "romanization": "èek kà sǎan",
+  "english": "document"
+ },
+ {
+  "nr": 984,
+  "thai": "ก่อนหน้านี้",
+  "romanization": "kòrn nâa níi",
+  "english": "previously"
+ },
+ {
+  "nr": 985,
+  "thai": "แจ้ง",
+  "romanization": "châeng",
+  "english": "to notify"
+ },
+ {
+  "nr": 986,
+  "thai": "เข้าใจผิด",
+  "romanization": "khâo chai phìt",
+  "english": "to misunderstand"
+ },
+ {
+  "nr": 987,
+  "thai": "สักครู่",
+  "romanization": "sàk khrûu",
+  "english": "a moment"
+ },
+ {
+  "nr": 988,
+  "thai": "คุณปู่",
+  "romanization": "khun pùu",
+  "english": "grandfather"
+ },
+ {
+  "nr": 989,
+  "thai": "อาศัย",
+  "romanization": "aa sǎi",
+  "english": "to reside"
+ },
+ {
+  "nr": 990,
+  "thai": "เปลี่ยนแปลง",
+  "romanization": "plìan plaeng",
+  "english": "to change"
+ },
+ {
+  "nr": 991,
+  "thai": "บังคับ",
+  "romanization": "bang kháp",
+  "english": "to force"
+ },
+ {
+  "nr": 992,
+  "thai": "พื้นที่",
+  "romanization": "phúen thîi",
+  "english": "area"
+ },
+ {
+  "nr": 993,
+  "thai": "เสด็จ",
+  "romanization": "sà dèt",
+  "english": "to go (royal)"
+ },
+ {
+  "nr": 994,
+  "thai": "ใด",
+  "romanization": "dai",
+  "english": "any; which"
+ },
+ {
+  "nr": 995,
+  "thai": "ราย",
+  "romanization": "raai",
+  "english": "case; item"
+ },
+ {
+  "nr": 996,
+  "thai": "บางสิ่ง",
+  "romanization": "baang sìng",
+  "english": "something"
+ },
+ {
+  "nr": 997,
+  "thai": "ว่าง",
+  "romanization": "wâang",
+  "english": "free; vacant"
+ },
+ {
+  "nr": 998,
+  "thai": "เช่นนี้",
+  "romanization": "chêen níi",
+  "english": "like this"
+ },
+ {
+  "nr": 999,
+  "thai": "โซล",
+  "romanization": "soon",
+  "english": "Seoul"
+ },
+ {
+  "nr": 1000,
+  "thai": "มีด",
+  "romanization": "mîit",
+  "english": "knife"
+ }
 ]
