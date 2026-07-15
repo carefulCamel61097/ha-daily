@@ -14,6 +14,7 @@ const totalPages = 240;
 let showThai = localStorage.getItem("showThai") !== "false"; // Defaults to true
 let showEnglish = localStorage.getItem("showEnglish") !== "false";
 let useRomanized = localStorage.getItem("useRomanized") === "true"; // Defaults to false
+let showExamples = localStorage.getItem("showExamples") !== "false"; // Defaults to true
 
 // --- DOM Elements ---
 const wordListContainer = document.getElementById("wordList");
@@ -25,6 +26,7 @@ const totalPagesSpan = document.getElementById("totalPages");
 const toggleThaiBtn = document.getElementById("toggleThai");
 const toggleEnBtn = document.getElementById("toggleEn");
 const toggleScriptBtn = document.getElementById("toggleScript");
+const toggleExampleBtn = document.getElementById("toggleExample");
 
 function init() {
   let userStartDateStr = localStorage.getItem("ha_daily_start_date");
@@ -68,6 +70,9 @@ function syncToggleLabels() {
   toggleThaiBtn.textContent = showThai ? "Hide Thai" : "Show Thai";
   toggleEnBtn.textContent = showEnglish ? "Hide English" : "Show English";
   toggleScriptBtn.textContent = useRomanized ? "Use Script" : "Use Romanized";
+  if (toggleExampleBtn) {
+    toggleExampleBtn.textContent = showExamples ? "Hide Examples" : "Show Examples";
+  }
 }
 
 function getWordsForPage(page) {
@@ -127,6 +132,23 @@ function render() {
       enRow.className = "row english-row";
       enRow.textContent = word.english.toLowerCase();
       wordListContainer.appendChild(enRow);
+    }
+
+    // Example sentence (optional, dimmed) — shown only when present + enabled
+    if (showExamples && word.example) {
+      const ex = document.createElement("div");
+      ex.className = "example";
+      const exThai = document.createElement("span");
+      exThai.className = "ex-thai";
+      exThai.textContent = word.example.thai;
+      const exRom = document.createElement("span");
+      exRom.className = "ex-rom";
+      exRom.textContent = word.example.rom;
+      const exEn = document.createElement("span");
+      exEn.className = "ex-en";
+      exEn.textContent = word.example.en;
+      ex.append(exThai, exRom, exEn);
+      wordListContainer.appendChild(ex);
     }
 
     // Divider
@@ -233,6 +255,12 @@ function setupEventListeners() {
   toggleScriptBtn.onclick = () => {
     useRomanized = !useRomanized;
     localStorage.setItem("useRomanized", useRomanized);
+    render();
+    syncToggleLabels();
+  };
+  toggleExampleBtn.onclick = () => {
+    showExamples = !showExamples;
+    localStorage.setItem("showExamples", showExamples);
     render();
     syncToggleLabels();
   };
