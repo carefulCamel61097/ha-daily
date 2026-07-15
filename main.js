@@ -57,8 +57,17 @@ function init() {
 
   totalPagesSpan.textContent = `/ ${totalPages}`;
   render();
+  syncToggleLabels();
   setupEventListeners();
   syncAudioCache();
+}
+
+// Keep the toggle button labels in sync with the current (persisted) state,
+// so on load they reflect what's actually stored — not the hard-coded HTML.
+function syncToggleLabels() {
+  toggleThaiBtn.textContent = showThai ? "Hide Thai" : "Show Thai";
+  toggleEnBtn.textContent = showEnglish ? "Hide English" : "Show English";
+  toggleScriptBtn.textContent = useRomanized ? "Use Script" : "Use Romanized";
 }
 
 function getWordsForPage(page) {
@@ -145,9 +154,10 @@ async function syncAudioCache() {
     localStorage.setItem("last_download_date", todayStr);
     console.log("New day: Audio cache cleared.");
 
-    // Pre-download today's 5 words
-    const start = (currentPage - 1) * 5;
-    const todaysWords = words.slice(start, start + 5);
+    // Pre-download exactly the words shown on the current page.
+    // Use getWordsForPage so recap days (25 words) cache correctly too —
+    // the old (currentPage - 1) * 5 slice ignored recap pages.
+    const todaysWords = getWordsForPage(currentPage);
     todaysWords.forEach((word) => downloadToCache(`audio/${word.thai}.mp3`));
   }
 }
@@ -212,19 +222,19 @@ function setupEventListeners() {
     showThai = !showThai;
     localStorage.setItem("showThai", showThai);
     render();
-    toggleThaiBtn.textContent = showThai ? "Hide Thai" : "Show Thai";
+    syncToggleLabels();
   };
   toggleEnBtn.onclick = () => {
     showEnglish = !showEnglish;
     localStorage.setItem("showEnglish", showEnglish);
     render();
-    toggleEnBtn.textContent = showEnglish ? "Hide English" : "Show English";
+    syncToggleLabels();
   };
   toggleScriptBtn.onclick = () => {
     useRomanized = !useRomanized;
     localStorage.setItem("useRomanized", useRomanized);
     render();
-    toggleScriptBtn.textContent = useRomanized ? "Use Script" : "Use Romanized";
+    syncToggleLabels();
   };
 }
 
