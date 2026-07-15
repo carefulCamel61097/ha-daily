@@ -63,7 +63,7 @@ function init() {
   render();
   syncToggleLabels();
   setupEventListeners();
-  syncAudioCache();
+  prefetchTodaysAudio();
 }
 
 // Keep the toggle button labels in sync with the current (persisted) state,
@@ -165,32 +165,18 @@ function render() {
   nextBtn.disabled = currentPage === totalPages;
 }
 
-// --- Audio Function ---
-const CACHE_NAME = "ha-daily-audio-cache";
-
-async function syncAudioCache() {
-  const todayStr = new Date().toDateString();
-  const lastDownloadDate = localStorage.getItem("last_download_date");
-
-  if (todayStr !== lastDownloadDate) {
-    // It's a new day! Clear the old cache
-    await caches.delete(CACHE_NAME);
-    localStorage.setItem("last_download_date", todayStr);
-    console.log("New day: Audio cache cleared.");
-
-    // Pre-download exactly the words shown on the current page.
-    // Use getWordsForPage so recap days (25 words) cache correctly too —
-    // the old (currentPage - 1) * 5 slice ignored recap pages.
-    const todaysWords = getWordsForPage(currentPage);
-    todaysWords.forEach((word) => downloadToCache(`audio/${word.thai}.mp3`));
-  }
-}
-
-async function downloadToCache(url) {
-  const cache = await caches.open(CACHE_NAME);
-  const response = await fetch(url);
-  if (response.ok) {
-    await cache.put(url, response);
+// --- Audio ---
+// Audio files are cached by the service worker: Workbox runtimeCaching,
+// CacheFirst with expiration (see vite.config.js). That replaces the old
+// hand-rolled daily cache flush — expiration handles cleanup automatically.
+// Here we just warm the cache with the current page's words so they're
+// available offline; already-cached files serve from cache with no network.
+function prefetchTodaysAudio() {
+  if (!("caches" in window)) return;
+  // one-time cleanup of the pre-Workbox cache for existing users
+  caches.delete("ha-daily-audio-cache").catch(() => {});
+  for (const word of getWordsForPage(currentPage)) {
+    fetch(`audio/${word.thai}.mp3`).catch(() => {});
   }
 }
 

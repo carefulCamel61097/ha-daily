@@ -16,6 +16,22 @@ export default defineConfig({
       workbox: {
         // include the self-hosted fonts so the app renders correctly offline
         globPatterns: ["**/*.{js,css,html,svg,woff2}"],
+        // Cache audio on demand (CacheFirst) with automatic expiry, instead of
+        // a hand-rolled daily flush. Files are stored as they're fetched/played.
+        runtimeCaching: [
+          {
+            urlPattern: /\/audio\/.*\.mp3$/,
+            handler: "CacheFirst",
+            options: {
+              cacheName: "ha-daily-audio",
+              expiration: {
+                maxEntries: 60,
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
+              },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+        ],
       },
       manifest: {
         name: "Ha-Daily Thai",
