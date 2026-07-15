@@ -13,6 +13,10 @@ export default defineConfig({
   plugins: [
     VitePWA({
       registerType: "autoUpdate",
+      workbox: {
+        // include the self-hosted fonts so the app renders correctly offline
+        globPatterns: ["**/*.{js,css,html,svg,woff2}"],
+      },
       manifest: {
         name: "Ha-Daily Thai",
         short_name: "HaDaily",
