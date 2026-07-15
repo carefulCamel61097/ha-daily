@@ -1,3 +1,5 @@
+@import "./fonts.css";
+
 html {
   background-color: #0B1221;
 }
@@ -6,7 +8,7 @@ body {
   margin: 0;
   background-color: #0B1221;
   color: #E2E8F0;
-  font-family: sans-serif;
+  font-family: "Sarabun", system-ui, -apple-system, sans-serif;
   display: flex;
   justify-content: center;
   padding: 20px;
@@ -20,11 +22,45 @@ body {
   max-width: 500px;
 }
 
-.controls {
+.topbar {
   display: flex;
+  justify-content: flex-end;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  color: #94a3b8;
+  font-size: 1.4rem;
+  line-height: 1;
+  padding: 6px 8px;
+  margin-top: 0;
+  cursor: pointer;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+.icon-btn:hover {
+  color: #e2e8f0;
+}
+.icon-btn[aria-expanded="true"] {
+  color: #4ade80;
+  transform: rotate(45deg);
+}
+
+.settings-panel {
+  display: flex;
+  flex-wrap: wrap;
   gap: 8px;
   justify-content: center;
-  margin-bottom: 0px;
+  padding: 12px;
+  margin-top: 8px;
+  background: #131c30;
+  border: 1px solid #223049;
+  border-radius: 10px;
+}
+.settings-panel button {
+  margin-top: 0;
 }
 
 button {
@@ -35,6 +71,12 @@ button {
   border-radius: 4px;
   cursor: pointer;
   margin-top: 20px;
+}
+
+button:focus-visible,
+.icon-btn:focus-visible {
+  outline: 2px solid #4ade80;
+  outline-offset: 2px;
 }
 
 .pagination {

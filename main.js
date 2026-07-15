@@ -27,6 +27,8 @@ const toggleThaiBtn = document.getElementById("toggleThai");
 const toggleEnBtn = document.getElementById("toggleEn");
 const toggleScriptBtn = document.getElementById("toggleScript");
 const toggleExampleBtn = document.getElementById("toggleExample");
+const settingsBtn = document.getElementById("settingsBtn");
+const settingsPanel = document.getElementById("settingsPanel");
 
 function init() {
   let userStartDateStr = localStorage.getItem("ha_daily_start_date");
@@ -264,6 +266,24 @@ function setupEventListeners() {
     render();
     syncToggleLabels();
   };
+
+  // Settings panel: open/close via the gear, close on outside click or Escape.
+  const setPanelOpen = (open) => {
+    settingsPanel.hidden = !open;
+    settingsBtn.setAttribute("aria-expanded", String(open));
+  };
+  settingsBtn.onclick = (e) => {
+    e.stopPropagation();
+    setPanelOpen(settingsPanel.hidden);
+  };
+  document.addEventListener("click", (e) => {
+    if (!settingsPanel.hidden && !settingsPanel.contains(e.target)) {
+      setPanelOpen(false);
+    }
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") setPanelOpen(false);
+  });
 }
 
 init();
