@@ -87,6 +87,22 @@ body {
   border-color: #334155;
 }
 
+/* Full-width action below the toggle grid. */
+.reset-btn {
+  grid-column: 1 / -1;
+  margin-top: 4px;
+  padding: 9px 8px;
+  font-size: 0.82rem;
+  background: transparent;
+  color: #94a3b8;
+  border: 1px solid #334155;
+  border-radius: 6px;
+}
+.reset-btn:hover {
+  color: #e2e8f0;
+  border-color: #475569;
+}
+
 button {
   background: #1e293b;
   color: #cbd5e1;
