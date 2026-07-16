@@ -2,6 +2,14 @@
 
 **Ha-Daily** (from the Thai word Ha meaning Five) is a minimalist, installable Progressive Web App (PWA) built for the "slow and steady" language learner. It focuses on mastering the 1,000 most common Thai words (based on movie subtitles) by unlocking exactly 5 words per day with built-in review cycles.
 
+## 🔗 Live App
+**Use it now → https://carefulcamel61097.github.io/ha-daily/**
+
+It's an installable PWA — add it to your home screen to use it like a native app (it works offline once installed):
+* **iPhone / iPad (Safari):** tap **Share** → **Add to Home Screen**.
+* **Android (Chrome):** tap the **⋮** menu → **Install app** (or **Add to Home screen**).
+* **Desktop (Chrome / Edge):** click the **install** icon in the address bar.
+
 ## 🎯 The Philosophy
 Most language apps overwhelm users with infinite scrolling. Ha-Daily enforces a "drip-feed" methodology:
 * **Constraint:** You cannot binge-learn. You get 5 words today, and 5 new words at midnight.
@@ -25,7 +33,7 @@ Cache Storage API: Manages a self-cleaning audio cache for offline playback.
 
 # 🔊 Intelligent Audio Caching
 * **Offline Ready:** The app functions entirely without internet once the PWA is installed.
-* **Self-Cleaning:** To save device storage, the app flushes the audio cache every 24 hours and only downloads the 5 words needed for the current day.
+* **Smart Caching:** Audio is cached on demand by the service worker (Workbox, CacheFirst) with automatic expiry, so pronunciations stay available offline without unbounded storage growth.
 * **Cross-Platform:** Optimized Audio() handling to ensure compatibility with Safari's strict media policies on iPhone.
 
 # 🌗 Customizable Active Recall
