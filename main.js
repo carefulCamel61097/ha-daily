@@ -68,12 +68,14 @@ function init() {
 
 // Keep the toggle button labels in sync with the current (persisted) state,
 // so on load they reflect what's actually stored — not the hard-coded HTML.
+// Reflect each toggle's on/off state via aria-pressed (styled by CSS).
+// Labels are fixed in the HTML so button widths never change.
 function syncToggleLabels() {
-  toggleThaiBtn.textContent = showThai ? "Hide Thai" : "Show Thai";
-  toggleEnBtn.textContent = showEnglish ? "Hide English" : "Show English";
-  toggleScriptBtn.textContent = useRomanized ? "Use Script" : "Use Romanized";
+  toggleThaiBtn.setAttribute("aria-pressed", String(showThai));
+  toggleEnBtn.setAttribute("aria-pressed", String(showEnglish));
+  toggleScriptBtn.setAttribute("aria-pressed", String(useRomanized));
   if (toggleExampleBtn) {
-    toggleExampleBtn.textContent = showExamples ? "Hide Examples" : "Show Examples";
+    toggleExampleBtn.setAttribute("aria-pressed", String(showExamples));
   }
 }
 
