@@ -29,19 +29,32 @@ const toggleScriptBtn = document.getElementById("toggleScript");
 const toggleExampleBtn = document.getElementById("toggleExample");
 const settingsBtn = document.getElementById("settingsBtn");
 const settingsPanel = document.getElementById("settingsPanel");
+const resetBtn = document.getElementById("resetBtn");
+
+// Local midnight today, as an ISO string — the "Day 1" anchor.
+function startOfTodayISO() {
+  const now = new Date();
+  return new Date(now.getFullYear(), now.getMonth(), now.getDate()).toISOString();
+}
+
+// Reset progress so today becomes Day 1 (page 1). Display settings are kept.
+function resetProgress() {
+  const ok = window.confirm(
+    "Start over from Day 1?\n\nToday becomes your first day. Your display settings are kept.",
+  );
+  if (!ok) return;
+  localStorage.setItem("ha_daily_start_date", startOfTodayISO());
+  currentPage = 1;
+  render();
+  settingsPanel.hidden = true;
+  settingsBtn.setAttribute("aria-expanded", "false");
+}
 
 function init() {
   let userStartDateStr = localStorage.getItem("ha_daily_start_date");
 
   if (!userStartDateStr) {
-    // Set start date to TODAY at 00:00:00
-    const now = new Date();
-    const startOfToday = new Date(
-      now.getFullYear(),
-      now.getMonth(),
-      now.getDate(),
-    );
-    userStartDateStr = startOfToday.toISOString();
+    userStartDateStr = startOfTodayISO();
     localStorage.setItem("ha_daily_start_date", userStartDateStr);
   }
 
@@ -272,6 +285,8 @@ function setupEventListeners() {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") setPanelOpen(false);
   });
+
+  if (resetBtn) resetBtn.onclick = resetProgress;
 }
 
 init();
