@@ -15,7 +15,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       workbox: {
         // include the self-hosted fonts so the app renders correctly offline
-        globPatterns: ["**/*.{js,css,html,svg,woff2}"],
+        globPatterns: ["**/*.{js,css,html,svg,woff2,png}"],
         // Cache audio on demand (CacheFirst) with automatic expiry, instead of
         // a hand-rolled daily flush. Files are stored as they're fetched/played.
         runtimeCaching: [
@@ -42,10 +42,28 @@ export default defineConfig({
         display: "standalone",
         icons: [
           {
-            src: "icon.svg",
+            src: "pwa-192.png",
+            sizes: "192x192",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "pwa-512.png",
             sizes: "512x512",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "pwa-maskable-512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "maskable",
+          },
+          {
+            src: "icon.svg",
+            sizes: "any",
             type: "image/svg+xml",
-            purpose: "any maskable",
+            purpose: "any",
           },
         ],
       },
