@@ -151,21 +151,30 @@ function render() {
       wordListContainer.appendChild(enRow);
     }
 
-    // Example sentence (optional, dimmed) — shown only when present + enabled
+    // Example sentence (optional, dimmed). Each part mirrors its toggle so the
+    // example never reveals a side you've hidden: Thai (+romanization) only when
+    // Thai is shown, English only when English is shown.
     if (showExamples && word.example) {
       const ex = document.createElement("div");
       ex.className = "example";
-      const exThai = document.createElement("span");
-      exThai.className = "ex-thai";
-      exThai.textContent = word.example.thai;
-      const exRom = document.createElement("span");
-      exRom.className = "ex-rom";
-      exRom.textContent = word.example.rom;
-      const exEn = document.createElement("span");
-      exEn.className = "ex-en";
-      exEn.textContent = word.example.en;
-      ex.append(exThai, exRom, exEn);
-      wordListContainer.appendChild(ex);
+      if (showThai) {
+        const exThai = document.createElement("span");
+        exThai.className = "ex-thai";
+        exThai.textContent = word.example.thai;
+        const exRom = document.createElement("span");
+        exRom.className = "ex-rom";
+        exRom.textContent = word.example.rom;
+        ex.append(exThai, exRom);
+      }
+      if (showEnglish) {
+        const exEn = document.createElement("span");
+        exEn.className = "ex-en";
+        exEn.textContent = word.example.en;
+        ex.append(exEn);
+      }
+      if (ex.childElementCount > 0) {
+        wordListContainer.appendChild(ex);
+      }
     }
 
     // Divider
